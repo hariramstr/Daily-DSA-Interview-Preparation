@@ -1,0 +1,13 @@
+{
+  "title": "Meeting Rooms with Earliest Availability",
+  "slug": "meeting-rooms-with-earliest-availability",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "Heap",
+    "Priority Queue",
+    "Greedy",
+    "Simulation"
+  ],
+  "generatedAt": "2026-05-09T03:29:35.8875408+00:00"
+}
