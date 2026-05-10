@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Merge Stone Piles",
+  "slug": "minimum-cost-to-merge-stone-piles",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Interval DP",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-05-10T03:34:50.8500905+00:00"
+}
