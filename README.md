@@ -22,25 +22,37 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **1** | 0 | 1 | 0 |
+| **3** | 0 | 3 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Meeting Rooms with Earliest Availability](heaps-and-priority-queues/meeting-rooms-with-earliest-availability/) 🟡 Medium — *Heaps and Priority Queues*
+- [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) 🟡 Medium — *Dynamic Programming*
+- [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium — *Hashing*
+- [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) 🟡 Medium — *Two Pointers*
 
 ## 📋 All Problems
 
 | # | Problem | Topic | Difficulty | Languages |
 |:-:|---------|-------|:----------:|:---------:|
-| 1 | [Meeting Rooms with Earliest Availability](heaps-and-priority-queues/meeting-rooms-with-earliest-availability/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
+| 1 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 2 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 3 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
 > Click any problem title to open its folder with solutions and explanation.
 
-### Heaps and Priority Queues *(1 problem)*
+### Dynamic Programming *(1 problem)*
 
-- [Meeting Rooms with Earliest Availability](heaps-and-priority-queues/meeting-rooms-with-earliest-availability/) 🟡 Medium
+- [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) 🟡 Medium
+
+### Hashing *(1 problem)*
+
+- [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium
+
+### Two Pointers *(1 problem)*
+
+- [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) 🟡 Medium
 
 ---
 
@@ -54,4 +66,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-09 · 1 problems across 1 topics*
+*Last updated: 2026-05-10 · 3 problems across 3 topics*
