@@ -22,25 +22,34 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **3** | 0 | 3 | 0 |
+| **5** | 1 | 4 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) 🟡 Medium — *Dynamic Programming*
-- [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium — *Hashing*
-- [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) 🟡 Medium — *Two Pointers*
+- [Zigzag Array Reconstruction](arrays/zigzag-array-reconstruction/) 🟢 Easy — *Arrays*
+- [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) 🟡 Medium — *Bit Manipulation*
 
 ## 📋 All Problems
 
 | # | Problem | Topic | Difficulty | Languages |
 |:-:|---------|-------|:----------:|:---------:|
-| 1 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 2 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 3 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 1 | [Zigzag Array Reconstruction](arrays/zigzag-array-reconstruction/) | [Arrays](arrays/) | 🟢 Easy | C# · Python · Java |
+| 2 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 3 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 4 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 5 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
 > Click any problem title to open its folder with solutions and explanation.
+
+### Arrays *(1 problem)*
+
+- [Zigzag Array Reconstruction](arrays/zigzag-array-reconstruction/) 🟢 Easy
+
+### Bit Manipulation *(1 problem)*
+
+- [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) 🟡 Medium
 
 ### Dynamic Programming *(1 problem)*
 
@@ -66,4 +75,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-10 · 3 problems across 3 topics*
+*Last updated: 2026-05-11 · 5 problems across 5 topics*
