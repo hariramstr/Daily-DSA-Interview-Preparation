@@ -1,0 +1,12 @@
+{
+  "title": "Zigzag Array Reconstruction",
+  "slug": "zigzag-array-reconstruction",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "In-place"
+  ],
+  "generatedAt": "2026-05-11T16:51:15.9330657+00:00"
+}
