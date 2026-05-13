@@ -22,12 +22,11 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **5** | 1 | 4 | 0 |
+| **6** | 2 | 4 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Zigzag Array Reconstruction](arrays/zigzag-array-reconstruction/) 🟢 Easy — *Arrays*
-- [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) 🟡 Medium — *Bit Manipulation*
+- [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy — *Stacks and Queues*
 
 ## 📋 All Problems
 
@@ -37,7 +36,8 @@ Each problem folder contains:
 | 2 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
 | 3 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
 | 4 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 5 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 5 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 6 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -59,6 +59,10 @@ Each problem folder contains:
 
 - [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium
 
+### Stacks and Queues *(1 problem)*
+
+- [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy
+
 ### Two Pointers *(1 problem)*
 
 - [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) 🟡 Medium
@@ -75,4 +79,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-11 · 5 problems across 5 topics*
+*Last updated: 2026-05-13 · 6 problems across 6 topics*
