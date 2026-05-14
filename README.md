@@ -22,22 +22,27 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **6** | 2 | 4 | 0 |
+| **10** | 3 | 7 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy — *Stacks and Queues*
+- [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) 🟡 Medium — *Sliding Window*
+- [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) 🟡 Medium — *Recursion and Backtracking*
 
 ## 📋 All Problems
 
 | # | Problem | Topic | Difficulty | Languages |
 |:-:|---------|-------|:----------:|:---------:|
 | 1 | [Zigzag Array Reconstruction](arrays/zigzag-array-reconstruction/) | [Arrays](arrays/) | 🟢 Easy | C# · Python · Java |
-| 2 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 3 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 4 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 5 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 6 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 2 | [Minimum Days to Deliver All Packages](binary-search/minimum-days-to-deliver-all-packages/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 3 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 4 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 5 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 6 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
+| 7 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 8 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 9 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 10 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -46,6 +51,10 @@ Each problem folder contains:
 ### Arrays *(1 problem)*
 
 - [Zigzag Array Reconstruction](arrays/zigzag-array-reconstruction/) 🟢 Easy
+
+### Binary Search *(1 problem)*
+
+- [Minimum Days to Deliver All Packages](binary-search/minimum-days-to-deliver-all-packages/) 🟡 Medium
 
 ### Bit Manipulation *(1 problem)*
 
@@ -58,6 +67,18 @@ Each problem folder contains:
 ### Hashing *(1 problem)*
 
 - [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium
+
+### Heaps and Priority Queues *(1 problem)*
+
+- [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) 🟢 Easy
+
+### Recursion and Backtracking *(1 problem)*
+
+- [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) 🟡 Medium
+
+### Sliding Window *(1 problem)*
+
+- [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) 🟡 Medium
 
 ### Stacks and Queues *(1 problem)*
 
@@ -79,4 +100,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-13 · 6 problems across 6 topics*
+*Last updated: 2026-05-14 · 10 problems across 10 topics*
