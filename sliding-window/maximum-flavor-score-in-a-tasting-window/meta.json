@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Flavor Score in a Tasting Window",
+  "slug": "maximum-flavor-score-in-a-tasting-window",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Deque",
+    "Array"
+  ],
+  "generatedAt": "2026-05-14T12:38:15.6912132+00:00"
+}
