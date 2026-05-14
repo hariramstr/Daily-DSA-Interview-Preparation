@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Days to Deliver All Packages",
+  "slug": "minimum-days-to-deliver-all-packages",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Prefix Sum",
+    "Arrays"
+  ],
+  "generatedAt": "2026-05-14T11:46:55.9504708+00:00"
+}
