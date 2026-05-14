@@ -1,0 +1,13 @@
+{
+  "title": "Tile the Grid with L-Shaped Trominoes",
+  "slug": "tile-the-grid-with-l-shaped-trominoes",
+  "topic": "Recursion and Backtracking",
+  "difficulty": "Medium",
+  "tags": [
+    "Backtracking",
+    "Recursion",
+    "Grid",
+    "Combinatorics"
+  ],
+  "generatedAt": "2026-05-14T12:38:25.0696756+00:00"
+}
