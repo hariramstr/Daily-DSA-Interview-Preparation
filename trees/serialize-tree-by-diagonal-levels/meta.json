@@ -1,0 +1,13 @@
+{
+  "title": "Serialize Tree by Diagonal Levels",
+  "slug": "serialize-tree-by-diagonal-levels",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Tree Traversal",
+    "BFS",
+    "Diagonal Grouping",
+    "Greedy"
+  ],
+  "generatedAt": "2026-05-15T18:11:32.6878027+00:00"
+}
