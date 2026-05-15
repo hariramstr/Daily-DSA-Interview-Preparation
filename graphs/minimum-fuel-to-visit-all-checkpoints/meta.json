@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Fuel to Visit All Checkpoints",
+  "slug": "minimum-fuel-to-visit-all-checkpoints",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Dijkstra",
+    "Bitmask DP",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-05-15T16:43:08.3381109+00:00"
+}
