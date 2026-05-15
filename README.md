@@ -22,11 +22,13 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **15** | 5 | 10 | 0 |
+| **18** | 5 | 12 | 1 |
 
 ## 🆕 Latest Problems
 
-- [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) 🟡 Medium — *Prefix Sum*
+- [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) 🟡 Medium — *Two Pointers*
+- [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) 🟡 Medium — *Heaps and Priority Queues*
+- [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) 🔴 Hard — *Trees*
 
 ## 📋 All Problems
 
@@ -39,14 +41,17 @@ Each problem folder contains:
 | 5 | [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
 | 6 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
 | 7 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
-| 8 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 9 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 10 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 11 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 12 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 13 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 14 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 15 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 8 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
+| 9 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 10 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 11 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 12 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 13 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 14 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 15 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 16 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 17 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 18 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -76,8 +81,9 @@ Each problem folder contains:
 
 - [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium
 
-### Heaps and Priority Queues *(1 problem)*
+### Heaps and Priority Queues *(2 problems)*
 
+- [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) 🟡 Medium
 - [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) 🟢 Easy
 
 ### Linked Lists *(1 problem)*
@@ -100,16 +106,18 @@ Each problem folder contains:
 
 - [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy
 
-### Trees *(1 problem)*
+### Trees *(2 problems)*
 
+- [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) 🔴 Hard
 - [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) 🟢 Easy
 
 ### Tries *(1 problem)*
 
 - [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) 🟡 Medium
 
-### Two Pointers *(1 problem)*
+### Two Pointers *(2 problems)*
 
+- [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) 🟡 Medium
 - [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) 🟡 Medium
 
 ---
@@ -124,4 +132,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-15 · 15 problems across 15 topics*
+*Last updated: 2026-05-15 · 18 problems across 15 topics*
