@@ -1,0 +1,12 @@
+{
+  "title": "Contact List Prefix Search with Wildcards",
+  "slug": "contact-list-prefix-search-with-wildcards",
+  "topic": "Tries",
+  "difficulty": "Medium",
+  "tags": [
+    "Trie",
+    "String Matching",
+    "Depth-First Search"
+  ],
+  "generatedAt": "2026-05-15T16:08:37.6181736+00:00"
+}
