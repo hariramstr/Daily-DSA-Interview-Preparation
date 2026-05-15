@@ -1,0 +1,12 @@
+{
+  "title": "Equal Weight Partition Splits",
+  "slug": "equal-weight-partition-splits",
+  "topic": "Prefix Sum",
+  "difficulty": "Medium",
+  "tags": [
+    "Prefix Sum",
+    "Array",
+    "Counting"
+  ],
+  "generatedAt": "2026-05-15T17:13:59.883109+00:00"
+}
