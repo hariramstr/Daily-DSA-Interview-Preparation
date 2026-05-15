@@ -1,0 +1,13 @@
+{
+  "title": "Task Scheduler with Cooldown and Priority",
+  "slug": "task-scheduler-with-cooldown-and-priority",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "Heap",
+    "Priority Queue",
+    "Greedy",
+    "Simulation"
+  ],
+  "generatedAt": "2026-05-15T18:11:21.7998434+00:00"
+}
