@@ -1,0 +1,12 @@
+{
+  "title": "Pair Sum Closest to Target After Removing One Element",
+  "slug": "pair-sum-closest-to-target-after-removing-one-element",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Array",
+    "Greedy"
+  ],
+  "generatedAt": "2026-05-15T18:11:10.459242+00:00"
+}
