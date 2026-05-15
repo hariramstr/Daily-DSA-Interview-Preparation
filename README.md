@@ -22,12 +22,12 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **10** | 3 | 7 | 0 |
+| **12** | 4 | 8 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) 🟡 Medium — *Sliding Window*
-- [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) 🟡 Medium — *Recursion and Backtracking*
+- [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) 🟡 Medium — *Tries*
+- [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) 🟢 Easy — *Linked Lists*
 
 ## 📋 All Problems
 
@@ -39,10 +39,12 @@ Each problem folder contains:
 | 4 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
 | 5 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
 | 6 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
-| 7 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 8 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 9 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 10 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 7 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 8 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 9 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 10 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 11 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 12 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -72,6 +74,10 @@ Each problem folder contains:
 
 - [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) 🟢 Easy
 
+### Linked Lists *(1 problem)*
+
+- [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) 🟢 Easy
+
 ### Recursion and Backtracking *(1 problem)*
 
 - [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) 🟡 Medium
@@ -83,6 +89,10 @@ Each problem folder contains:
 ### Stacks and Queues *(1 problem)*
 
 - [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy
+
+### Tries *(1 problem)*
+
+- [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) 🟡 Medium
 
 ### Two Pointers *(1 problem)*
 
@@ -100,4 +110,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-14 · 10 problems across 10 topics*
+*Last updated: 2026-05-15 · 12 problems across 12 topics*
