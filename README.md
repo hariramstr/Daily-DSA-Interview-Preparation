@@ -22,12 +22,11 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **14** | 5 | 9 | 0 |
+| **15** | 5 | 10 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) 🟢 Easy — *Trees*
-- [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) 🟡 Medium — *Graphs*
+- [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) 🟡 Medium — *Prefix Sum*
 
 ## 📋 All Problems
 
@@ -41,12 +40,13 @@ Each problem folder contains:
 | 6 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
 | 7 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
 | 8 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 9 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 10 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 11 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 12 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 13 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 14 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 9 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 10 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 11 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 12 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 13 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 14 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 15 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -84,6 +84,10 @@ Each problem folder contains:
 
 - [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) 🟢 Easy
 
+### Prefix Sum *(1 problem)*
+
+- [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) 🟡 Medium
+
 ### Recursion and Backtracking *(1 problem)*
 
 - [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) 🟡 Medium
@@ -120,4 +124,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-15 · 14 problems across 14 topics*
+*Last updated: 2026-05-15 · 15 problems across 15 topics*
