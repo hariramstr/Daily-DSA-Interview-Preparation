@@ -22,12 +22,12 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **12** | 4 | 8 | 0 |
+| **14** | 5 | 9 | 0 |
 
 ## 🆕 Latest Problems
 
-- [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) 🟡 Medium — *Tries*
-- [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) 🟢 Easy — *Linked Lists*
+- [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) 🟢 Easy — *Trees*
+- [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) 🟡 Medium — *Graphs*
 
 ## 📋 All Problems
 
@@ -37,14 +37,16 @@ Each problem folder contains:
 | 2 | [Minimum Days to Deliver All Packages](binary-search/minimum-days-to-deliver-all-packages/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
 | 3 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
 | 4 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 5 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 6 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
-| 7 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 8 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 9 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 10 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 11 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 12 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 5 | [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 6 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 7 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
+| 8 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 9 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 10 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 11 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 12 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 13 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 14 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -65,6 +67,10 @@ Each problem folder contains:
 ### Dynamic Programming *(1 problem)*
 
 - [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) 🟡 Medium
+
+### Graphs *(1 problem)*
+
+- [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) 🟡 Medium
 
 ### Hashing *(1 problem)*
 
@@ -90,6 +96,10 @@ Each problem folder contains:
 
 - [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy
 
+### Trees *(1 problem)*
+
+- [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) 🟢 Easy
+
 ### Tries *(1 problem)*
 
 - [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) 🟡 Medium
@@ -110,4 +120,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-15 · 12 problems across 12 topics*
+*Last updated: 2026-05-15 · 14 problems across 14 topics*
