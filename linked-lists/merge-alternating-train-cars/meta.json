@@ -1,0 +1,12 @@
+{
+  "title": "Merge Alternating Train Cars",
+  "slug": "merge-alternating-train-cars",
+  "topic": "Linked Lists",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked Lists",
+    "Two Pointers",
+    "In-Place Manipulation"
+  ],
+  "generatedAt": "2026-05-15T16:08:45.8449113+00:00"
+}
