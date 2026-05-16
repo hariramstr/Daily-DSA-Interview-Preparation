@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Unique Colors in Every Window",
+  "slug": "minimum-unique-colors-in-every-window",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Array"
+  ],
+  "generatedAt": "2026-05-16T07:32:26.5075417+00:00"
+}
