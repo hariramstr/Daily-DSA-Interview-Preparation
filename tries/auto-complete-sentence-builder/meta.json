@@ -1,0 +1,12 @@
+{
+  "title": "Auto-Complete Sentence Builder",
+  "slug": "auto-complete-sentence-builder",
+  "topic": "Tries",
+  "difficulty": "Easy",
+  "tags": [
+    "Trie",
+    "String",
+    "Prefix Matching"
+  ],
+  "generatedAt": "2026-05-16T07:32:35.4357217+00:00"
+}
