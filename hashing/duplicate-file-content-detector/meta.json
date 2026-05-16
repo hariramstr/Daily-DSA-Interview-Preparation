@@ -1,0 +1,12 @@
+{
+  "title": "Duplicate File Content Detector",
+  "slug": "duplicate-file-content-detector",
+  "topic": "Hashing",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Map",
+    "String Parsing",
+    "Array Grouping"
+  ],
+  "generatedAt": "2026-05-16T07:32:17.7326355+00:00"
+}
