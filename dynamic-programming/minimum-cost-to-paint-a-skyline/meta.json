@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Paint a Skyline",
+  "slug": "minimum-cost-to-paint-a-skyline",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Matrix DP",
+    "Graph Transitions"
+  ],
+  "generatedAt": "2026-05-17T19:00:28.4302058+00:00"
+}
