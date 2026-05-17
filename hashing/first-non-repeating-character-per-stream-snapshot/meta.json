@@ -1,0 +1,12 @@
+{
+  "title": "First Non-Repeating Character Per Stream Snapshot",
+  "slug": "first-non-repeating-character-per-stream-snapshot",
+  "topic": "Hashing",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Map",
+    "Queue",
+    "String"
+  ],
+  "generatedAt": "2026-05-17T19:00:37.3106593+00:00"
+}
