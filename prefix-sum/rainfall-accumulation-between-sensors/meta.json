@@ -1,0 +1,12 @@
+{
+  "title": "Rainfall Accumulation Between Sensors",
+  "slug": "rainfall-accumulation-between-sensors",
+  "topic": "Prefix Sum",
+  "difficulty": "Medium",
+  "tags": [
+    "Prefix Sum",
+    "Array",
+    "Brute Force Optimization"
+  ],
+  "generatedAt": "2026-05-17T16:23:38.3092565+00:00"
+}
