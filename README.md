@@ -22,12 +22,12 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **23** | 7 | 15 | 1 |
+| **25** | 8 | 15 | 2 |
 
 ## 🆕 Latest Problems
 
-- [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) 🟡 Medium — *Stacks and Queues*
-- [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) 🟡 Medium — *Prefix Sum*
+- [Minimum Cost to Paint a Skyline](dynamic-programming/minimum-cost-to-paint-a-skyline/) 🔴 Hard — *Dynamic Programming*
+- [First Non-Repeating Character Per Stream Snapshot](hashing/first-non-repeating-character-per-stream-snapshot/) 🟢 Easy — *Hashing*
 
 ## 📋 All Problems
 
@@ -37,25 +37,27 @@ Each problem folder contains:
 | 2 | [Minimum Days to Deliver All Packages](binary-search/minimum-days-to-deliver-all-packages/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
 | 3 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
 | 4 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 5 | [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
-| 6 | [Duplicate File Content Detector](hashing/duplicate-file-content-detector/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
-| 7 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 8 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
-| 9 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
-| 10 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 11 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 12 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 13 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 14 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 15 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 16 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 17 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 18 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 19 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 20 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
-| 21 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 22 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 23 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 5 | [Minimum Cost to Paint a Skyline](dynamic-programming/minimum-cost-to-paint-a-skyline/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
+| 6 | [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 7 | [Duplicate File Content Detector](hashing/duplicate-file-content-detector/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
+| 8 | [First Non-Repeating Character Per Stream Snapshot](hashing/first-non-repeating-character-per-stream-snapshot/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
+| 9 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 10 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
+| 11 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
+| 12 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 13 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 14 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 15 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 16 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 17 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 18 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 19 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 20 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 21 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 22 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
+| 23 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 24 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 25 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -73,16 +75,18 @@ Each problem folder contains:
 
 - [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) 🟡 Medium
 
-### Dynamic Programming *(1 problem)*
+### Dynamic Programming *(2 problems)*
 
+- [Minimum Cost to Paint a Skyline](dynamic-programming/minimum-cost-to-paint-a-skyline/) 🔴 Hard
 - [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) 🟡 Medium
 
 ### Graphs *(1 problem)*
 
 - [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) 🟡 Medium
 
-### Hashing *(2 problems)*
+### Hashing *(3 problems)*
 
+- [First Non-Repeating Character Per Stream Snapshot](hashing/first-non-repeating-character-per-stream-snapshot/) 🟢 Easy
 - [Duplicate File Content Detector](hashing/duplicate-file-content-detector/) 🟢 Easy
 - [Frequency Signature Grouping](hashing/frequency-signature-grouping/) 🟡 Medium
 
@@ -141,4 +145,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-17 · 23 problems across 15 topics*
+*Last updated: 2026-05-17 · 25 problems across 15 topics*
