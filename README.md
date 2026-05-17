@@ -22,13 +22,12 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **21** | 7 | 13 | 1 |
+| **23** | 7 | 15 | 1 |
 
 ## 🆕 Latest Problems
 
-- [Duplicate File Content Detector](hashing/duplicate-file-content-detector/) 🟢 Easy — *Hashing*
-- [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) 🟡 Medium — *Sliding Window*
-- [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) 🟢 Easy — *Tries*
+- [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) 🟡 Medium — *Stacks and Queues*
+- [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) 🟡 Medium — *Prefix Sum*
 
 ## 📋 All Problems
 
@@ -45,16 +44,18 @@ Each problem folder contains:
 | 9 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
 | 10 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
 | 11 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 12 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 13 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 14 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 15 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 16 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 17 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 18 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
-| 19 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 20 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 21 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 12 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 13 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 14 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 15 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 16 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 17 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 18 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 19 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 20 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
+| 21 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 22 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 23 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -94,8 +95,9 @@ Each problem folder contains:
 
 - [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) 🟢 Easy
 
-### Prefix Sum *(1 problem)*
+### Prefix Sum *(2 problems)*
 
+- [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) 🟡 Medium
 - [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) 🟡 Medium
 
 ### Recursion and Backtracking *(1 problem)*
@@ -107,8 +109,9 @@ Each problem folder contains:
 - [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) 🟡 Medium
 - [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) 🟡 Medium
 
-### Stacks and Queues *(1 problem)*
+### Stacks and Queues *(2 problems)*
 
+- [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) 🟡 Medium
 - [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) 🟢 Easy
 
 ### Trees *(2 problems)*
@@ -138,4 +141,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-16 · 21 problems across 15 topics*
+*Last updated: 2026-05-17 · 23 problems across 15 topics*
