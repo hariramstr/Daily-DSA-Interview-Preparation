@@ -1,0 +1,12 @@
+{
+  "title": "Employee Shift Overlap Detector",
+  "slug": "employee-shift-overlap-detector",
+  "topic": "Hashing",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Map",
+    "Interval Overlap",
+    "String Parsing"
+  ],
+  "generatedAt": "2026-05-18T19:00:40.1317485+00:00"
+}
