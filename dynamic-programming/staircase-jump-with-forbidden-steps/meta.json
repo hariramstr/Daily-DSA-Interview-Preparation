@@ -1,0 +1,12 @@
+{
+  "title": "Staircase Jump with Forbidden Steps",
+  "slug": "staircase-jump-with-forbidden-steps",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "Dynamic Programming",
+    "Memoization",
+    "Fibonacci Variant"
+  ],
+  "generatedAt": "2026-05-18T19:00:30.1037661+00:00"
+}
