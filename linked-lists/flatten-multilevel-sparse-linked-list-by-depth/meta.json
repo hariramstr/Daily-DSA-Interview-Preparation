@@ -1,0 +1,12 @@
+{
+  "title": "Flatten a Multilevel Sparse Linked List by Depth",
+  "slug": "flatten-multilevel-sparse-linked-list-by-depth",
+  "topic": "Linked Lists",
+  "difficulty": "Hard",
+  "tags": [
+    "Linked Lists",
+    "Breadth-First Search",
+    "Multilevel Structure"
+  ],
+  "generatedAt": "2026-05-18T19:00:50.4963565+00:00"
+}
