@@ -22,13 +22,11 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **28** | 10 | 15 | 3 |
+| **29** | 10 | 15 | 4 |
 
 ## 🆕 Latest Problems
 
-- [Staircase Jump with Forbidden Steps](dynamic-programming/staircase-jump-with-forbidden-steps/) 🟢 Easy — *Dynamic Programming*
-- [Employee Shift Overlap Detector](hashing/employee-shift-overlap-detector/) 🟢 Easy — *Hashing*
-- [Flatten a Multilevel Sparse Linked List by Depth](linked-lists/flatten-multilevel-sparse-linked-list-by-depth/) 🔴 Hard — *Linked Lists*
+- [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) 🔴 Hard — *Linked Lists*
 
 ## 📋 All Problems
 
@@ -48,20 +46,21 @@ Each problem folder contains:
 | 12 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
 | 13 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
 | 14 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 15 | [Flatten a Multilevel Sparse Linked List by Depth](linked-lists/flatten-multilevel-sparse-linked-list-by-depth/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
-| 16 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 17 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 18 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 19 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 20 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 21 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 22 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 23 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 24 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 25 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
-| 26 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 27 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 28 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 15 | [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 16 | [Flatten a Multilevel Sparse Linked List by Depth](linked-lists/flatten-multilevel-sparse-linked-list-by-depth/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 17 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 18 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 19 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 20 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 21 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 22 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 23 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 24 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 25 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 26 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
+| 27 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 28 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 29 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -101,8 +100,9 @@ Each problem folder contains:
 - [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) 🟡 Medium
 - [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) 🟢 Easy
 
-### Linked Lists *(2 problems)*
+### Linked Lists *(3 problems)*
 
+- [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) 🔴 Hard
 - [Flatten a Multilevel Sparse Linked List by Depth](linked-lists/flatten-multilevel-sparse-linked-list-by-depth/) 🔴 Hard
 - [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) 🟢 Easy
 
@@ -152,4 +152,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-18 · 28 problems across 15 topics*
+*Last updated: 2026-05-19 · 29 problems across 15 topics*
