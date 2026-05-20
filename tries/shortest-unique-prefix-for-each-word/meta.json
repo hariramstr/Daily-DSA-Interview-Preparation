@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Unique Prefix for Each Word",
+  "slug": "shortest-unique-prefix-for-each-word",
+  "topic": "Tries",
+  "difficulty": "Medium",
+  "tags": [
+    "Trie",
+    "Hash Map",
+    "String"
+  ],
+  "generatedAt": "2026-05-20T19:00:24.8080654+00:00"
+}
