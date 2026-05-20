@@ -22,11 +22,11 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **29** | 10 | 15 | 4 |
+| **30** | 10 | 16 | 4 |
 
 ## 🆕 Latest Problems
 
-- [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) 🔴 Hard — *Linked Lists*
+- [Shortest Unique Prefix for Each Word](tries/shortest-unique-prefix-for-each-word/) 🟡 Medium — *Tries*
 
 ## 📋 All Problems
 
@@ -59,8 +59,9 @@ Each problem folder contains:
 | 25 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
 | 26 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
 | 27 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 28 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 29 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 28 | [Shortest Unique Prefix for Each Word](tries/shortest-unique-prefix-for-each-word/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 29 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 30 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -130,8 +131,9 @@ Each problem folder contains:
 - [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) 🔴 Hard
 - [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) 🟢 Easy
 
-### Tries *(2 problems)*
+### Tries *(3 problems)*
 
+- [Shortest Unique Prefix for Each Word](tries/shortest-unique-prefix-for-each-word/) 🟡 Medium
 - [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) 🟢 Easy
 - [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) 🟡 Medium
 
@@ -152,4 +154,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-19 · 29 problems across 15 topics*
+*Last updated: 2026-05-20 · 30 problems across 15 topics*
