@@ -1,0 +1,12 @@
+{
+  "title": "Merge K Sorted Linked Lists with Weighted Priority",
+  "slug": "merge-k-sorted-linked-lists-weighted-priority",
+  "topic": "Linked Lists",
+  "difficulty": "Hard",
+  "tags": [
+    "Linked Lists",
+    "Priority Queue",
+    "Merge Sort"
+  ],
+  "generatedAt": "2026-05-21T19:00:47.6359543+00:00"
+}
