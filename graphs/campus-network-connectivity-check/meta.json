@@ -1,0 +1,13 @@
+{
+  "title": "Campus Network Connectivity Check",
+  "slug": "campus-network-connectivity-check",
+  "topic": "Graphs",
+  "difficulty": "Easy",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Union-Find",
+    "Connected Components"
+  ],
+  "generatedAt": "2026-05-21T19:00:24.3415205+00:00"
+}
