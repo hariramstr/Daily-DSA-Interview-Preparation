@@ -1,0 +1,14 @@
+{
+  "title": "Inbox Message Thread Flattener",
+  "slug": "inbox-message-thread-flattener",
+  "topic": "Stacks and Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "Queue",
+    "BFS",
+    "Tree",
+    "Hash Map",
+    "Simulation"
+  ],
+  "generatedAt": "2026-05-21T19:01:00.6078675+00:00"
+}
