@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Time to Spread Information Across Teams",
+  "slug": "minimum-time-to-spread-information-across-teams",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Topological Sort",
+    "Shortest Path",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-05-22T19:00:34.0593+00:00"
+}
