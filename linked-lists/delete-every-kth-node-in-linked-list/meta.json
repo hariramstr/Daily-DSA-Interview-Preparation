@@ -1,0 +1,12 @@
+{
+  "title": "Delete Every K-th Node in a Linked List",
+  "slug": "delete-every-kth-node-in-linked-list",
+  "topic": "Linked Lists",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked Lists",
+    "Two Pointers",
+    "In-place Modification"
+  ],
+  "generatedAt": "2026-05-22T19:00:43.1287835+00:00"
+}
