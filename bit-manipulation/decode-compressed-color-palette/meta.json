@@ -1,0 +1,12 @@
+{
+  "title": "Decode Compressed Color Palette",
+  "slug": "decode-compressed-color-palette",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Bitmask",
+    "Array"
+  ],
+  "generatedAt": "2026-05-24T19:00:31.6782635+00:00"
+}
