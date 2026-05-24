@@ -1,0 +1,12 @@
+{
+  "title": "Friend Circle Size Finder",
+  "slug": "friend-circle-size-finder",
+  "topic": "Graphs",
+  "difficulty": "Easy",
+  "tags": [
+    "Union-Find",
+    "BFS",
+    "Connected Components"
+  ],
+  "generatedAt": "2026-05-24T19:00:20.046904+00:00"
+}
