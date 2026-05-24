@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Bandwidth Allocation for K Data Streams",
+  "slug": "minimum-bandwidth-allocation-for-k-data-streams",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-05-24T19:00:41.1798088+00:00"
+}
