@@ -22,13 +22,13 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **44** | 14 | 22 | 8 |
+| **47** | 15 | 23 | 9 |
 
 ## 🆕 Latest Problems
 
-- [Friend Circle Size Finder](graphs/friend-circle-size-finder/) 🟢 Easy — *Graphs*
-- [Decode Compressed Color Palette](bit-manipulation/decode-compressed-color-palette/) 🟡 Medium — *Bit Manipulation*
-- [Minimum Bandwidth Allocation for K Data Streams](binary-search/minimum-bandwidth-allocation-for-k-data-streams/) 🔴 Hard — *Binary Search*
+- [Lonely Pixel in a Binary Grid](bit-manipulation/lonely-pixel-in-a-binary-grid/) 🟢 Easy — *Bit Manipulation*
+- [Interleave Linked Lists by Prime and Composite Positions](linked-lists/interleave-linked-lists-by-prime-and-composite-positions/) 🔴 Hard — *Linked Lists*
+- [Shortest Path Through Restricted Zones](graphs/shortest-path-through-restricted-zones/) 🟡 Medium — *Graphs*
 
 ## 📋 All Problems
 
@@ -39,45 +39,48 @@ Each problem folder contains:
 | 3 | [Minimum Pages Per Day to Finish All Books](binary-search/minimum-pages-per-day-to-finish-all-books/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
 | 4 | [Minimum Bandwidth Allocation for K Data Streams](binary-search/minimum-bandwidth-allocation-for-k-data-streams/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
 | 5 | [Minimum Maximum Distance Between Placed Towers](binary-search/minimum-maximum-distance-between-placed-towers/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
-| 6 | [Decode Compressed Color Palette](bit-manipulation/decode-compressed-color-palette/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 7 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 8 | [Staircase Jump with Forbidden Steps](dynamic-programming/staircase-jump-with-forbidden-steps/) | [Dynamic Programming](dynamic-programming/) | 🟢 Easy | C# · Python · Java |
-| 9 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 10 | [Minimum Cost to Paint a Skyline](dynamic-programming/minimum-cost-to-paint-a-skyline/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
-| 11 | [Campus Network Connectivity Check](graphs/campus-network-connectivity-check/) | [Graphs](graphs/) | 🟢 Easy | C# · Python · Java |
-| 12 | [Friend Circle Size Finder](graphs/friend-circle-size-finder/) | [Graphs](graphs/) | 🟢 Easy | C# · Python · Java |
-| 13 | [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
-| 14 | [Minimum Time to Spread Information Across Teams](graphs/minimum-time-to-spread-information-across-teams/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
-| 15 | [Duplicate File Content Detector](hashing/duplicate-file-content-detector/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
-| 16 | [Employee Shift Overlap Detector](hashing/employee-shift-overlap-detector/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
-| 17 | [First Non-Repeating Character Per Stream Snapshot](hashing/first-non-repeating-character-per-stream-snapshot/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
-| 18 | [Playlist Song Popularity Tracker](hashing/playlist-song-popularity-tracker/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
-| 19 | [Anagram Group Reunion](hashing/anagram-group-reunion/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 20 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 21 | [Longest Subarray With Equal Symbol Frequencies](hashing/longest-subarray-with-equal-symbol-frequencies/) | [Hashing](hashing/) | 🔴 Hard | C# · Python · Java |
-| 22 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
-| 23 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
-| 24 | [Delete Every K-th Node in a Linked List](linked-lists/delete-every-kth-node-in-linked-list/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 25 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 26 | [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
-| 27 | [Flatten a Multilevel Sparse Linked List by Depth](linked-lists/flatten-multilevel-sparse-linked-list-by-depth/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
-| 28 | [Merge K Sorted Linked Lists with Weighted Priority](linked-lists/merge-k-sorted-linked-lists-weighted-priority/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
-| 29 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 30 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
-| 31 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 32 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 33 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 34 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 35 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 36 | [Inbox Message Thread Flattener](stacks-and-queues/inbox-message-thread-flattener/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 37 | [Stock Price Span with Weighted Influence](stacks-and-queues/stock-price-span-with-weighted-influence/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 38 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 39 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 40 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
-| 41 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 42 | [Shortest Unique Prefix for Each Word](tries/shortest-unique-prefix-for-each-word/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 43 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 44 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 6 | [Lonely Pixel in a Binary Grid](bit-manipulation/lonely-pixel-in-a-binary-grid/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
+| 7 | [Decode Compressed Color Palette](bit-manipulation/decode-compressed-color-palette/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 8 | [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 9 | [Staircase Jump with Forbidden Steps](dynamic-programming/staircase-jump-with-forbidden-steps/) | [Dynamic Programming](dynamic-programming/) | 🟢 Easy | C# · Python · Java |
+| 10 | [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 11 | [Minimum Cost to Paint a Skyline](dynamic-programming/minimum-cost-to-paint-a-skyline/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
+| 12 | [Campus Network Connectivity Check](graphs/campus-network-connectivity-check/) | [Graphs](graphs/) | 🟢 Easy | C# · Python · Java |
+| 13 | [Friend Circle Size Finder](graphs/friend-circle-size-finder/) | [Graphs](graphs/) | 🟢 Easy | C# · Python · Java |
+| 14 | [Minimum Fuel to Visit All Checkpoints](graphs/minimum-fuel-to-visit-all-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 15 | [Minimum Time to Spread Information Across Teams](graphs/minimum-time-to-spread-information-across-teams/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 16 | [Shortest Path Through Restricted Zones](graphs/shortest-path-through-restricted-zones/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 17 | [Duplicate File Content Detector](hashing/duplicate-file-content-detector/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
+| 18 | [Employee Shift Overlap Detector](hashing/employee-shift-overlap-detector/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
+| 19 | [First Non-Repeating Character Per Stream Snapshot](hashing/first-non-repeating-character-per-stream-snapshot/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
+| 20 | [Playlist Song Popularity Tracker](hashing/playlist-song-popularity-tracker/) | [Hashing](hashing/) | 🟢 Easy | C# · Python · Java |
+| 21 | [Anagram Group Reunion](hashing/anagram-group-reunion/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 22 | [Frequency Signature Grouping](hashing/frequency-signature-grouping/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 23 | [Longest Subarray With Equal Symbol Frequencies](hashing/longest-subarray-with-equal-symbol-frequencies/) | [Hashing](hashing/) | 🔴 Hard | C# · Python · Java |
+| 24 | [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟢 Easy | C# · Python · Java |
+| 25 | [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🟡 Medium | C# · Python · Java |
+| 26 | [Delete Every K-th Node in a Linked List](linked-lists/delete-every-kth-node-in-linked-list/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 27 | [Merge Alternating Train Cars](linked-lists/merge-alternating-train-cars/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 28 | [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 29 | [Flatten a Multilevel Sparse Linked List by Depth](linked-lists/flatten-multilevel-sparse-linked-list-by-depth/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 30 | [Interleave Linked Lists by Prime and Composite Positions](linked-lists/interleave-linked-lists-by-prime-and-composite-positions/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 31 | [Merge K Sorted Linked Lists with Weighted Priority](linked-lists/merge-k-sorted-linked-lists-weighted-priority/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 32 | [Equal Weight Partition Splits](prefix-sum/equal-weight-partition-splits/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 33 | [Rainfall Accumulation Between Sensors](prefix-sum/rainfall-accumulation-between-sensors/) | [Prefix Sum](prefix-sum/) | 🟡 Medium | C# · Python · Java |
+| 34 | [Tile the Grid with L-Shaped Trominoes](recursion-and-backtracking/tile-the-grid-with-l-shaped-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 35 | [Maximum Flavor Score in a Tasting Window](sliding-window/maximum-flavor-score-in-a-tasting-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 36 | [Minimum Unique Colors in Every Window](sliding-window/minimum-unique-colors-in-every-window/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 37 | [Cafeteria Tray Stack Simulator](stacks-and-queues/cafeteria-tray-stack-simulator/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 38 | [Buildings With Sunset Views](stacks-and-queues/buildings-with-sunset-views/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 39 | [Inbox Message Thread Flattener](stacks-and-queues/inbox-message-thread-flattener/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 40 | [Stock Price Span with Weighted Influence](stacks-and-queues/stock-price-span-with-weighted-influence/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 41 | [Cousin Nodes at Same Depth](trees/cousin-nodes-at-same-depth/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 42 | [Serialize Tree by Diagonal Levels](trees/serialize-tree-by-diagonal-levels/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 43 | [Auto-Complete Sentence Builder](tries/auto-complete-sentence-builder/) | [Tries](tries/) | 🟢 Easy | C# · Python · Java |
+| 44 | [Contact List Prefix Search with Wildcards](tries/contact-list-prefix-search-with-wildcards/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 45 | [Shortest Unique Prefix for Each Word](tries/shortest-unique-prefix-for-each-word/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 46 | [Balancing Bracket Distances](two-pointers/balancing-bracket-distances/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 47 | [Pair Sum Closest to Target After Removing One Element](two-pointers/pair-sum-closest-to-target-after-removing-one-element/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -94,8 +97,9 @@ Each problem folder contains:
 - [Minimum Pages Per Day to Finish All Books](binary-search/minimum-pages-per-day-to-finish-all-books/) 🟡 Medium
 - [Minimum Days to Deliver All Packages](binary-search/minimum-days-to-deliver-all-packages/) 🟡 Medium
 
-### Bit Manipulation *(2 problems)*
+### Bit Manipulation *(3 problems)*
 
+- [Lonely Pixel in a Binary Grid](bit-manipulation/lonely-pixel-in-a-binary-grid/) 🟢 Easy
 - [Decode Compressed Color Palette](bit-manipulation/decode-compressed-color-palette/) 🟡 Medium
 - [Odd Bit Pair Swapper](bit-manipulation/odd-bit-pair-swapper/) 🟡 Medium
 
@@ -105,8 +109,9 @@ Each problem folder contains:
 - [Minimum Cost to Paint a Skyline](dynamic-programming/minimum-cost-to-paint-a-skyline/) 🔴 Hard
 - [Minimum Cost to Merge Stone Piles](dynamic-programming/minimum-cost-to-merge-stone-piles/) 🟡 Medium
 
-### Graphs *(4 problems)*
+### Graphs *(5 problems)*
 
+- [Shortest Path Through Restricted Zones](graphs/shortest-path-through-restricted-zones/) 🟡 Medium
 - [Friend Circle Size Finder](graphs/friend-circle-size-finder/) 🟢 Easy
 - [Minimum Time to Spread Information Across Teams](graphs/minimum-time-to-spread-information-across-teams/) 🟡 Medium
 - [Campus Network Connectivity Check](graphs/campus-network-connectivity-check/) 🟢 Easy
@@ -127,8 +132,9 @@ Each problem folder contains:
 - [Task Scheduler with Cooldown and Priority](heaps-and-priority-queues/task-scheduler-with-cooldown-and-priority/) 🟡 Medium
 - [Closest Patient Appointments](heaps-and-priority-queues/closest-patient-appointments/) 🟢 Easy
 
-### Linked Lists *(5 problems)*
+### Linked Lists *(6 problems)*
 
+- [Interleave Linked Lists by Prime and Composite Positions](linked-lists/interleave-linked-lists-by-prime-and-composite-positions/) 🔴 Hard
 - [Delete Every K-th Node in a Linked List](linked-lists/delete-every-kth-node-in-linked-list/) 🟢 Easy
 - [Merge K Sorted Linked Lists with Weighted Priority](linked-lists/merge-k-sorted-linked-lists-weighted-priority/) 🔴 Hard
 - [Cyclic Shift of Linked List Segments](linked-lists/cyclic-shift-of-linked-list-segments/) 🔴 Hard
@@ -184,4 +190,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-05-24 · 44 problems across 15 topics*
+*Last updated: 2026-05-25 · 47 problems across 15 topics*
