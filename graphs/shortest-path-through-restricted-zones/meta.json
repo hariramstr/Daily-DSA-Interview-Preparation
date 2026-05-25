@@ -1,0 +1,14 @@
+{
+  "title": "Shortest Path Through Restricted Zones",
+  "slug": "shortest-path-through-restricted-zones",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Dijkstra\u0027s Algorithm",
+    "Shortest Path",
+    "BFS",
+    "Priority Queue"
+  ],
+  "generatedAt": "2026-05-25T19:00:52.5540118+00:00"
+}
