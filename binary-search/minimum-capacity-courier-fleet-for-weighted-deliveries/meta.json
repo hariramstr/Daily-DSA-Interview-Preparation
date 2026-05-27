@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Capacity Courier Fleet for Weighted Deliveries",
+  "slug": "minimum-capacity-courier-fleet-for-weighted-deliveries",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-05-27T19:01:06.5703432+00:00"
+}
