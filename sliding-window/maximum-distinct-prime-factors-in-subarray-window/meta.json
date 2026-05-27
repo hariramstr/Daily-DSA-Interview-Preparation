@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Distinct Prime Factors in a Subarray Window",
+  "slug": "maximum-distinct-prime-factors-in-subarray-window",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Number Theory",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-05-27T19:00:29.8772513+00:00"
+}
