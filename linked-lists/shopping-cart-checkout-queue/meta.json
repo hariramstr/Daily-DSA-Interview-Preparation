@@ -1,0 +1,12 @@
+{
+  "title": "Shopping Cart Checkout Queue",
+  "slug": "shopping-cart-checkout-queue",
+  "topic": "Linked Lists",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-05-27T19:00:37.8953715+00:00"
+}
