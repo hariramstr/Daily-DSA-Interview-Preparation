@@ -1,0 +1,14 @@
+{
+  "title": "Recover Binary Search Tree Subtree Sums After Node Swaps",
+  "slug": "recover-bst-subtree-sums-after-node-swaps",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search Tree",
+    "Tree Traversal",
+    "DFS",
+    "BFS",
+    "In-order Traversal"
+  ],
+  "generatedAt": "2026-05-28T19:01:17.1390209+00:00"
+}
