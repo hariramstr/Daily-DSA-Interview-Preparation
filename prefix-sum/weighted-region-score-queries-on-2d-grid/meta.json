@@ -1,0 +1,14 @@
+{
+  "title": "Weighted Region Score Queries on a 2D Grid",
+  "slug": "weighted-region-score-queries-on-2d-grid",
+  "topic": "Prefix Sum",
+  "difficulty": "Hard",
+  "tags": [
+    "Prefix Sum",
+    "Binary Search",
+    "2D Array",
+    "Sorting",
+    "Offline Processing"
+  ],
+  "generatedAt": "2026-05-28T09:38:44.9930709+00:00"
+}
