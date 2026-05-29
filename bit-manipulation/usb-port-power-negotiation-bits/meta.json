@@ -1,0 +1,12 @@
+{
+  "title": "USB Port Power Negotiation Bits",
+  "slug": "usb-port-power-negotiation-bits",
+  "topic": "Bit Manipulation",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "Bitwise XOR",
+    "Bit Counting"
+  ],
+  "generatedAt": "2026-05-29T19:00:51.6503362+00:00"
+}
