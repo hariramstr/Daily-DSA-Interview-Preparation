@@ -1,0 +1,13 @@
+{
+  "title": "Burning Tree Spread Timer",
+  "slug": "burning-tree-spread-timer",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "BFS",
+    "DFS",
+    "Graph Traversal"
+  ],
+  "generatedAt": "2026-05-29T19:01:29.112755+00:00"
+}
