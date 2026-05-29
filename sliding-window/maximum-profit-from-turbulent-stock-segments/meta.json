@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Profit from Turbulent Stock Segments",
+  "slug": "maximum-profit-from-turbulent-stock-segments",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "generatedAt": "2026-05-29T19:00:31.0094879+00:00"
+}
