@@ -1,0 +1,13 @@
+{
+  "title": "Infected Servers in a Data Center",
+  "slug": "infected-servers-in-a-data-center",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Union-Find",
+    "Connected Components"
+  ],
+  "generatedAt": "2026-05-29T19:01:05.6383112+00:00"
+}
