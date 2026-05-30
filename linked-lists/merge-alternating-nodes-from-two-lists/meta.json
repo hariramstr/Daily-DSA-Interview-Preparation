@@ -1,0 +1,12 @@
+{
+  "title": "Merge Alternating Nodes from Two Lists",
+  "slug": "merge-alternating-nodes-from-two-lists",
+  "topic": "Linked Lists",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "In-Place Manipulation"
+  ],
+  "generatedAt": "2026-05-30T19:00:50.0139346+00:00"
+}
