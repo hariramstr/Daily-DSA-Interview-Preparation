@@ -1,0 +1,13 @@
+{
+  "title": "Generate All Valid PIN Patterns",
+  "slug": "generate-all-valid-pin-patterns",
+  "topic": "Recursion and Backtracking",
+  "difficulty": "Easy",
+  "tags": [
+    "Backtracking",
+    "Recursion",
+    "Grid",
+    "Counting"
+  ],
+  "generatedAt": "2026-05-30T07:45:22.4937275+00:00"
+}
