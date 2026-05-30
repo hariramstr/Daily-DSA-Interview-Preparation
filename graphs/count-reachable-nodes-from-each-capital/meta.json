@@ -1,0 +1,13 @@
+{
+  "title": "Count Reachable Nodes from Each Capital",
+  "slug": "count-reachable-nodes-from-each-capital",
+  "topic": "Graphs",
+  "difficulty": "Easy",
+  "tags": [
+    "BFS",
+    "DFS",
+    "Tree",
+    "Graph Traversal"
+  ],
+  "generatedAt": "2026-05-30T19:00:41.4335769+00:00"
+}
