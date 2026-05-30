@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Window Containing All Favorite Numbers",
+  "slug": "minimum-window-containing-all-favorite-numbers",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-05-30T07:45:13.5287277+00:00"
+}
