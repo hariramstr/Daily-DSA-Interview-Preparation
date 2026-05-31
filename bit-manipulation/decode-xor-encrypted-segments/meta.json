@@ -1,0 +1,12 @@
+{
+  "title": "Decode XOR Encrypted Segments",
+  "slug": "decode-xor-encrypted-segments",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Array",
+    "XOR"
+  ],
+  "generatedAt": "2026-05-31T19:00:34.0547348+00:00"
+}
