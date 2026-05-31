@@ -1,0 +1,12 @@
+{
+  "title": "Deepest Common Ancestor at Target Depth",
+  "slug": "deepest-common-ancestor-at-target-depth",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Tree",
+    "Depth-First Search",
+    "Lowest Common Ancestor"
+  ],
+  "generatedAt": "2026-05-31T19:00:56.7711965+00:00"
+}
