@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Cost to Connect K Closest Server Clusters",
+  "slug": "minimum-cost-to-connect-k-closest-server-clusters",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "Heap",
+    "Minimum Spanning Tree",
+    "Priority Queue",
+    "Prim\u0027s Algorithm",
+    "Sorting"
+  ],
+  "generatedAt": "2026-06-01T19:01:37.2522586+00:00"
+}
