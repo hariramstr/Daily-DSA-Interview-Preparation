@@ -1,0 +1,12 @@
+{
+  "title": "Flatten Nested Task Queue",
+  "slug": "flatten-nested-task-queue",
+  "topic": "Stacks and Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "Stack",
+    "Simulation",
+    "Recursion"
+  ],
+  "generatedAt": "2026-06-01T19:01:24.0481311+00:00"
+}
