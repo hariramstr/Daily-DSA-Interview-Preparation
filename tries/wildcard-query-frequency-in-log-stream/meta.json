@@ -1,0 +1,13 @@
+{
+  "title": "Wildcard Query Frequency in Log Stream",
+  "slug": "wildcard-query-frequency-in-log-stream",
+  "topic": "Tries",
+  "difficulty": "Hard",
+  "tags": [
+    "Tries",
+    "Backtracking",
+    "Design",
+    "String Matching"
+  ],
+  "generatedAt": "2026-06-01T19:00:41.4450268+00:00"
+}
