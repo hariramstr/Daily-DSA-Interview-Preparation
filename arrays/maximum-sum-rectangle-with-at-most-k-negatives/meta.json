@@ -1,0 +1,13 @@
+{
+  "title": "Maximum Sum Rectangle with At Most K Negatives",
+  "slug": "maximum-sum-rectangle-with-at-most-k-negatives",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Prefix Sum",
+    "Matrix"
+  ],
+  "generatedAt": "2026-06-01T19:00:56.2807571+00:00"
+}
