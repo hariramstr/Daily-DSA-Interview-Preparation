@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Time to Spread Signal Across Network",
+  "slug": "minimum-time-to-spread-signal-across-network",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Dijkstra",
+    "Shortest Path",
+    "Priority Queue",
+    "BFS"
+  ],
+  "generatedAt": "2026-06-02T19:00:59.2925775+00:00"
+}
