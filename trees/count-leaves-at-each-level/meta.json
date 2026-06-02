@@ -1,0 +1,12 @@
+{
+  "title": "Count Leaves at Each Level",
+  "slug": "count-leaves-at-each-level",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Tree",
+    "BFS",
+    "Level Order Traversal"
+  ],
+  "generatedAt": "2026-06-02T19:00:46.9497644+00:00"
+}
