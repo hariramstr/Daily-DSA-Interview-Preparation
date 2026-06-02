@@ -1,0 +1,12 @@
+{
+  "title": "Total Rainfall Between Two Checkpoints",
+  "slug": "total-rainfall-between-two-checkpoints",
+  "topic": "Prefix Sum",
+  "difficulty": "Easy",
+  "tags": [
+    "Prefix Sum",
+    "Array",
+    "Range Query"
+  ],
+  "generatedAt": "2026-06-02T19:00:30.5678523+00:00"
+}
