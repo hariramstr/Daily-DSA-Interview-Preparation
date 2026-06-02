@@ -1,0 +1,12 @@
+{
+  "title": "Flip Bits to Match Target Pattern",
+  "slug": "flip-bits-to-match-target-pattern",
+  "topic": "Bit Manipulation",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "XOR",
+    "Hamming Distance"
+  ],
+  "generatedAt": "2026-06-02T19:00:38.2166824+00:00"
+}
