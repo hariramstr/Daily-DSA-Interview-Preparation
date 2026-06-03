@@ -1,0 +1,12 @@
+{
+  "title": "Generate All Valid Bracket Colorings",
+  "slug": "generate-all-valid-bracket-colorings",
+  "topic": "Recursion and Backtracking",
+  "difficulty": "Easy",
+  "tags": [
+    "Recursion",
+    "Backtracking",
+    "String Generation"
+  ],
+  "generatedAt": "2026-06-03T19:00:46.3027142+00:00"
+}
