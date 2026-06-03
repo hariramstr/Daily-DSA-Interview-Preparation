@@ -1,0 +1,12 @@
+{
+  "title": "Reconstruct Array from Bitwise OR Pairs",
+  "slug": "reconstruct-array-from-bitwise-or-pairs",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Array",
+    "Greedy"
+  ],
+  "generatedAt": "2026-06-03T19:00:28.3877542+00:00"
+}
