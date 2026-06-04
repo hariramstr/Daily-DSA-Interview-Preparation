@@ -1,0 +1,12 @@
+{
+  "title": "Assign Tasks to Workers with Skill Constraints",
+  "slug": "assign-tasks-to-workers-with-skill-constraints",
+  "topic": "Recursion and Backtracking",
+  "difficulty": "Medium",
+  "tags": [
+    "Backtracking",
+    "Recursion",
+    "Array"
+  ],
+  "generatedAt": "2026-06-04T19:00:34.3642483+00:00"
+}
