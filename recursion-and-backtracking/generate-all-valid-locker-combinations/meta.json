@@ -1,0 +1,12 @@
+{
+  "title": "Generate All Valid Locker Combinations",
+  "slug": "generate-all-valid-locker-combinations",
+  "topic": "Recursion and Backtracking",
+  "difficulty": "Easy",
+  "tags": [
+    "Recursion",
+    "Backtracking",
+    "String Generation"
+  ],
+  "generatedAt": "2026-06-05T19:00:26.7377036+00:00"
+}
