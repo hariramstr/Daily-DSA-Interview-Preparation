@@ -1,0 +1,12 @@
+{
+  "title": "Group Anagram Chains by Frequency",
+  "slug": "group-anagram-chains-by-frequency",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Map",
+    "String",
+    "Sorting"
+  ],
+  "generatedAt": "2026-06-05T19:00:36.567414+00:00"
+}
