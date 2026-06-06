@@ -1,0 +1,14 @@
+{
+  "title": "Schedule Meetings to Minimize Maximum Wait Time",
+  "slug": "schedule-meetings-to-minimize-maximum-wait-time",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "Heap",
+    "Priority Queue",
+    "Greedy",
+    "Simulation",
+    "Sorting"
+  ],
+  "generatedAt": "2026-06-06T19:00:37.2338345+00:00"
+}
