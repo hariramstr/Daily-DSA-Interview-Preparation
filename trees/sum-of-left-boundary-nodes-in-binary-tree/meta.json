@@ -1,0 +1,12 @@
+{
+  "title": "Sum of Left Boundary Nodes in Binary Tree",
+  "slug": "sum-of-left-boundary-nodes-in-binary-tree",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "generatedAt": "2026-06-06T19:00:24.4765535+00:00"
+}
