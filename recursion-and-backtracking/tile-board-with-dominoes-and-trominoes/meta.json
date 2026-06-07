@@ -1,0 +1,13 @@
+{
+  "title": "Tile a Board with Dominoes and Trominoes",
+  "slug": "tile-board-with-dominoes-and-trominoes",
+  "topic": "Recursion and Backtracking",
+  "difficulty": "Medium",
+  "tags": [
+    "Backtracking",
+    "Recursion",
+    "Grid",
+    "Combinatorics"
+  ],
+  "generatedAt": "2026-06-07T19:00:36.2639413+00:00"
+}
