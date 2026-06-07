@@ -1,0 +1,13 @@
+{
+  "title": "Shortest Path Through Mandatory Checkpoints",
+  "slug": "shortest-path-through-mandatory-checkpoints",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Dijkstra",
+    "Bitmask DP",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-06-07T19:00:26.0676297+00:00"
+}
