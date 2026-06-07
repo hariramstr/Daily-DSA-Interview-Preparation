@@ -1,0 +1,13 @@
+{
+  "title": "Find Employees with Identical Project Portfolios",
+  "slug": "find-employees-with-identical-project-portfolios",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Map",
+    "Sorting",
+    "Array",
+    "String Hashing"
+  ],
+  "generatedAt": "2026-06-07T19:01:08.2190955+00:00"
+}
