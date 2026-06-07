@@ -1,0 +1,13 @@
+{
+  "title": "Partition Array into Balanced Halves by Digit Sum",
+  "slug": "partition-array-into-balanced-halves-by-digit-sum",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Meet in the Middle",
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "generatedAt": "2026-06-07T19:00:58.1248961+00:00"
+}
