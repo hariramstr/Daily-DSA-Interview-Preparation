@@ -1,0 +1,12 @@
+{
+  "title": "Longest Snack Break Within Calorie Limit",
+  "slug": "longest-snack-break-within-calorie-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-08T19:00:36.0825759+00:00"
+}
