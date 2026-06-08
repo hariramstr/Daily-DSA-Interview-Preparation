@@ -1,0 +1,12 @@
+{
+  "title": "Find Longest Subarray with Equal Frequency of Two Labels",
+  "slug": "longest-subarray-equal-frequency-two-labels",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Prefix Sum",
+    "Array"
+  ],
+  "generatedAt": "2026-06-08T19:00:57.6210412+00:00"
+}
