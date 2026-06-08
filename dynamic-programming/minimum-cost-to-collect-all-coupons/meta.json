@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Cost to Collect All Coupons",
+  "slug": "minimum-cost-to-collect-all-coupons",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Bitmask DP",
+    "Graph",
+    "Greedy"
+  ],
+  "generatedAt": "2026-06-08T19:00:48.9149764+00:00"
+}
