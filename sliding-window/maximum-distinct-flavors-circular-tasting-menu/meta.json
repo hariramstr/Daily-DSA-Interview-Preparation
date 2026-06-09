@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Distinct Flavors in a Circular Tasting Menu",
+  "slug": "maximum-distinct-flavors-circular-tasting-menu",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Circular Array"
+  ],
+  "generatedAt": "2026-06-09T19:00:51.1786479+00:00"
+}
