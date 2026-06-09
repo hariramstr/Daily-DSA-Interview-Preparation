@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Cut a Ribbon into Segments",
+  "slug": "minimum-cost-to-cut-ribbon-into-segments",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "generatedAt": "2026-06-09T19:00:27.7996648+00:00"
+}
