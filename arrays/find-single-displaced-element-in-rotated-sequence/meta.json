@@ -1,0 +1,12 @@
+{
+  "title": "Find the Single Displaced Element in a Rotated Sequence",
+  "slug": "find-single-displaced-element-in-rotated-sequence",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "Arrays",
+    "Math",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-06-09T19:00:38.0218956+00:00"
+}
