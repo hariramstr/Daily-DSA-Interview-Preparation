@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Unique Signature Segment",
+  "slug": "shortest-unique-signature-segment",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Sliding Window",
+    "Prefix/Suffix Processing"
+  ],
+  "generatedAt": "2026-06-10T19:00:28.3001321+00:00"
+}
