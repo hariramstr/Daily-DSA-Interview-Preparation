@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Penalty to Merge Backup Snapshots",
+  "slug": "minimum-penalty-to-merge-backup-snapshots",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "prefix-sums"
+  ],
+  "generatedAt": "2026-06-10T19:00:46.8360385+00:00"
+}
