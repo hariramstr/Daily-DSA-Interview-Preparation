@@ -1,0 +1,12 @@
+{
+  "title": "Remove Duplicate Stops from a Sorted Route",
+  "slug": "remove-duplicate-stops-from-a-sorted-route",
+  "topic": "Linked Lists",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "In-Place"
+  ],
+  "generatedAt": "2026-06-11T19:00:52.5129844+00:00"
+}
