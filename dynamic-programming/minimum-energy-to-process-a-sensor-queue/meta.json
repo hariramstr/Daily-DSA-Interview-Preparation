@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Process a Sensor Queue",
+  "slug": "minimum-energy-to-process-a-sensor-queue",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-06-11T19:00:44.5854225+00:00"
+}
