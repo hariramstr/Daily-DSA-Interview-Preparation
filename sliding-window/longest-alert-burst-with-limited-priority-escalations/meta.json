@@ -1,0 +1,12 @@
+{
+  "title": "Longest Alert Burst With Limited Priority Escalations",
+  "slug": "longest-alert-burst-with-limited-priority-escalations",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "String"
+  ],
+  "generatedAt": "2026-06-11T19:01:00.7702685+00:00"
+}
