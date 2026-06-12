@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Compress Event Timeline",
+  "slug": "minimum-cost-to-compress-event-timeline",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "partition-dp",
+    "array"
+  ],
+  "generatedAt": "2026-06-12T19:00:32.5169465+00:00"
+}

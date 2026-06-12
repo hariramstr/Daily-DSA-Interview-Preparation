@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Badge Sequence Covering All Teams",
+  "slug": "shortest-badge-sequence-covering-all-teams",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-06-12T19:01:06.5010537+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Longest Focus Session Under Noise Budget",
+  "slug": "longest-focus-session-under-noise-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-06-12T19:00:49.3762598+00:00"
+}
