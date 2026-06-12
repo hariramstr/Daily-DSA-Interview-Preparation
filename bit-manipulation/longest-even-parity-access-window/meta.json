@@ -1,0 +1,12 @@
+{
+  "title": "Longest Even-Parity Access Window",
+  "slug": "longest-even-parity-access-window",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Prefix Mask",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-06-12T19:00:41.8298806+00:00"
+}
