@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Profit from Non-Overlapping Contract Chains",
+  "slug": "maximum-profit-from-non-overlapping-contract-chains",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Scheduling",
+    "State Compression"
+  ],
+  "generatedAt": "2026-06-12T11:20:07.6662182+00:00"
+}
