@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Adjustments to Create K Rising Price Blocks",
+  "slug": "minimum-adjustments-to-create-k-rising-price-blocks",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Partition DP"
+  ],
+  "generatedAt": "2026-06-12T11:29:02.2548151+00:00"
+}
