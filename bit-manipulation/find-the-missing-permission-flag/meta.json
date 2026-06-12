@@ -1,0 +1,12 @@
+{
+  "title": "Find the Missing Permission Flag",
+  "slug": "find-the-missing-permission-flag",
+  "topic": "Bit Manipulation",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "XOR",
+    "Array"
+  ],
+  "generatedAt": "2026-06-12T11:29:08.919352+00:00"
+}
