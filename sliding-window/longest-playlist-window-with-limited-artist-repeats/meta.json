@@ -1,0 +1,12 @@
+{
+  "title": "Longest Playlist Window With Limited Artist Repeats",
+  "slug": "longest-playlist-window-with-limited-artist-repeats",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-13T19:00:56.3774195+00:00"
+}
