@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Reward from Skipping Adjacent Milestones",
+  "slug": "maximum-reward-from-skipping-adjacent-milestones",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-06-13T19:00:40.0154264+00:00"
+}
