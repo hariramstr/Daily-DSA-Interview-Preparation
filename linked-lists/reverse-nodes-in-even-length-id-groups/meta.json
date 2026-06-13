@@ -1,0 +1,12 @@
+{
+  "title": "Reverse Nodes in Even-Length ID Groups",
+  "slug": "reverse-nodes-in-even-length-id-groups",
+  "topic": "Linked Lists",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "In-Place Reversal"
+  ],
+  "generatedAt": "2026-06-13T19:00:26.8182102+00:00"
+}
