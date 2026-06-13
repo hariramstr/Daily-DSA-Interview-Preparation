@@ -1,0 +1,12 @@
+{
+  "title": "Count Devices with Exactly One Active Flag",
+  "slug": "count-devices-with-exactly-one-active-flag",
+  "topic": "Bit Manipulation",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "Array",
+    "Counting"
+  ],
+  "generatedAt": "2026-06-13T19:00:32.8699015+00:00"
+}
