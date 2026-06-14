@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Error Burst Covering All Failure Codes",
+  "slug": "shortest-error-burst-covering-all-failure-codes",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-14T19:00:40.3495594+00:00"
+}
