@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Credits from Course Plan with Prerequisite Chains",
+  "slug": "maximum-credits-from-course-plan-with-prerequisite-chains",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "tree-dp",
+    "knapsack"
+  ],
+  "generatedAt": "2026-06-14T19:00:31.5925818+00:00"
+}
