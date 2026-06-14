@@ -1,0 +1,12 @@
+{
+  "title": "Swap Adjacent Value Runs in a Linked List",
+  "slug": "swap-adjacent-value-runs-in-a-linked-list",
+  "topic": "Linked Lists",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Pointer Manipulation"
+  ],
+  "generatedAt": "2026-06-14T19:00:55.0525568+00:00"
+}

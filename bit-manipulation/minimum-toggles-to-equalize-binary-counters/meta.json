@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Toggles to Equalize Binary Counters",
+  "slug": "minimum-toggles-to-equalize-binary-counters",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Parity",
+    "Greedy"
+  ],
+  "generatedAt": "2026-06-14T19:00:22.3003017+00:00"
+}
