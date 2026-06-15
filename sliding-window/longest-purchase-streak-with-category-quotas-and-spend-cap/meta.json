@@ -1,0 +1,12 @@
+{
+  "title": "Longest Purchase Streak With Category Quotas and Spend Cap",
+  "slug": "longest-purchase-streak-with-category-quotas-and-spend-cap",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-15T19:00:30.3164892+00:00"
+}
