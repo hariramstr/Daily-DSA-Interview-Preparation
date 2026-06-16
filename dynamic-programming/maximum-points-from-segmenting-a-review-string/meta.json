@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Points from Segmenting a Review String",
+  "slug": "maximum-points-from-segmenting-a-review-string",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "String",
+    "Trie"
+  ],
+  "generatedAt": "2026-06-16T19:00:26.2465083+00:00"
+}
