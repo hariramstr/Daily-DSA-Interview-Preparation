@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Recolors to Form a Centered Price Peak",
+  "slug": "minimum-recolors-to-form-a-centered-price-peak",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-06-17T19:00:32.3782054+00:00"
+}
