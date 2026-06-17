@@ -22,12 +22,16 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **79** | 23 | 37 | 19 |
+| **85** | 26 | 38 | 21 |
 
 ## 🆕 Latest Problems
 
-- [Maximum Points from Segmenting a Review String](dynamic-programming/maximum-points-from-segmenting-a-review-string/) 🟡 Medium — *Dynamic Programming*
-- [Minimum Cooldown to Launch K Rockets](binary-search/minimum-cooldown-to-launch-k-rockets/) 🔴 Hard — *Binary Search*
+- [Minimum Recolors to Form a Centered Price Peak](arrays/minimum-recolors-to-form-a-centered-price-peak/) 🟡 Medium — *Arrays*
+- [Maximize Throughput with Expiring Compute Credits](heaps-and-priority-queues/maximize-throughput-with-expiring-compute-credits/) 🔴 Hard — *Heaps and Priority Queues*
+- [Minimum Rest Stops to Climb a Stair Route](dynamic-programming/minimum-rest-stops-to-climb-a-stair-route/) 🟢 Easy — *Dynamic Programming*
+- [Maximum Delayed Gates in a Directed Escape Network](graphs/maximum-delayed-gates-in-a-directed-escape-network/) 🔴 Hard — *Graphs*
+- [Longest Chat Streak With At Most One Silent Minute](sliding-window/longest-chat-streak-with-at-most-one-silent-minute/) 🟢 Easy — *Sliding Window*
+- [Locate First Price Tier Meeting Budget](binary-search/locate-first-price-tier-meeting-budget/) 🟢 Easy — *Binary Search*
 
 ## 📋 All Problems
 
@@ -36,89 +40,96 @@ Each problem folder contains:
 | 1 | [Count Stable Temperature Readings](arrays/count-stable-temperature-readings/) | [Arrays](arrays/) | 🟢 Easy | C# · Python · Java |
 | 2 | [Find the Longest Uniform Subarray After One Replacement](arrays/longest-uniform-subarray-after-one-replacement/) | [Arrays](arrays/) | 🟢 Easy | C# · Python · Java |
 | 3 | [Find the Single Displaced Element in a Rotated Sequence](arrays/find-single-displaced-element-in-rotated-sequence/) | [Arrays](arrays/) | 🟢 Easy | C# · Python · Java |
-| 4 | [Partition Array into Balanced Halves by Digit Sum](arrays/partition-array-into-balanced-halves-by-digit-sum/) | [Arrays](arrays/) | 🟡 Medium | C# · Python · Java |
-| 5 | [Shortest Badge Sequence Covering All Teams](arrays/shortest-badge-sequence-covering-all-teams/) | [Arrays](arrays/) | 🟡 Medium | C# · Python · Java |
-| 6 | [Maximum Sum Rectangle with At Most K Negatives](arrays/maximum-sum-rectangle-with-at-most-k-negatives/) | [Arrays](arrays/) | 🔴 Hard | C# · Python · Java |
-| 7 | [Minimum Adjustments to Create K Rising Price Blocks](arrays/minimum-adjustments-to-create-k-rising-price-blocks/) | [Arrays](arrays/) | 🔴 Hard | C# · Python · Java |
-| 8 | [Minimum Deletions to Form K Stable Value Bands](arrays/minimum-deletions-to-form-k-stable-value-bands/) | [Arrays](arrays/) | 🔴 Hard | C# · Python · Java |
-| 9 | [First Store Open at or After Query Time](binary-search/first-store-open-at-or-after-query-time/) | [Binary Search](binary-search/) | 🟢 Easy | C# · Python · Java |
-| 10 | [Maximum Equal Slice Length for Cable Orders](binary-search/maximum-equal-slice-length-for-cable-orders/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
-| 11 | [Maximum Safe Gap for Drone Corridor Placement](binary-search/maximum-safe-gap-for-drone-corridor-placement/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
-| 12 | [Minimum Beacon Radius for City Coverage](binary-search/minimum-beacon-radius-for-city-coverage/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
-| 13 | [Minimum Capacity Shipping Containers Over D Days](binary-search/minimum-capacity-shipping-containers-over-d-days/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
-| 14 | [Minimum Pages Per Day to Finish All Books](binary-search/minimum-pages-per-day-to-finish-all-books/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
-| 15 | [Minimum Playback Speed for Buffered Lectures](binary-search/minimum-playback-speed-for-buffered-lectures/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
-| 16 | [Earliest Day to Activate K Sensor Corridors](binary-search/earliest-day-to-activate-k-sensor-corridors/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
-| 17 | [Maximum Uniform Delay for Train Departures](binary-search/maximum-uniform-delay-for-train-departures/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
-| 18 | [Minimum Cooldown to Launch K Rockets](binary-search/minimum-cooldown-to-launch-k-rockets/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
-| 19 | [Minimum Days to Distribute K Types of Packages](binary-search/minimum-days-to-distribute-k-types-of-packages/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
-| 20 | [Count Devices with Exactly One Active Flag](bit-manipulation/count-devices-with-exactly-one-active-flag/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
-| 21 | [Find the Missing Permission Flag](bit-manipulation/find-the-missing-permission-flag/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
-| 22 | [Flip Bits to Match Target Pattern](bit-manipulation/flip-bits-to-match-target-pattern/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
-| 23 | [Decode XOR Encrypted Segments](bit-manipulation/decode-xor-encrypted-segments/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 24 | [Longest Even-Parity Access Window](bit-manipulation/longest-even-parity-access-window/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 25 | [Minimum Toggles to Equalize Binary Counters](bit-manipulation/minimum-toggles-to-equalize-binary-counters/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 26 | [Reconstruct Array from Bitwise OR Pairs](bit-manipulation/reconstruct-array-from-bitwise-or-pairs/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 27 | [Smallest Mask Cover for Feature Requests](bit-manipulation/smallest-mask-cover-for-feature-requests/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
-| 28 | [Maximum Credits from Course Plan with Prerequisite Chains](dynamic-programming/maximum-credits-from-course-plan-with-prerequisite-chains/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 29 | [Maximum Points from Segmenting a Review String](dynamic-programming/maximum-points-from-segmenting-a-review-string/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 30 | [Maximum Reward from Skipping Adjacent Milestones](dynamic-programming/maximum-reward-from-skipping-adjacent-milestones/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 31 | [Minimum Cost to Collect All Coupons](dynamic-programming/minimum-cost-to-collect-all-coupons/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 32 | [Minimum Cost to Cut a Ribbon into Segments](dynamic-programming/minimum-cost-to-cut-ribbon-into-segments/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 33 | [Minimum Energy to Process a Sensor Queue](dynamic-programming/minimum-energy-to-process-a-sensor-queue/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 34 | [Painting Houses with Color Cooldown](dynamic-programming/painting-houses-with-color-cooldown/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
-| 35 | [Maximum Profit from Non-Overlapping Contract Chains](dynamic-programming/maximum-profit-from-non-overlapping-contract-chains/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
-| 36 | [Minimum Cost to Compress Event Timeline](dynamic-programming/minimum-cost-to-compress-event-timeline/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
-| 37 | [Minimum Penalty to Merge Backup Snapshots](dynamic-programming/minimum-penalty-to-merge-backup-snapshots/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
-| 38 | [Count Reachable Nodes from Each Capital](graphs/count-reachable-nodes-from-each-capital/) | [Graphs](graphs/) | 🟢 Easy | C# · Python · Java |
-| 39 | [Minimum Time to Spread Signal Across Network](graphs/minimum-time-to-spread-signal-across-network/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
-| 40 | [Shortest Path Through Mandatory Checkpoints](graphs/shortest-path-through-mandatory-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
-| 41 | [Find All Symmetric Pairs in a Contact List](hashing/find-all-symmetric-pairs-in-contact-list/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 42 | [Find Employees with Identical Project Portfolios](hashing/find-employees-with-identical-project-portfolios/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 43 | [Find Longest Subarray with Equal Frequency of Two Labels](hashing/longest-subarray-equal-frequency-two-labels/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 44 | [Group Anagram Chains by Frequency](hashing/group-anagram-chains-by-frequency/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
-| 45 | [Shortest Unique Signature Segment](hashing/shortest-unique-signature-segment/) | [Hashing](hashing/) | 🔴 Hard | C# · Python · Java |
-| 46 | [Minimum Cost to Connect K Closest Server Clusters](heaps-and-priority-queues/minimum-cost-to-connect-k-closest-server-clusters/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🔴 Hard | C# · Python · Java |
-| 47 | [Schedule Meetings to Minimize Maximum Wait Time](heaps-and-priority-queues/schedule-meetings-to-minimize-maximum-wait-time/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🔴 Hard | C# · Python · Java |
-| 48 | [Merge Alternating Nodes from Two Lists](linked-lists/merge-alternating-nodes-from-two-lists/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 49 | [Remove Duplicate Stops from a Sorted Route](linked-lists/remove-duplicate-stops-from-a-sorted-route/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
-| 50 | [Reverse Nodes in Even-Length ID Groups](linked-lists/reverse-nodes-in-even-length-id-groups/) | [Linked Lists](linked-lists/) | 🟡 Medium | C# · Python · Java |
-| 51 | [Swap Adjacent Value Runs in a Linked List](linked-lists/swap-adjacent-value-runs-in-a-linked-list/) | [Linked Lists](linked-lists/) | 🟡 Medium | C# · Python · Java |
-| 52 | [Rearrange Linked List by Prime and Composite Positions](linked-lists/rearrange-linked-list-by-prime-and-composite-positions/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
-| 53 | [Average Score of Student Segments](prefix-sum/average-score-of-student-segments/) | [Prefix Sum](prefix-sum/) | 🟢 Easy | C# · Python · Java |
-| 54 | [Total Rainfall Between Two Checkpoints](prefix-sum/total-rainfall-between-two-checkpoints/) | [Prefix Sum](prefix-sum/) | 🟢 Easy | C# · Python · Java |
-| 55 | [Generate All Valid Bracket Colorings](recursion-and-backtracking/generate-all-valid-bracket-colorings/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟢 Easy | C# · Python · Java |
-| 56 | [Generate All Valid Locker Combinations](recursion-and-backtracking/generate-all-valid-locker-combinations/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟢 Easy | C# · Python · Java |
-| 57 | [Generate All Valid PIN Patterns](recursion-and-backtracking/generate-all-valid-pin-patterns/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟢 Easy | C# · Python · Java |
-| 58 | [Assign Tasks to Workers with Skill Constraints](recursion-and-backtracking/assign-tasks-to-workers-with-skill-constraints/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 59 | [Tile a Board with Dominoes and Trominoes](recursion-and-backtracking/tile-board-with-dominoes-and-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
-| 60 | [Longest Focus Session Under Noise Budget](sliding-window/longest-focus-session-under-noise-budget/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
-| 61 | [Longest Quiet Study Stretch](sliding-window/longest-quiet-study-stretch/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
-| 62 | [Longest Snack Break Within Calorie Limit](sliding-window/longest-snack-break-within-calorie-limit/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
-| 63 | [Longest Alert Burst With Limited Priority Escalations](sliding-window/longest-alert-burst-with-limited-priority-escalations/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 64 | [Longest Playlist Window With Limited Artist Repeats](sliding-window/longest-playlist-window-with-limited-artist-repeats/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 65 | [Minimum Window Containing All Favorite Numbers](sliding-window/minimum-window-containing-all-favorite-numbers/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
-| 66 | [Longest Purchase Streak With Category Quotas and Spend Cap](sliding-window/longest-purchase-streak-with-category-quotas-and-spend-cap/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 67 | [Longest Stream Interval With Bounded Value Spread and Required Topics](sliding-window/longest-stream-interval-with-bounded-value-spread-and-required-topics/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 68 | [Maximum Distinct Flavors in a Circular Tasting Menu](sliding-window/maximum-distinct-flavors-circular-tasting-menu/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 69 | [Shortest Error Burst Covering All Failure Codes](sliding-window/shortest-error-burst-covering-all-failure-codes/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 70 | [Simulate a Cafeteria Tray Stack](stacks-and-queues/simulate-cafeteria-tray-stack/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 71 | [Validate Service Desk Callbacks](stacks-and-queues/validate-service-desk-callbacks/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 72 | [Flatten Nested Task Queue](stacks-and-queues/flatten-nested-task-queue/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 73 | [Count Leaves at Each Level](trees/count-leaves-at-each-level/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 74 | [Sum of Left Boundary Nodes in Binary Tree](trees/sum-of-left-boundary-nodes-in-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 75 | [Deepest Common Ancestor at Target Depth](trees/deepest-common-ancestor-at-target-depth/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 76 | [Prefix Replacement Suggestions](tries/prefix-replacement-suggestions/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 77 | [Wildcard Query Frequency in Log Stream](tries/wildcard-query-frequency-in-log-stream/) | [Tries](tries/) | 🔴 Hard | C# · Python · Java |
-| 78 | [Pair Fruits by Combined Freshness Score](two-pointers/pair-fruits-by-combined-freshness-score/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 79 | [Squeeze Water Between Walls](two-pointers/squeeze-water-between-walls/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 4 | [Minimum Recolors to Form a Centered Price Peak](arrays/minimum-recolors-to-form-a-centered-price-peak/) | [Arrays](arrays/) | 🟡 Medium | C# · Python · Java |
+| 5 | [Partition Array into Balanced Halves by Digit Sum](arrays/partition-array-into-balanced-halves-by-digit-sum/) | [Arrays](arrays/) | 🟡 Medium | C# · Python · Java |
+| 6 | [Shortest Badge Sequence Covering All Teams](arrays/shortest-badge-sequence-covering-all-teams/) | [Arrays](arrays/) | 🟡 Medium | C# · Python · Java |
+| 7 | [Maximum Sum Rectangle with At Most K Negatives](arrays/maximum-sum-rectangle-with-at-most-k-negatives/) | [Arrays](arrays/) | 🔴 Hard | C# · Python · Java |
+| 8 | [Minimum Adjustments to Create K Rising Price Blocks](arrays/minimum-adjustments-to-create-k-rising-price-blocks/) | [Arrays](arrays/) | 🔴 Hard | C# · Python · Java |
+| 9 | [Minimum Deletions to Form K Stable Value Bands](arrays/minimum-deletions-to-form-k-stable-value-bands/) | [Arrays](arrays/) | 🔴 Hard | C# · Python · Java |
+| 10 | [First Store Open at or After Query Time](binary-search/first-store-open-at-or-after-query-time/) | [Binary Search](binary-search/) | 🟢 Easy | C# · Python · Java |
+| 11 | [Locate First Price Tier Meeting Budget](binary-search/locate-first-price-tier-meeting-budget/) | [Binary Search](binary-search/) | 🟢 Easy | C# · Python · Java |
+| 12 | [Maximum Equal Slice Length for Cable Orders](binary-search/maximum-equal-slice-length-for-cable-orders/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 13 | [Maximum Safe Gap for Drone Corridor Placement](binary-search/maximum-safe-gap-for-drone-corridor-placement/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 14 | [Minimum Beacon Radius for City Coverage](binary-search/minimum-beacon-radius-for-city-coverage/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 15 | [Minimum Capacity Shipping Containers Over D Days](binary-search/minimum-capacity-shipping-containers-over-d-days/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 16 | [Minimum Pages Per Day to Finish All Books](binary-search/minimum-pages-per-day-to-finish-all-books/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 17 | [Minimum Playback Speed for Buffered Lectures](binary-search/minimum-playback-speed-for-buffered-lectures/) | [Binary Search](binary-search/) | 🟡 Medium | C# · Python · Java |
+| 18 | [Earliest Day to Activate K Sensor Corridors](binary-search/earliest-day-to-activate-k-sensor-corridors/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
+| 19 | [Maximum Uniform Delay for Train Departures](binary-search/maximum-uniform-delay-for-train-departures/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
+| 20 | [Minimum Cooldown to Launch K Rockets](binary-search/minimum-cooldown-to-launch-k-rockets/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
+| 21 | [Minimum Days to Distribute K Types of Packages](binary-search/minimum-days-to-distribute-k-types-of-packages/) | [Binary Search](binary-search/) | 🔴 Hard | C# · Python · Java |
+| 22 | [Count Devices with Exactly One Active Flag](bit-manipulation/count-devices-with-exactly-one-active-flag/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
+| 23 | [Find the Missing Permission Flag](bit-manipulation/find-the-missing-permission-flag/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
+| 24 | [Flip Bits to Match Target Pattern](bit-manipulation/flip-bits-to-match-target-pattern/) | [Bit Manipulation](bit-manipulation/) | 🟢 Easy | C# · Python · Java |
+| 25 | [Decode XOR Encrypted Segments](bit-manipulation/decode-xor-encrypted-segments/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 26 | [Longest Even-Parity Access Window](bit-manipulation/longest-even-parity-access-window/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 27 | [Minimum Toggles to Equalize Binary Counters](bit-manipulation/minimum-toggles-to-equalize-binary-counters/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 28 | [Reconstruct Array from Bitwise OR Pairs](bit-manipulation/reconstruct-array-from-bitwise-or-pairs/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 29 | [Smallest Mask Cover for Feature Requests](bit-manipulation/smallest-mask-cover-for-feature-requests/) | [Bit Manipulation](bit-manipulation/) | 🟡 Medium | C# · Python · Java |
+| 30 | [Minimum Rest Stops to Climb a Stair Route](dynamic-programming/minimum-rest-stops-to-climb-a-stair-route/) | [Dynamic Programming](dynamic-programming/) | 🟢 Easy | C# · Python · Java |
+| 31 | [Maximum Credits from Course Plan with Prerequisite Chains](dynamic-programming/maximum-credits-from-course-plan-with-prerequisite-chains/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 32 | [Maximum Points from Segmenting a Review String](dynamic-programming/maximum-points-from-segmenting-a-review-string/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 33 | [Maximum Reward from Skipping Adjacent Milestones](dynamic-programming/maximum-reward-from-skipping-adjacent-milestones/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 34 | [Minimum Cost to Collect All Coupons](dynamic-programming/minimum-cost-to-collect-all-coupons/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 35 | [Minimum Cost to Cut a Ribbon into Segments](dynamic-programming/minimum-cost-to-cut-ribbon-into-segments/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 36 | [Minimum Energy to Process a Sensor Queue](dynamic-programming/minimum-energy-to-process-a-sensor-queue/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 37 | [Painting Houses with Color Cooldown](dynamic-programming/painting-houses-with-color-cooldown/) | [Dynamic Programming](dynamic-programming/) | 🟡 Medium | C# · Python · Java |
+| 38 | [Maximum Profit from Non-Overlapping Contract Chains](dynamic-programming/maximum-profit-from-non-overlapping-contract-chains/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
+| 39 | [Minimum Cost to Compress Event Timeline](dynamic-programming/minimum-cost-to-compress-event-timeline/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
+| 40 | [Minimum Penalty to Merge Backup Snapshots](dynamic-programming/minimum-penalty-to-merge-backup-snapshots/) | [Dynamic Programming](dynamic-programming/) | 🔴 Hard | C# · Python · Java |
+| 41 | [Count Reachable Nodes from Each Capital](graphs/count-reachable-nodes-from-each-capital/) | [Graphs](graphs/) | 🟢 Easy | C# · Python · Java |
+| 42 | [Minimum Time to Spread Signal Across Network](graphs/minimum-time-to-spread-signal-across-network/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 43 | [Shortest Path Through Mandatory Checkpoints](graphs/shortest-path-through-mandatory-checkpoints/) | [Graphs](graphs/) | 🟡 Medium | C# · Python · Java |
+| 44 | [Maximum Delayed Gates in a Directed Escape Network](graphs/maximum-delayed-gates-in-a-directed-escape-network/) | [Graphs](graphs/) | 🔴 Hard | C# · Python · Java |
+| 45 | [Find All Symmetric Pairs in a Contact List](hashing/find-all-symmetric-pairs-in-contact-list/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 46 | [Find Employees with Identical Project Portfolios](hashing/find-employees-with-identical-project-portfolios/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 47 | [Find Longest Subarray with Equal Frequency of Two Labels](hashing/longest-subarray-equal-frequency-two-labels/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 48 | [Group Anagram Chains by Frequency](hashing/group-anagram-chains-by-frequency/) | [Hashing](hashing/) | 🟡 Medium | C# · Python · Java |
+| 49 | [Shortest Unique Signature Segment](hashing/shortest-unique-signature-segment/) | [Hashing](hashing/) | 🔴 Hard | C# · Python · Java |
+| 50 | [Maximize Throughput with Expiring Compute Credits](heaps-and-priority-queues/maximize-throughput-with-expiring-compute-credits/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🔴 Hard | C# · Python · Java |
+| 51 | [Minimum Cost to Connect K Closest Server Clusters](heaps-and-priority-queues/minimum-cost-to-connect-k-closest-server-clusters/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🔴 Hard | C# · Python · Java |
+| 52 | [Schedule Meetings to Minimize Maximum Wait Time](heaps-and-priority-queues/schedule-meetings-to-minimize-maximum-wait-time/) | [Heaps and Priority Queues](heaps-and-priority-queues/) | 🔴 Hard | C# · Python · Java |
+| 53 | [Merge Alternating Nodes from Two Lists](linked-lists/merge-alternating-nodes-from-two-lists/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 54 | [Remove Duplicate Stops from a Sorted Route](linked-lists/remove-duplicate-stops-from-a-sorted-route/) | [Linked Lists](linked-lists/) | 🟢 Easy | C# · Python · Java |
+| 55 | [Reverse Nodes in Even-Length ID Groups](linked-lists/reverse-nodes-in-even-length-id-groups/) | [Linked Lists](linked-lists/) | 🟡 Medium | C# · Python · Java |
+| 56 | [Swap Adjacent Value Runs in a Linked List](linked-lists/swap-adjacent-value-runs-in-a-linked-list/) | [Linked Lists](linked-lists/) | 🟡 Medium | C# · Python · Java |
+| 57 | [Rearrange Linked List by Prime and Composite Positions](linked-lists/rearrange-linked-list-by-prime-and-composite-positions/) | [Linked Lists](linked-lists/) | 🔴 Hard | C# · Python · Java |
+| 58 | [Average Score of Student Segments](prefix-sum/average-score-of-student-segments/) | [Prefix Sum](prefix-sum/) | 🟢 Easy | C# · Python · Java |
+| 59 | [Total Rainfall Between Two Checkpoints](prefix-sum/total-rainfall-between-two-checkpoints/) | [Prefix Sum](prefix-sum/) | 🟢 Easy | C# · Python · Java |
+| 60 | [Generate All Valid Bracket Colorings](recursion-and-backtracking/generate-all-valid-bracket-colorings/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟢 Easy | C# · Python · Java |
+| 61 | [Generate All Valid Locker Combinations](recursion-and-backtracking/generate-all-valid-locker-combinations/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟢 Easy | C# · Python · Java |
+| 62 | [Generate All Valid PIN Patterns](recursion-and-backtracking/generate-all-valid-pin-patterns/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟢 Easy | C# · Python · Java |
+| 63 | [Assign Tasks to Workers with Skill Constraints](recursion-and-backtracking/assign-tasks-to-workers-with-skill-constraints/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 64 | [Tile a Board with Dominoes and Trominoes](recursion-and-backtracking/tile-board-with-dominoes-and-trominoes/) | [Recursion and Backtracking](recursion-and-backtracking/) | 🟡 Medium | C# · Python · Java |
+| 65 | [Longest Chat Streak With At Most One Silent Minute](sliding-window/longest-chat-streak-with-at-most-one-silent-minute/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
+| 66 | [Longest Focus Session Under Noise Budget](sliding-window/longest-focus-session-under-noise-budget/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
+| 67 | [Longest Quiet Study Stretch](sliding-window/longest-quiet-study-stretch/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
+| 68 | [Longest Snack Break Within Calorie Limit](sliding-window/longest-snack-break-within-calorie-limit/) | [Sliding Window](sliding-window/) | 🟢 Easy | C# · Python · Java |
+| 69 | [Longest Alert Burst With Limited Priority Escalations](sliding-window/longest-alert-burst-with-limited-priority-escalations/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 70 | [Longest Playlist Window With Limited Artist Repeats](sliding-window/longest-playlist-window-with-limited-artist-repeats/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 71 | [Minimum Window Containing All Favorite Numbers](sliding-window/minimum-window-containing-all-favorite-numbers/) | [Sliding Window](sliding-window/) | 🟡 Medium | C# · Python · Java |
+| 72 | [Longest Purchase Streak With Category Quotas and Spend Cap](sliding-window/longest-purchase-streak-with-category-quotas-and-spend-cap/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 73 | [Longest Stream Interval With Bounded Value Spread and Required Topics](sliding-window/longest-stream-interval-with-bounded-value-spread-and-required-topics/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 74 | [Maximum Distinct Flavors in a Circular Tasting Menu](sliding-window/maximum-distinct-flavors-circular-tasting-menu/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 75 | [Shortest Error Burst Covering All Failure Codes](sliding-window/shortest-error-burst-covering-all-failure-codes/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 76 | [Simulate a Cafeteria Tray Stack](stacks-and-queues/simulate-cafeteria-tray-stack/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 77 | [Validate Service Desk Callbacks](stacks-and-queues/validate-service-desk-callbacks/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 78 | [Flatten Nested Task Queue](stacks-and-queues/flatten-nested-task-queue/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 79 | [Count Leaves at Each Level](trees/count-leaves-at-each-level/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 80 | [Sum of Left Boundary Nodes in Binary Tree](trees/sum-of-left-boundary-nodes-in-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 81 | [Deepest Common Ancestor at Target Depth](trees/deepest-common-ancestor-at-target-depth/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 82 | [Prefix Replacement Suggestions](tries/prefix-replacement-suggestions/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 83 | [Wildcard Query Frequency in Log Stream](tries/wildcard-query-frequency-in-log-stream/) | [Tries](tries/) | 🔴 Hard | C# · Python · Java |
+| 84 | [Pair Fruits by Combined Freshness Score](two-pointers/pair-fruits-by-combined-freshness-score/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 85 | [Squeeze Water Between Walls](two-pointers/squeeze-water-between-walls/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
 > Click any problem title to open its folder with solutions and explanation.
 
-### Arrays *(8 problems)*
+### Arrays *(9 problems)*
 
+- [Minimum Recolors to Form a Centered Price Peak](arrays/minimum-recolors-to-form-a-centered-price-peak/) 🟡 Medium
 - [Shortest Badge Sequence Covering All Teams](arrays/shortest-badge-sequence-covering-all-teams/) 🟡 Medium
 - [Minimum Adjustments to Create K Rising Price Blocks](arrays/minimum-adjustments-to-create-k-rising-price-blocks/) 🔴 Hard
 - [Count Stable Temperature Readings](arrays/count-stable-temperature-readings/) 🟢 Easy
@@ -128,8 +139,9 @@ Each problem folder contains:
 - [Find the Longest Uniform Subarray After One Replacement](arrays/longest-uniform-subarray-after-one-replacement/) 🟢 Easy
 - [Maximum Sum Rectangle with At Most K Negatives](arrays/maximum-sum-rectangle-with-at-most-k-negatives/) 🔴 Hard
 
-### Binary Search *(11 problems)*
+### Binary Search *(12 problems)*
 
+- [Locate First Price Tier Meeting Budget](binary-search/locate-first-price-tier-meeting-budget/) 🟢 Easy
 - [Minimum Cooldown to Launch K Rockets](binary-search/minimum-cooldown-to-launch-k-rockets/) 🔴 Hard
 - [Minimum Beacon Radius for City Coverage](binary-search/minimum-beacon-radius-for-city-coverage/) 🟡 Medium
 - [Maximum Uniform Delay for Train Departures](binary-search/maximum-uniform-delay-for-train-departures/) 🔴 Hard
@@ -139,8 +151,7 @@ Each problem folder contains:
 - [Earliest Day to Activate K Sensor Corridors](binary-search/earliest-day-to-activate-k-sensor-corridors/) 🔴 Hard
 - [First Store Open at or After Query Time](binary-search/first-store-open-at-or-after-query-time/) 🟢 Easy
 - [Minimum Capacity Shipping Containers Over D Days](binary-search/minimum-capacity-shipping-containers-over-d-days/) 🟡 Medium
-- [Minimum Pages Per Day to Finish All Books](binary-search/minimum-pages-per-day-to-finish-all-books/) 🟡 Medium
-- *...and 1 more — browse [`binary-search/`](binary-search/)*
+- *...and 2 more — browse [`binary-search/`](binary-search/)*
 
 ### Bit Manipulation *(8 problems)*
 
@@ -153,8 +164,9 @@ Each problem folder contains:
 - [Flip Bits to Match Target Pattern](bit-manipulation/flip-bits-to-match-target-pattern/) 🟢 Easy
 - [Decode XOR Encrypted Segments](bit-manipulation/decode-xor-encrypted-segments/) 🟡 Medium
 
-### Dynamic Programming *(10 problems)*
+### Dynamic Programming *(11 problems)*
 
+- [Minimum Rest Stops to Climb a Stair Route](dynamic-programming/minimum-rest-stops-to-climb-a-stair-route/) 🟢 Easy
 - [Maximum Points from Segmenting a Review String](dynamic-programming/maximum-points-from-segmenting-a-review-string/) 🟡 Medium
 - [Maximum Credits from Course Plan with Prerequisite Chains](dynamic-programming/maximum-credits-from-course-plan-with-prerequisite-chains/) 🟡 Medium
 - [Maximum Reward from Skipping Adjacent Milestones](dynamic-programming/maximum-reward-from-skipping-adjacent-milestones/) 🟡 Medium
@@ -164,10 +176,11 @@ Each problem folder contains:
 - [Minimum Penalty to Merge Backup Snapshots](dynamic-programming/minimum-penalty-to-merge-backup-snapshots/) 🔴 Hard
 - [Minimum Cost to Cut a Ribbon into Segments](dynamic-programming/minimum-cost-to-cut-ribbon-into-segments/) 🟡 Medium
 - [Minimum Cost to Collect All Coupons](dynamic-programming/minimum-cost-to-collect-all-coupons/) 🟡 Medium
-- [Painting Houses with Color Cooldown](dynamic-programming/painting-houses-with-color-cooldown/) 🟡 Medium
+- *...and 1 more — browse [`dynamic-programming/`](dynamic-programming/)*
 
-### Graphs *(3 problems)*
+### Graphs *(4 problems)*
 
+- [Maximum Delayed Gates in a Directed Escape Network](graphs/maximum-delayed-gates-in-a-directed-escape-network/) 🔴 Hard
 - [Shortest Path Through Mandatory Checkpoints](graphs/shortest-path-through-mandatory-checkpoints/) 🟡 Medium
 - [Minimum Time to Spread Signal Across Network](graphs/minimum-time-to-spread-signal-across-network/) 🟡 Medium
 - [Count Reachable Nodes from Each Capital](graphs/count-reachable-nodes-from-each-capital/) 🟢 Easy
@@ -180,8 +193,9 @@ Each problem folder contains:
 - [Group Anagram Chains by Frequency](hashing/group-anagram-chains-by-frequency/) 🟡 Medium
 - [Find All Symmetric Pairs in a Contact List](hashing/find-all-symmetric-pairs-in-contact-list/) 🟡 Medium
 
-### Heaps and Priority Queues *(2 problems)*
+### Heaps and Priority Queues *(3 problems)*
 
+- [Maximize Throughput with Expiring Compute Credits](heaps-and-priority-queues/maximize-throughput-with-expiring-compute-credits/) 🔴 Hard
 - [Schedule Meetings to Minimize Maximum Wait Time](heaps-and-priority-queues/schedule-meetings-to-minimize-maximum-wait-time/) 🔴 Hard
 - [Minimum Cost to Connect K Closest Server Clusters](heaps-and-priority-queues/minimum-cost-to-connect-k-closest-server-clusters/) 🔴 Hard
 
@@ -206,8 +220,9 @@ Each problem folder contains:
 - [Generate All Valid Bracket Colorings](recursion-and-backtracking/generate-all-valid-bracket-colorings/) 🟢 Easy
 - [Generate All Valid PIN Patterns](recursion-and-backtracking/generate-all-valid-pin-patterns/) 🟢 Easy
 
-### Sliding Window *(10 problems)*
+### Sliding Window *(11 problems)*
 
+- [Longest Chat Streak With At Most One Silent Minute](sliding-window/longest-chat-streak-with-at-most-one-silent-minute/) 🟢 Easy
 - [Longest Purchase Streak With Category Quotas and Spend Cap](sliding-window/longest-purchase-streak-with-category-quotas-and-spend-cap/) 🔴 Hard
 - [Shortest Error Burst Covering All Failure Codes](sliding-window/shortest-error-burst-covering-all-failure-codes/) 🔴 Hard
 - [Longest Playlist Window With Limited Artist Repeats](sliding-window/longest-playlist-window-with-limited-artist-repeats/) 🟡 Medium
@@ -217,7 +232,7 @@ Each problem folder contains:
 - [Longest Quiet Study Stretch](sliding-window/longest-quiet-study-stretch/) 🟢 Easy
 - [Maximum Distinct Flavors in a Circular Tasting Menu](sliding-window/maximum-distinct-flavors-circular-tasting-menu/) 🔴 Hard
 - [Longest Snack Break Within Calorie Limit](sliding-window/longest-snack-break-within-calorie-limit/) 🟢 Easy
-- [Minimum Window Containing All Favorite Numbers](sliding-window/minimum-window-containing-all-favorite-numbers/) 🟡 Medium
+- *...and 1 more — browse [`sliding-window/`](sliding-window/)*
 
 ### Stacks and Queues *(3 problems)*
 
@@ -253,4 +268,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-06-16 · 79 problems across 15 topics*
+*Last updated: 2026-06-17 · 85 problems across 15 topics*
