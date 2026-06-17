@@ -1,0 +1,12 @@
+{
+  "title": "Longest Chat Streak With At Most One Silent Minute",
+  "slug": "longest-chat-streak-with-at-most-one-silent-minute",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-17T19:01:11.1355753+00:00"
+}

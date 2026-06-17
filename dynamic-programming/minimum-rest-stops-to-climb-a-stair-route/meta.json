@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rest Stops to Climb a Stair Route",
+  "slug": "minimum-rest-stops-to-climb-a-stair-route",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "1d-dp"
+  ],
+  "generatedAt": "2026-06-17T19:00:52.4439876+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Delayed Gates in a Directed Escape Network",
+  "slug": "maximum-delayed-gates-in-a-directed-escape-network",
+  "topic": "Graphs",
+  "difficulty": "Hard",
+  "tags": [
+    "Graphs",
+    "Strongly Connected Components",
+    "DAG"
+  ],
+  "generatedAt": "2026-06-17T19:01:03.7101153+00:00"
+}
