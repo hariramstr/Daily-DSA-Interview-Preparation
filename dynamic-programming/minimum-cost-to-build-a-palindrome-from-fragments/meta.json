@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Build a Palindrome from Fragments",
+  "slug": "minimum-cost-to-build-a-palindrome-from-fragments",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "subsequence"
+  ],
+  "generatedAt": "2026-06-18T19:00:36.1387063+00:00"
+}

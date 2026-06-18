@@ -1,0 +1,12 @@
+{
+  "title": "Fewest Route Transfers to Reach Destination Hub",
+  "slug": "fewest-route-transfers-to-reach-destination-hub",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-06-18T19:00:52.3131732+00:00"
+}

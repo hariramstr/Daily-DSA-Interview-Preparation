@@ -1,0 +1,12 @@
+{
+  "title": "Longest Upgrade Window With One Rollback",
+  "slug": "longest-upgrade-window-with-one-rollback",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-18T19:00:58.6113518+00:00"
+}
