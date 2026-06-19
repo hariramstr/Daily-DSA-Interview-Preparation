@@ -1,0 +1,12 @@
+{
+  "title": "Serve Queries by Highest Rated Item",
+  "slug": "serve-queries-by-highest-rated-item",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "hash-map"
+  ],
+  "generatedAt": "2026-06-19T19:00:45.4338288+00:00"
+}
