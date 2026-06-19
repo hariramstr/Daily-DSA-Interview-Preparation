@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Choosing Endpoints with Growing Penalties",
+  "slug": "maximum-score-from-choosing-endpoints-with-growing-penalties",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Arrays",
+    "Interval DP"
+  ],
+  "generatedAt": "2026-06-19T19:00:23.5211184+00:00"
+}
