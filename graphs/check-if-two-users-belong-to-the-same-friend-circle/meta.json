@@ -1,0 +1,12 @@
+{
+  "title": "Check if Two Users Belong to the Same Friend Circle",
+  "slug": "check-if-two-users-belong-to-the-same-friend-circle",
+  "topic": "Graphs",
+  "difficulty": "Easy",
+  "tags": [
+    "Graph",
+    "BFS",
+    "DFS"
+  ],
+  "generatedAt": "2026-06-19T19:00:51.5460074+00:00"
+}

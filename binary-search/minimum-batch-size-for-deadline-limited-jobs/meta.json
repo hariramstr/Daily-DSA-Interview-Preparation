@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Batch Size for Deadline-Limited Jobs",
+  "slug": "minimum-batch-size-for-deadline-limited-jobs",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "prefix-sum"
+  ],
+  "generatedAt": "2026-06-19T19:01:07.0450788+00:00"
+}
