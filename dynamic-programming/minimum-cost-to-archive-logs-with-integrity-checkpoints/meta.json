@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Archive Logs with Integrity Checkpoints",
+  "slug": "minimum-cost-to-archive-logs-with-integrity-checkpoints",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "partition-dp",
+    "prefix-sum"
+  ],
+  "generatedAt": "2026-06-19T19:00:35.5328865+00:00"
+}
