@@ -1,0 +1,12 @@
+{
+  "title": "Process Servers by Highest Failure Count",
+  "slug": "process-servers-by-highest-failure-count",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "Heap",
+    "Priority Queue",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-06-20T19:00:37.3763151+00:00"
+}
