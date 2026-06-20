@@ -1,0 +1,12 @@
+{
+  "title": "Redundant Approval Link in a Workflow Graph",
+  "slug": "redundant-approval-link-in-a-workflow-graph",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Union Find",
+    "Directed Graph"
+  ],
+  "generatedAt": "2026-06-20T19:00:30.0274634+00:00"
+}
