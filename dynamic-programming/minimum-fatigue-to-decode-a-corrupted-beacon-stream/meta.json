@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Decode a Corrupted Beacon Stream",
+  "slug": "minimum-fatigue-to-decode-a-corrupted-beacon-stream",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "trie"
+  ],
+  "generatedAt": "2026-06-21T19:00:26.103236+00:00"
+}
