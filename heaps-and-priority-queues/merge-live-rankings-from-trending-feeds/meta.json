@@ -1,0 +1,12 @@
+{
+  "title": "Merge Live Rankings from Trending Feeds",
+  "slug": "merge-live-rankings-from-trending-feeds",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "k-way-merge"
+  ],
+  "generatedAt": "2026-06-21T19:00:47.5858234+00:00"
+}
