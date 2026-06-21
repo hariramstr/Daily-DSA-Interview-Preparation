@@ -1,0 +1,12 @@
+{
+  "title": "Longest Store Queue Under Customer Limit",
+  "slug": "longest-store-queue-under-customer-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-21T19:00:31.9339824+00:00"
+}
