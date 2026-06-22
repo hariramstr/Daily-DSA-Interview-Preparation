@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score of a Bounded-Difference Trading Streak",
+  "slug": "maximum-score-of-a-bounded-difference-trading-streak",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Monotonic Queue"
+  ],
+  "generatedAt": "2026-06-22T19:00:32.1671836+00:00"
+}

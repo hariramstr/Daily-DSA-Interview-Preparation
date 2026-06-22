@@ -1,0 +1,12 @@
+{
+  "title": "Longest Compliance Window with Forbidden Pair Threshold",
+  "slug": "longest-compliance-window-with-forbidden-pair-threshold",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-06-22T19:00:40.9084769+00:00"
+}

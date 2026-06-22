@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Stabilize a Multi-Stage Assembly Line",
+  "slug": "minimum-cost-to-stabilize-a-multi-stage-assembly-line",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "State Compression",
+    "Sequence Optimization"
+  ],
+  "generatedAt": "2026-06-22T19:00:58.9933892+00:00"
+}
