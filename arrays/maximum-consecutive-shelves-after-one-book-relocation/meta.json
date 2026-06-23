@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Shelves After One Book Relocation",
+  "slug": "maximum-consecutive-shelves-after-one-book-relocation",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-06-23T19:00:32.3022658+00:00"
+}

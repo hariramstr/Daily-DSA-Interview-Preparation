@@ -1,0 +1,12 @@
+{
+  "title": "Count Ways to Climb a Broken Staircase",
+  "slug": "count-ways-to-climb-a-broken-staircase",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "counting"
+  ],
+  "generatedAt": "2026-06-23T19:01:01.7115576+00:00"
+}

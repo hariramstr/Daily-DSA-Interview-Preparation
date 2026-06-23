@@ -1,0 +1,12 @@
+{
+  "title": "Longest Billing Window With Per-Customer Request Caps",
+  "slug": "longest-billing-window-with-per-customer-request-caps",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-23T19:00:25.3554481+00:00"
+}
