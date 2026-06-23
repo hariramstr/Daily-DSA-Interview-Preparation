@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Access Revocations to Isolate Sensitive Databases",
+  "slug": "minimum-access-revocations-to-isolate-sensitive-databases",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Connected Components",
+    "DFS"
+  ],
+  "generatedAt": "2026-06-23T19:00:54.5846537+00:00"
+}
