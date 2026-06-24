@@ -1,0 +1,12 @@
+{
+  "title": "Longest Promo Window With Limited Duplicate Coupons",
+  "slug": "longest-promo-window-with-limited-duplicate-coupons",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-24T19:00:49.4504142+00:00"
+}
