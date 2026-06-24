@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Coins from Non-Adjacent Arcade Machines",
+  "slug": "maximum-coins-from-non-adjacent-arcade-machines",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-06-24T19:00:36.0469055+00:00"
+}

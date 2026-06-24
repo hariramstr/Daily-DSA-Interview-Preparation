@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Swaps to Cluster Priority Orders",
+  "slug": "minimum-swaps-to-cluster-priority-orders",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Greedy"
+  ],
+  "generatedAt": "2026-06-24T19:00:28.5687079+00:00"
+}
