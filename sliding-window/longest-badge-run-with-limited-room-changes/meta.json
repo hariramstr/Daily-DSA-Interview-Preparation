@@ -1,0 +1,12 @@
+{
+  "title": "Longest Badge Run With Limited Room Changes",
+  "slug": "longest-badge-run-with-limited-room-changes",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-25T19:00:29.615264+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Satisfaction from Alternating Workshop Tracks",
+  "slug": "maximum-satisfaction-from-alternating-workshop-tracks",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-transition"
+  ],
+  "generatedAt": "2026-06-25T19:00:36.0948776+00:00"
+}
