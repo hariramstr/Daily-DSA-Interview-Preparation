@@ -1,0 +1,12 @@
+{
+  "title": "Longest Viewing Streak With Limited Ad Categories",
+  "slug": "longest-viewing-streak-with-limited-ad-categories",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-06-26T19:00:33.0738755+00:00"
+}
