@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Backup Jobs with Warm Servers",
+  "slug": "minimum-cost-to-schedule-backup-jobs-with-warm-servers",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-transition",
+    "optimization"
+  ],
+  "generatedAt": "2026-06-26T19:01:00.0088396+00:00"
+}
