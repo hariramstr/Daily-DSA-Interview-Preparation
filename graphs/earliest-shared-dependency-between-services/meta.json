@@ -1,0 +1,12 @@
+{
+  "title": "Earliest Shared Dependency Between Services",
+  "slug": "earliest-shared-dependency-between-services",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-06-26T19:00:43.2317747+00:00"
+}
