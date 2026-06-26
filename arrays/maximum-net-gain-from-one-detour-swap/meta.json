@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Net Gain from One Detour Swap",
+  "slug": "maximum-net-gain-from-one-detour-swap",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-06-26T19:00:26.9026993+00:00"
+}
