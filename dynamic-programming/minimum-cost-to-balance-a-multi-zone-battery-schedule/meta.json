@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Balance a Multi-Zone Battery Schedule",
+  "slug": "minimum-cost-to-balance-a-multi-zone-battery-schedule",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "prefix-optimization"
+  ],
+  "generatedAt": "2026-06-27T19:00:35.484821+00:00"
+}
