@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Toll to Synchronize Two Rescue Drones",
+  "slug": "minimum-toll-to-synchronize-two-rescue-drones",
+  "topic": "Graphs",
+  "difficulty": "Hard",
+  "tags": [
+    "Graphs",
+    "Dijkstra",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-06-28T19:00:54.6184926+00:00"
+}

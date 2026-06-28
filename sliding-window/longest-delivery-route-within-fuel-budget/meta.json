@@ -1,0 +1,12 @@
+{
+  "title": "Longest Delivery Route Within Fuel Budget",
+  "slug": "longest-delivery-route-within-fuel-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-06-28T19:00:38.3988276+00:00"
+}

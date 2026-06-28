@@ -1,0 +1,12 @@
+{
+  "title": "Detect Reused Transaction Memo Patterns",
+  "slug": "detect-reused-transaction-memo-patterns",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Hash Map",
+    "String"
+  ],
+  "generatedAt": "2026-06-28T19:00:32.6516265+00:00"
+}
