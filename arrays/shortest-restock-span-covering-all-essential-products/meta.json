@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Restock Span Covering All Essential Products",
+  "slug": "shortest-restock-span-covering-all-essential-products",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-06-28T19:01:00.6501945+00:00"
+}
