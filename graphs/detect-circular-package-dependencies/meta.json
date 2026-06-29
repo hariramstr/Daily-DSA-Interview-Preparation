@@ -1,0 +1,12 @@
+{
+  "title": "Detect Circular Package Dependencies",
+  "slug": "detect-circular-package-dependencies",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Topological Sort",
+    "Cycle Detection"
+  ],
+  "generatedAt": "2026-06-29T19:00:20.3676874+00:00"
+}
