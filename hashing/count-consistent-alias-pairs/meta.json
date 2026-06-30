@@ -1,0 +1,12 @@
+{
+  "title": "Count Consistent Alias Pairs",
+  "slug": "count-consistent-alias-pairs",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Bitmask",
+    "Counting"
+  ],
+  "generatedAt": "2026-06-30T19:00:46.1149104+00:00"
+}
