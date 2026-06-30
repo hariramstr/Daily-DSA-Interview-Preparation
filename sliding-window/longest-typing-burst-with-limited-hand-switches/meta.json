@@ -1,0 +1,12 @@
+{
+  "title": "Longest Typing Burst With Limited Hand Switches",
+  "slug": "longest-typing-burst-with-limited-hand-switches",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "String"
+  ],
+  "generatedAt": "2026-06-30T19:01:11.7944389+00:00"
+}
