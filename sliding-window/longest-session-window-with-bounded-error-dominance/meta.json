@@ -1,0 +1,12 @@
+{
+  "title": "Longest Session Window With Bounded Error Dominance",
+  "slug": "longest-session-window-with-bounded-error-dominance",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-01T19:00:39.4115039+00:00"
+}
