@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Audience Gain from One Schedule Insertion",
+  "slug": "maximum-audience-gain-from-one-schedule-insertion",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-07-01T19:00:49.8815431+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Count Customers with a Unique Favorite Product",
+  "slug": "count-customers-with-a-unique-favorite-product",
+  "topic": "Hashing",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Map",
+    "Counting",
+    "Array"
+  ],
+  "generatedAt": "2026-07-01T19:00:57.5179632+00:00"
+}
