@@ -1,0 +1,12 @@
+{
+  "title": "Nearest Exit Gate in an Office Floor",
+  "slug": "nearest-exit-gate-in-an-office-floor",
+  "topic": "Graphs",
+  "difficulty": "Easy",
+  "tags": [
+    "Graphs",
+    "Breadth-First Search",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-07-01T19:01:16.0323867+00:00"
+}
