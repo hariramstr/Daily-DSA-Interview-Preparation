@@ -1,0 +1,12 @@
+{
+  "title": "Longest Route Segment With Limited Toll Booth Types",
+  "slug": "longest-route-segment-with-limited-toll-booth-types",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "sliding-window",
+    "hash-map",
+    "two-pointers"
+  ],
+  "generatedAt": "2026-07-02T19:00:25.5036282+00:00"
+}
