@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Training Score to Unlock Project Groups",
+  "slug": "minimum-training-score-to-unlock-project-groups",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "prefix-sum",
+    "monotonic-function"
+  ],
+  "generatedAt": "2026-07-02T19:00:40.5059112+00:00"
+}
