@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Weighted Median Segment",
+  "slug": "maximum-weighted-median-segment",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Binary Search",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-07-03T19:01:11.7858012+00:00"
+}
