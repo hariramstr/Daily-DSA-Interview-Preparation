@@ -1,0 +1,12 @@
+{
+  "title": "Longest Annotation Span With Limited Reviewer Handoffs",
+  "slug": "longest-annotation-span-with-limited-reviewer-handoffs",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-07-03T19:00:48.8490926+00:00"
+}

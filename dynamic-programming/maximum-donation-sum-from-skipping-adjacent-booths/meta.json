@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Donation Sum from Skipping Adjacent Booths",
+  "slug": "maximum-donation-sum-from-skipping-adjacent-booths",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-07-03T19:00:54.3636874+00:00"
+}
