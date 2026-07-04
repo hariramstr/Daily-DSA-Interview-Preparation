@@ -1,0 +1,12 @@
+{
+  "title": "Longest Note Sequence With Limited Pitch Jumps",
+  "slug": "longest-note-sequence-with-limited-pitch-jumps",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Array"
+  ],
+  "generatedAt": "2026-07-04T19:00:36.4716141+00:00"
+}
