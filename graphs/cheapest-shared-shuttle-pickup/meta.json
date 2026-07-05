@@ -1,0 +1,12 @@
+{
+  "title": "Cheapest Shared Shuttle Pickup",
+  "slug": "cheapest-shared-shuttle-pickup",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Dijkstra",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-07-05T19:00:32.4031039+00:00"
+}
