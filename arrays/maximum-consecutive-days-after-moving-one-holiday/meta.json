@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Days After Moving One Holiday",
+  "slug": "maximum-consecutive-days-after-moving-one-holiday",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Greedy"
+  ],
+  "generatedAt": "2026-07-06T19:00:34.7871493+00:00"
+}
