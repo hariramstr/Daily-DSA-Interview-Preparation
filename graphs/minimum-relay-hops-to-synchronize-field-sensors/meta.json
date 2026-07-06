@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Relay Hops to Synchronize Field Sensors",
+  "slug": "minimum-relay-hops-to-synchronize-field-sensors",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Strongly Connected Components",
+    "Directed Graph"
+  ],
+  "generatedAt": "2026-07-06T19:00:27.9366501+00:00"
+}
