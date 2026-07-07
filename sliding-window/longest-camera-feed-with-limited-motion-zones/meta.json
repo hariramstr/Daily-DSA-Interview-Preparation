@@ -1,0 +1,12 @@
+{
+  "title": "Longest Camera Feed With Limited Motion Zones",
+  "slug": "longest-camera-feed-with-limited-motion-zones",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-07T19:00:36.5631667+00:00"
+}
