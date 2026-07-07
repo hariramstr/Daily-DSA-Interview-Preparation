@@ -1,0 +1,12 @@
+{
+  "title": "Count Accounts Sharing an Email Domain Set",
+  "slug": "count-accounts-sharing-an-email-domain-set",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Sets",
+    "String"
+  ],
+  "generatedAt": "2026-07-07T19:00:43.9170778+00:00"
+}
