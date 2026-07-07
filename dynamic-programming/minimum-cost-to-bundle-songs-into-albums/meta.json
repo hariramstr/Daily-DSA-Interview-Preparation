@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Bundle Songs into Albums",
+  "slug": "minimum-cost-to-bundle-songs-into-albums",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "partition-dp"
+  ],
+  "generatedAt": "2026-07-07T19:00:28.4481722+00:00"
+}
