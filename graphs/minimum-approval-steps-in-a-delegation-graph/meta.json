@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Approval Steps in a Delegation Graph",
+  "slug": "minimum-approval-steps-in-a-delegation-graph",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "Breadth-First Search",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-07-07T19:00:50.3846349+00:00"
+}
