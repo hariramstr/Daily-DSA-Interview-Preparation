@@ -1,0 +1,12 @@
+{
+  "title": "Longest Viewing Block With Limited Subtitle Languages",
+  "slug": "longest-viewing-block-with-limited-subtitle-languages",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "sliding window",
+    "hash map",
+    "two pointers"
+  ],
+  "generatedAt": "2026-07-08T19:00:31.2125315+00:00"
+}
