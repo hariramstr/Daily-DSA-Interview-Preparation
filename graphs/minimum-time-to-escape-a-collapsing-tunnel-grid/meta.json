@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Time to Escape a Collapsing Tunnel Grid",
+  "slug": "minimum-time-to-escape-a-collapsing-tunnel-grid",
+  "topic": "Graphs",
+  "difficulty": "Hard",
+  "tags": [
+    "graphs",
+    "dijkstra",
+    "shortest-path",
+    "time-dependent-graph",
+    "priority-queue"
+  ],
+  "generatedAt": "2026-07-08T19:00:55.3573177+00:00"
+}
