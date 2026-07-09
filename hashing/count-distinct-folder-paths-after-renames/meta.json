@@ -1,0 +1,12 @@
+{
+  "title": "Count Distinct Folder Paths After Renames",
+  "slug": "count-distinct-folder-paths-after-renames",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "String",
+    "Set"
+  ],
+  "generatedAt": "2026-07-09T19:01:06.9946546+00:00"
+}
