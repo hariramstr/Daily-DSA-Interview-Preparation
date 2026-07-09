@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Playback Buffer Size for Live Segments",
+  "slug": "minimum-playback-buffer-size-for-live-segments",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Array"
+  ],
+  "generatedAt": "2026-07-09T19:00:28.1218677+00:00"
+}
