@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Segment a Route into Rechargeable Legs",
+  "slug": "minimum-cost-to-segment-a-route-into-rechargeable-legs",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Convex Hull Trick",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-07-09T19:00:44.511894+00:00"
+}

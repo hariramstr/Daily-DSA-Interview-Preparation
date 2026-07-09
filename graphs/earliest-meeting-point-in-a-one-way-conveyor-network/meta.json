@@ -1,0 +1,12 @@
+{
+  "title": "Earliest Meeting Point in a One-Way Conveyor Network",
+  "slug": "earliest-meeting-point-in-a-one-way-conveyor-network",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-07-09T19:00:52.3771165+00:00"
+}
