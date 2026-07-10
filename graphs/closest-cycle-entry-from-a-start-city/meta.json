@@ -1,0 +1,12 @@
+{
+  "title": "Closest Cycle Entry from a Start City",
+  "slug": "closest-cycle-entry-from-a-start-city",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "BFS",
+    "Strongly Connected Components"
+  ],
+  "generatedAt": "2026-07-10T19:00:27.9700175+00:00"
+}
