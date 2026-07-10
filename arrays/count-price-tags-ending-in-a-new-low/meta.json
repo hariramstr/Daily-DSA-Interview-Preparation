@@ -1,0 +1,12 @@
+{
+  "title": "Count Price Tags Ending in a New Low",
+  "slug": "count-price-tags-ending-in-a-new-low",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "Arrays",
+    "Simulation",
+    "Prefix Minimum"
+  ],
+  "generatedAt": "2026-07-10T19:00:33.5188533+00:00"
+}
