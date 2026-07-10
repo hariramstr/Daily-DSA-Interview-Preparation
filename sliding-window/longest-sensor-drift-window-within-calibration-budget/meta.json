@@ -1,0 +1,12 @@
+{
+  "title": "Longest Sensor Drift Window Within Calibration Budget",
+  "slug": "longest-sensor-drift-window-within-calibration-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Array"
+  ],
+  "generatedAt": "2026-07-10T19:00:46.1197665+00:00"
+}
