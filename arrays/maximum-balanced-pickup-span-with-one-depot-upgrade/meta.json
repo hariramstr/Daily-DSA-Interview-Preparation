@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Balanced Pickup Span with One Depot Upgrade",
+  "slug": "maximum-balanced-pickup-span-with-one-depot-upgrade",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "arrays",
+    "sliding-window",
+    "monotonic-queue"
+  ],
+  "generatedAt": "2026-07-11T19:01:04.3273698+00:00"
+}

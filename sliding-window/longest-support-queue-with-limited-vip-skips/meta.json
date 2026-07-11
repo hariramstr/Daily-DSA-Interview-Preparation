@@ -1,0 +1,12 @@
+{
+  "title": "Longest Support Queue With Limited VIP Skips",
+  "slug": "longest-support-queue-with-limited-vip-skips",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-07-11T19:01:22.5512808+00:00"
+}

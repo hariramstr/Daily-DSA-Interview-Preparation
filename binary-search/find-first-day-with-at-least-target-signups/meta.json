@@ -1,0 +1,12 @@
+{
+  "title": "Find First Day With At Least Target Signups",
+  "slug": "find-first-day-with-at-least-target-signups",
+  "topic": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+    "binary-search",
+    "array",
+    "lower-bound"
+  ],
+  "generatedAt": "2026-07-11T19:00:52.0955982+00:00"
+}
