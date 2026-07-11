@@ -1,0 +1,12 @@
+{
+  "title": "Last Safe Merge Before Road Closures",
+  "slug": "last-safe-merge-before-road-closures",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "graphs",
+    "shortest-path",
+    "bfs"
+  ],
+  "generatedAt": "2026-07-11T19:01:15.62423+00:00"
+}
