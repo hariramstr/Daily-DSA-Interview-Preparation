@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Collectible Data Before Firewall Lockdown",
+  "slug": "maximum-collectible-data-before-firewall-lockdown",
+  "topic": "Graphs",
+  "difficulty": "Hard",
+  "tags": [
+    "Graphs",
+    "Strongly Connected Components",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-07-12T19:00:45.9677973+00:00"
+}
