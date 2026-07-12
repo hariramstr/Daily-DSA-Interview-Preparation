@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Dominance Score of a Split Prefix",
+  "slug": "maximum-dominance-score-of-a-split-prefix",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-07-12T19:01:13.5719851+00:00"
+}
