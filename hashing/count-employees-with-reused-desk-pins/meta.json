@@ -1,0 +1,12 @@
+{
+  "title": "Count Employees With Reused Desk PINs",
+  "slug": "count-employees-with-reused-desk-pins",
+  "topic": "Hashing",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "Array",
+    "Counting"
+  ],
+  "generatedAt": "2026-07-12T19:01:02.7430218+00:00"
+}
