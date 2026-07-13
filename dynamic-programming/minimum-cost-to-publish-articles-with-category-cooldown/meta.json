@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Publish Articles with Category Cooldown",
+  "slug": "minimum-cost-to-publish-articles-with-category-cooldown",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-compression",
+    "array"
+  ],
+  "generatedAt": "2026-07-13T19:00:43.3780199+00:00"
+}
