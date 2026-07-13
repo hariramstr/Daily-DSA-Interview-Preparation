@@ -1,0 +1,12 @@
+{
+  "title": "Longest Stable Price Span After One Correction",
+  "slug": "longest-stable-price-span-after-one-correction",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-07-13T19:00:50.0394067+00:00"
+}
