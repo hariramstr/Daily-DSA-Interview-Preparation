@@ -1,0 +1,12 @@
+{
+  "title": "Longest Event Span With Matching Endpoint Signature",
+  "slug": "longest-event-span-with-matching-endpoint-signature",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Prefix Frequency",
+    "Arrays"
+  ],
+  "generatedAt": "2026-07-14T19:00:31.6674843+00:00"
+}
