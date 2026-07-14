@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Sensor IDs After One Repair",
+  "slug": "maximum-consecutive-sensor-ids-after-one-repair",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "generatedAt": "2026-07-14T19:00:25.0683592+00:00"
+}
