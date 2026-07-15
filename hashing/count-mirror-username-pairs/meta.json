@@ -1,0 +1,12 @@
+{
+  "title": "Count Mirror Username Pairs",
+  "slug": "count-mirror-username-pairs",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Map",
+    "String",
+    "Counting"
+  ],
+  "generatedAt": "2026-07-15T19:00:52.3531319+00:00"
+}
