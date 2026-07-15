@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Decode a Split Keyboard Message",
+  "slug": "minimum-cost-to-decode-a-split-keyboard-message",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "memoization"
+  ],
+  "generatedAt": "2026-07-15T19:00:32.7007916+00:00"
+}
