@@ -1,0 +1,12 @@
+{
+  "title": "Verify Single Route Through All Warehouses",
+  "slug": "verify-single-route-through-all-warehouses",
+  "topic": "Graphs",
+  "difficulty": "Easy",
+  "tags": [
+    "Graphs",
+    "DFS",
+    "Connectivity"
+  ],
+  "generatedAt": "2026-07-15T19:00:38.894679+00:00"
+}
