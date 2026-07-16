@@ -1,0 +1,12 @@
+{
+  "title": "Longest Work Block With Limited App Switching",
+  "slug": "longest-work-block-with-limited-app-switching",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-16T19:00:26.7236443+00:00"
+}
