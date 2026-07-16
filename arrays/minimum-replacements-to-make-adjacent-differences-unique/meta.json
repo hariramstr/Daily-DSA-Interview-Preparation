@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Replacements to Make Adjacent Differences Unique",
+  "slug": "minimum-replacements-to-make-adjacent-differences-unique",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-07-16T19:00:34.7401165+00:00"
+}
