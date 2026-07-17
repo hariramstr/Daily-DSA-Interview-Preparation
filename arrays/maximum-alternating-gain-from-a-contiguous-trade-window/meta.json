@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Alternating Gain from a Contiguous Trade Window",
+  "slug": "maximum-alternating-gain-from-a-contiguous-trade-window",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane Variant"
+  ],
+  "generatedAt": "2026-07-17T19:00:36.6818784+00:00"
+}
