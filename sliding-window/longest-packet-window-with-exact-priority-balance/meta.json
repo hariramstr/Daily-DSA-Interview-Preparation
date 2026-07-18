@@ -1,0 +1,12 @@
+{
+  "title": "Longest Packet Window With Exact Priority Balance",
+  "slug": "longest-packet-window-with-exact-priority-balance",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-18T19:00:45.1115346+00:00"
+}
