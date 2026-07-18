@@ -1,0 +1,12 @@
+{
+  "title": "Count Distinct User Sets per Alert Pattern",
+  "slug": "count-distinct-user-sets-per-alert-pattern",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Set Canonicalization",
+    "Counting"
+  ],
+  "generatedAt": "2026-07-18T19:00:52.870526+00:00"
+}
