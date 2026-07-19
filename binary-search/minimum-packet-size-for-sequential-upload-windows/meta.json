@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Packet Size for Sequential Upload Windows",
+  "slug": "minimum-packet-size-for-sequential-upload-windows",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "array"
+  ],
+  "generatedAt": "2026-07-19T19:00:43.5384836+00:00"
+}
