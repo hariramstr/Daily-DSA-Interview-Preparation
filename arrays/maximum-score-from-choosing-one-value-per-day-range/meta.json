@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Choosing One Value Per Day Range",
+  "slug": "maximum-score-from-choosing-one-value-per-day-range",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "arrays",
+    "dynamic-programming",
+    "optimization"
+  ],
+  "generatedAt": "2026-07-19T19:00:49.8638201+00:00"
+}
