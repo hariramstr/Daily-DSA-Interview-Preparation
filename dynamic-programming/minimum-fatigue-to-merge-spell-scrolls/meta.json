@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Merge Spell Scrolls",
+  "slug": "minimum-fatigue-to-merge-spell-scrolls",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Interval DP",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-07-19T19:00:37.0191896+00:00"
+}
