@@ -1,0 +1,12 @@
+{
+  "title": "Longest Feed Window With Per-Topic Recency Limit",
+  "slug": "longest-feed-window-with-per-topic-recency-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-19T19:00:30.5024153+00:00"
+}
