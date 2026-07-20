@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Transcript Span Covering Required Keywords with Quotas",
+  "slug": "shortest-transcript-span-covering-required-keywords-with-quotas",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-20T19:00:53.0513658+00:00"
+}
