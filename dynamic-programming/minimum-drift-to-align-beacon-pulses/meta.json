@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Drift to Align Beacon Pulses",
+  "slug": "minimum-drift-to-align-beacon-pulses",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Prefix Sum",
+    "Partition DP"
+  ],
+  "generatedAt": "2026-07-20T19:00:41.7316335+00:00"
+}

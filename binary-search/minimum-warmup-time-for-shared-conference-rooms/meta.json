@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Warmup Time for Shared Conference Rooms",
+  "slug": "minimum-warmup-time-for-shared-conference-rooms",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "monotonic-predicate",
+    "arrays"
+  ],
+  "generatedAt": "2026-07-20T19:01:07.3424825+00:00"
+}
