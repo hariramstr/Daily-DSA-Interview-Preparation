@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Merge Cost for Layered Test Suites",
+  "slug": "minimum-merge-cost-for-layered-test-suites",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Interval DP",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-07-21T19:00:27.1730424+00:00"
+}
