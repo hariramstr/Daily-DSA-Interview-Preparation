@@ -1,0 +1,12 @@
+{
+  "title": "Longest Snack Cart Run Within Budget",
+  "slug": "longest-snack-cart-run-within-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "sliding-window",
+    "array",
+    "two-pointers"
+  ],
+  "generatedAt": "2026-07-21T19:00:58.3997824+00:00"
+}

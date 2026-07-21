@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Visible Booths Between Taller Buildings",
+  "slug": "maximum-visible-booths-between-taller-buildings",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Monotonic Stack",
+    "Nearest Greater Element"
+  ],
+  "generatedAt": "2026-07-21T19:00:52.4577604+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Backup Interval Under Restore Deadline",
+  "slug": "maximum-backup-interval-under-restore-deadline",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "binary-search",
+    "prefix-sum",
+    "array"
+  ],
+  "generatedAt": "2026-07-21T19:00:43.00591+00:00"
+}
