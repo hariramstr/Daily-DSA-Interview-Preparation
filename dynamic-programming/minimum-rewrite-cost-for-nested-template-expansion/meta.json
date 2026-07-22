@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rewrite Cost for Nested Template Expansion",
+  "slug": "minimum-rewrite-cost-for-nested-template-expansion",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "trie",
+    "string-matching"
+  ],
+  "generatedAt": "2026-07-22T19:00:38.6783807+00:00"
+}

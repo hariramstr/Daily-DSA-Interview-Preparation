@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Log Span Covering Error Severities",
+  "slug": "shortest-log-span-covering-error-severities",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-22T19:00:44.8245148+00:00"
+}
