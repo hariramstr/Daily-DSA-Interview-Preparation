@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Station Range to Relay a Mountain Convoy",
+  "slug": "minimum-station-range-to-relay-a-mountain-convoy",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "dynamic-programming"
+  ],
+  "generatedAt": "2026-07-23T19:00:48.4893867+00:00"
+}

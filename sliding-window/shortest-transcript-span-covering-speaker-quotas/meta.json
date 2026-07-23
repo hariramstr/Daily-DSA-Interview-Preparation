@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Transcript Span Covering Speaker Quotas",
+  "slug": "shortest-transcript-span-covering-speaker-quotas",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-23T19:01:03.4828812+00:00"
+}
