@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Market Span Covering All Ad Campaigns",
+  "slug": "shortest-market-span-covering-all-ad-campaigns",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-24T19:00:42.8311548+00:00"
+}
