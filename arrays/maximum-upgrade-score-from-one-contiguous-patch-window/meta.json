@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Upgrade Score from One Contiguous Patch Window",
+  "slug": "maximum-upgrade-score-from-one-contiguous-patch-window",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-07-24T19:01:05.2141528+00:00"
+}
