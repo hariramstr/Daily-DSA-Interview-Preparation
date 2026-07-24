@@ -1,0 +1,12 @@
+{
+  "title": "Shortest API Trace Covering Endpoint Quotas",
+  "slug": "shortest-api-trace-covering-endpoint-quotas",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hash Table",
+    "Sliding Window",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-24T19:00:36.4143661+00:00"
+}
