@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Plan Study Sessions with Topic Fatigue",
+  "slug": "minimum-cost-to-plan-study-sessions-with-topic-fatigue",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "partition-dp"
+  ],
+  "generatedAt": "2026-07-24T19:00:53.3648391+00:00"
+}
