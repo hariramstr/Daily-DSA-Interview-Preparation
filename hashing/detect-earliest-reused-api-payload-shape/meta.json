@@ -1,0 +1,13 @@
+{
+  "title": "Detect Earliest Reused API Payload Shape",
+  "slug": "detect-earliest-reused-api-payload-shape",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Canonical Signature",
+    "String",
+    "Data Structures"
+  ],
+  "generatedAt": "2026-07-25T19:00:58.2589712+00:00"
+}
