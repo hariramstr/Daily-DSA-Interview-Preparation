@@ -1,0 +1,12 @@
+{
+  "title": "Longest Checkout Line With Limited Coupon Types",
+  "slug": "longest-checkout-line-with-limited-coupon-types",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-25T19:00:42.4078118+00:00"
+}
