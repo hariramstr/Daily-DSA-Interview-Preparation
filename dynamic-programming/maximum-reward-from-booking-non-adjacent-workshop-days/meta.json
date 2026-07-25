@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Reward from Booking Non-Adjacent Workshop Days",
+  "slug": "maximum-reward-from-booking-non-adjacent-workshop-days",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-07-25T19:00:36.7894444+00:00"
+}
