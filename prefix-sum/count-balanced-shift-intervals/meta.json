@@ -1,0 +1,12 @@
+{
+  "title": "Count Balanced Shift Intervals",
+  "slug": "count-balanced-shift-intervals",
+  "topic": "Prefix Sum",
+  "difficulty": "Medium",
+  "tags": [
+    "Prefix Sum",
+    "Hash Map",
+    "Array"
+  ],
+  "generatedAt": "2026-07-25T19:01:05.219971+00:00"
+}
