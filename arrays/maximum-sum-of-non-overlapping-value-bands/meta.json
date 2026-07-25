@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Sum of Non-Overlapping Value Bands",
+  "slug": "maximum-sum-of-non-overlapping-value-bands",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "arrays",
+    "dynamic-programming",
+    "sliding-window"
+  ],
+  "generatedAt": "2026-07-25T19:00:31.4493284+00:00"
+}
