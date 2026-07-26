@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Feasible Backup Snapshot Size",
+  "slug": "maximum-feasible-backup-snapshot-size",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Array"
+  ],
+  "generatedAt": "2026-07-26T19:00:33.6752961+00:00"
+}
