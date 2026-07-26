@@ -1,0 +1,12 @@
+{
+  "title": "Longest Prefix Chain with One-Character Mutations",
+  "slug": "longest-prefix-chain-with-one-character-mutations",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Dynamic Programming",
+    "String"
+  ],
+  "generatedAt": "2026-07-26T19:00:51.7563105+00:00"
+}
