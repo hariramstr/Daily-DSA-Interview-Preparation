@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Loyalty Points from Skipping Consecutive Cafes",
+  "slug": "maximum-loyalty-points-from-skipping-consecutive-cafes",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-07-27T19:00:59.5166684+00:00"
+}
