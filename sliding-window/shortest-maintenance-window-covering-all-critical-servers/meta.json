@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Maintenance Window Covering All Critical Servers",
+  "slug": "shortest-maintenance-window-covering-all-critical-servers",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-27T19:00:40.8312515+00:00"
+}
