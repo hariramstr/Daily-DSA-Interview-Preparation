@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Swaps to Group Fragile Packages",
+  "slug": "minimum-swaps-to-group-fragile-packages",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-07-27T19:00:28.2081252+00:00"
+}
