@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Refill Rate for a Timed Irrigation Plan",
+  "slug": "minimum-refill-rate-for-a-timed-irrigation-plan",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "array"
+  ],
+  "generatedAt": "2026-07-28T19:00:53.9913572+00:00"
+}
