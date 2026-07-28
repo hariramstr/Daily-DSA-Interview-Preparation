@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Revenue from Menu Bundles with Dish Reuse Fees",
+  "slug": "maximum-revenue-from-menu-bundles-with-dish-reuse-fees",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-transition"
+  ],
+  "generatedAt": "2026-07-28T19:00:30.8912961+00:00"
+}

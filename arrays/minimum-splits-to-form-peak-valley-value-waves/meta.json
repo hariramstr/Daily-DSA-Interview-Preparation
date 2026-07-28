@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Splits to Form Peak-Valley Value Waves",
+  "slug": "minimum-splits-to-form-peak-valley-value-waves",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "generatedAt": "2026-07-28T19:00:37.6545717+00:00"
+}
