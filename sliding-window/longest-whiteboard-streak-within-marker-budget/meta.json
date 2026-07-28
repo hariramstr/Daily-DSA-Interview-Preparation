@@ -1,0 +1,12 @@
+{
+  "title": "Longest Whiteboard Streak Within Marker Budget",
+  "slug": "longest-whiteboard-streak-within-marker-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-07-28T19:01:00.554292+00:00"
+}
