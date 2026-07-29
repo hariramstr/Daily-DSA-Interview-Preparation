@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Assemble a Playlist with Genre Switch Fees",
+  "slug": "minimum-cost-to-assemble-a-playlist-with-genre-switch-fees",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "sequence-dp",
+    "optimization"
+  ],
+  "generatedAt": "2026-07-29T19:00:46.0869091+00:00"
+}

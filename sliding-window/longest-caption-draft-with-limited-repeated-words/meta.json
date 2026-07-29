@@ -1,0 +1,12 @@
+{
+  "title": "Longest Caption Draft With Limited Repeated Words",
+  "slug": "longest-caption-draft-with-limited-repeated-words",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-07-29T19:01:05.9618591+00:00"
+}

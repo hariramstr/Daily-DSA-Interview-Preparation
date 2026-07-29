@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Channel Switches to Broadcast a Live Event",
+  "slug": "minimum-channel-switches-to-broadcast-a-live-event",
+  "topic": "Graphs",
+  "difficulty": "Medium",
+  "tags": [
+    "Graphs",
+    "0-1 BFS",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-07-29T19:01:13.6011084+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Count Message Threads With Matching Participant Multisets",
+  "slug": "count-message-threads-with-matching-participant-multisets",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Frequency Map",
+    "Counting"
+  ],
+  "generatedAt": "2026-07-29T19:00:32.850724+00:00"
+}
