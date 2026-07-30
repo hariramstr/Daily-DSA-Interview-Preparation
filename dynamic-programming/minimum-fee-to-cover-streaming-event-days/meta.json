@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fee to Cover Streaming Event Days",
+  "slug": "minimum-fee-to-cover-streaming-event-days",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "memoization"
+  ],
+  "generatedAt": "2026-07-30T19:01:02.6368853+00:00"
+}
