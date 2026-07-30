@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Merges to Form a Mountain Array",
+  "slug": "minimum-merges-to-form-a-mountain-array",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Interval DP"
+  ],
+  "generatedAt": "2026-07-30T19:00:42.4890809+00:00"
+}
