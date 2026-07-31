@@ -1,0 +1,12 @@
+{
+  "title": "Count Documents Sharing the Same Keyword Fingerprint",
+  "slug": "count-documents-sharing-the-same-keyword-fingerprint",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Frequency Counting",
+    "Canonical Representation"
+  ],
+  "generatedAt": "2026-07-31T19:00:49.5350086+00:00"
+}
