@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Product Score from a Fixed-Length Window",
+  "slug": "maximum-product-score-from-a-fixed-length-window",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix Product"
+  ],
+  "generatedAt": "2026-07-31T19:00:40.5109771+00:00"
+}

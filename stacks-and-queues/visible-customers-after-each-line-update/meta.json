@@ -1,0 +1,12 @@
+{
+  "title": "Visible Customers After Each Line Update",
+  "slug": "visible-customers-after-each-line-update",
+  "topic": "Stacks and Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "Monotonic Stack",
+    "Array",
+    "Simulation"
+  ],
+  "generatedAt": "2026-07-31T19:01:12.3721604+00:00"
+}
