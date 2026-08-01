@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Reorders to Group Expiring Coupons",
+  "slug": "minimum-reorders-to-group-expiring-coupons",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Bitmask"
+  ],
+  "generatedAt": "2026-08-01T19:00:55.1054985+00:00"
+}

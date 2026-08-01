@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Bit Flips to Make Prefix XORs Nondecreasing",
+  "slug": "minimum-bit-flips-to-make-prefix-xors-nondecreasing",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Dynamic Programming",
+    "Prefix XOR"
+  ],
+  "generatedAt": "2026-08-01T19:00:42.8918387+00:00"
+}

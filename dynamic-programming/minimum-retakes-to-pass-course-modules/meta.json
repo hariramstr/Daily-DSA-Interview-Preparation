@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Retakes to Pass Course Modules",
+  "slug": "minimum-retakes-to-pass-course-modules",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-transition"
+  ],
+  "generatedAt": "2026-08-01T19:01:00.4316016+00:00"
+}
