@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Workshops with Recovery Days",
+  "slug": "minimum-cost-to-schedule-workshops-with-recovery-days",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "knapsack",
+    "scheduling"
+  ],
+  "generatedAt": "2026-08-02T19:00:53.3990359+00:00"
+}
