@@ -1,0 +1,12 @@
+{
+  "title": "Longest Stream Window With Pairwise Bitwise Overlap Budget",
+  "slug": "longest-stream-window-with-pairwise-bitwise-overlap-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Bit Manipulation",
+    "Hashing"
+  ],
+  "generatedAt": "2026-08-02T19:00:39.7285222+00:00"
+}
