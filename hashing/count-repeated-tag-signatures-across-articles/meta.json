@@ -1,0 +1,12 @@
+{
+  "title": "Count Repeated Tag Signatures Across Articles",
+  "slug": "count-repeated-tag-signatures-across-articles",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Hash Map",
+    "Set Canonicalization"
+  ],
+  "generatedAt": "2026-08-03T19:00:43.1437574+00:00"
+}
