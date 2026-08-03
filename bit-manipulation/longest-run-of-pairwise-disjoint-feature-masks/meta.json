@@ -1,0 +1,12 @@
+{
+  "title": "Longest Run of Pairwise Disjoint Feature Masks",
+  "slug": "longest-run-of-pairwise-disjoint-feature-masks",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-03T19:00:35.825512+00:00"
+}
