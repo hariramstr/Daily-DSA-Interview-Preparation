@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Place Review Gates in a Dependency Tree",
+  "slug": "minimum-cost-to-place-review-gates-in-a-dependency-tree",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Tree DP",
+    "Depth-First Search"
+  ],
+  "generatedAt": "2026-08-03T19:01:06.3970228+00:00"
+}
