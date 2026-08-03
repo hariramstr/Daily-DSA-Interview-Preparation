@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Repaints to Form Three Color Districts",
+  "slug": "minimum-repaints-to-form-three-color-districts",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-08-03T19:00:29.0664612+00:00"
+}
