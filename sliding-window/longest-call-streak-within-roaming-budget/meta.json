@@ -1,0 +1,12 @@
+{
+  "title": "Longest Call Streak Within Roaming Budget",
+  "slug": "longest-call-streak-within-roaming-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-03T19:00:58.4454706+00:00"
+}
