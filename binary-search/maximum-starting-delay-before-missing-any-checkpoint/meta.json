@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Starting Delay Before Missing Any Checkpoint",
+  "slug": "maximum-starting-delay-before-missing-any-checkpoint",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Prefix Sum",
+    "Greedy"
+  ],
+  "generatedAt": "2026-08-04T19:00:47.7048501+00:00"
+}
