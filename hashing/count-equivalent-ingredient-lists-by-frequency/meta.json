@@ -1,0 +1,12 @@
+{
+  "title": "Count Equivalent Ingredient Lists by Frequency",
+  "slug": "count-equivalent-ingredient-lists-by-frequency",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Frequency Map",
+    "String Canonicalization"
+  ],
+  "generatedAt": "2026-08-04T19:00:32.3310761+00:00"
+}
