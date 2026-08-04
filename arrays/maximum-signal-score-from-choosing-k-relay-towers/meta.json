@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Signal Score from Choosing K Relay Towers",
+  "slug": "maximum-signal-score-from-choosing-k-relay-towers",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Monotonic Stack"
+  ],
+  "generatedAt": "2026-08-04T19:00:38.8472325+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Reset Cost for Consecutive Machine Runs",
+  "slug": "minimum-reset-cost-for-consecutive-machine-runs",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "sequence-optimization",
+    "state-compression"
+  ],
+  "generatedAt": "2026-08-04T19:00:58.533529+00:00"
+}
