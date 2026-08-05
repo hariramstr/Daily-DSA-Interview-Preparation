@@ -1,0 +1,12 @@
+{
+  "title": "Longest Prefix With Unique Running Difference Signatures",
+  "slug": "longest-prefix-with-unique-running-difference-signatures",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Rolling Hash",
+    "Binary Search"
+  ],
+  "generatedAt": "2026-08-05T19:00:41.3721741+00:00"
+}
