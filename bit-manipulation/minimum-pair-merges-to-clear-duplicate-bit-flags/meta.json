@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Pair Merges to Clear Duplicate Bit Flags",
+  "slug": "minimum-pair-merges-to-clear-duplicate-bit-flags",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Union Find",
+    "Graph Connectivity"
+  ],
+  "generatedAt": "2026-08-05T19:00:52.4075563+00:00"
+}
