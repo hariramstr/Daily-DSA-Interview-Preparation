@@ -1,0 +1,12 @@
+{
+  "title": "Maximum XOR Gap After One Removal",
+  "slug": "maximum-xor-gap-after-one-removal",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Trie",
+    "Greedy"
+  ],
+  "generatedAt": "2026-08-06T19:00:42.5273979+00:00"
+}

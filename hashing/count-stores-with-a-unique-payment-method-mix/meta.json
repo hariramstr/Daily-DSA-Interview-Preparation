@@ -1,0 +1,12 @@
+{
+  "title": "Count Stores With a Unique Payment Method Mix",
+  "slug": "count-stores-with-a-unique-payment-method-mix",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Sets",
+    "String Normalization"
+  ],
+  "generatedAt": "2026-08-06T19:00:36.2958553+00:00"
+}

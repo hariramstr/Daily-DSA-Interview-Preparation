@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Choosing a Pivoted Quadruple",
+  "slug": "maximum-score-from-choosing-a-pivoted-quadruple",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Prefix/Suffix Precomputation"
+  ],
+  "generatedAt": "2026-08-06T19:00:51.1115119+00:00"
+}
