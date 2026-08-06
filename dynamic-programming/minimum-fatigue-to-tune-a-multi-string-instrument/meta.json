@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Tune a Multi-String Instrument",
+  "slug": "minimum-fatigue-to-tune-a-multi-string-instrument",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "State Compression",
+    "Knapsack"
+  ],
+  "generatedAt": "2026-08-06T19:00:29.5555954+00:00"
+}
