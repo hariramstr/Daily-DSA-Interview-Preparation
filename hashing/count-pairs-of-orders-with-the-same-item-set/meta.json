@@ -1,0 +1,12 @@
+{
+  "title": "Count Pairs of Orders With the Same Item Set",
+  "slug": "count-pairs-of-orders-with-the-same-item-set",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Arrays",
+    "Set Canonicalization"
+  ],
+  "generatedAt": "2026-08-07T19:00:45.8541922+00:00"
+}
