@@ -1,0 +1,12 @@
+{
+  "title": "Minimum XOR Merges to Isolate a Signature",
+  "slug": "minimum-xor-merges-to-isolate-a-signature",
+  "topic": "Bit Manipulation",
+  "difficulty": "Hard",
+  "tags": [
+    "Bit Manipulation",
+    "Prefix XOR",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-08-07T19:00:38.8093441+00:00"
+}
