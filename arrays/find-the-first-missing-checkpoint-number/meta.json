@@ -1,0 +1,12 @@
+{
+  "title": "Find the First Missing Checkpoint Number",
+  "slug": "find-the-first-missing-checkpoint-number",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "Arrays",
+    "Hash Set",
+    "Simulation"
+  ],
+  "generatedAt": "2026-08-07T19:00:54.4367517+00:00"
+}
