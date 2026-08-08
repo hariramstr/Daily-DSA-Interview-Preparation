@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Toggles to Match a Device XOR Fingerprint",
+  "slug": "minimum-toggles-to-match-a-device-xor-fingerprint",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "XOR",
+    "Array"
+  ],
+  "generatedAt": "2026-08-08T19:00:42.3539803+00:00"
+}
