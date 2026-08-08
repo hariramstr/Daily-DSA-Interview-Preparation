@@ -1,0 +1,12 @@
+{
+  "title": "Count Subarrays With the Same First and Last Value",
+  "slug": "count-subarrays-with-the-same-first-and-last-value",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Array",
+    "Prefix Counting"
+  ],
+  "generatedAt": "2026-08-08T19:00:47.7245996+00:00"
+}
