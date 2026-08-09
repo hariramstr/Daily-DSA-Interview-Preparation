@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Segment With Target XOR",
+  "slug": "shortest-segment-with-target-xor",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Prefix XOR",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-08-09T19:00:43.8291637+00:00"
+}
