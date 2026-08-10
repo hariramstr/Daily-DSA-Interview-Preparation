@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Partition a Transcript into Consistent Speaker Blocks",
+  "slug": "minimum-cost-to-partition-a-transcript-into-consistent-speaker-blocks",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "partition-dp"
+  ],
+  "generatedAt": "2026-08-10T19:00:38.6715847+00:00"
+}
