@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Days Within a Sleep Debt Budget",
+  "slug": "maximum-consecutive-days-within-a-sleep-debt-budget",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-10T19:00:55.140472+00:00"
+}
