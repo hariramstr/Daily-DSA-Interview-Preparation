@@ -1,0 +1,12 @@
+{
+  "title": "Count Equivalent Access Windows by Relative Time Gaps",
+  "slug": "count-equivalent-access-windows-by-relative-time-gaps",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "Rolling Hash",
+    "Prefix Differences"
+  ],
+  "generatedAt": "2026-08-11T19:00:55.5780289+00:00"
+}
