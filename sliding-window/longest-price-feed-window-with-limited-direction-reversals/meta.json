@@ -1,0 +1,12 @@
+{
+  "title": "Longest Price Feed Window With Limited Direction Reversals",
+  "slug": "longest-price-feed-window-with-limited-direction-reversals",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-08-11T19:00:47.6228185+00:00"
+}
