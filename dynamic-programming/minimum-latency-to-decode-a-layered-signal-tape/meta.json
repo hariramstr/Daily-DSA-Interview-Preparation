@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Latency to Decode a Layered Signal Tape",
+  "slug": "minimum-latency-to-decode-a-layered-signal-tape",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "string"
+  ],
+  "generatedAt": "2026-08-12T19:00:28.5485967+00:00"
+}
