@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Sum of Two Non-Overlapping Value Ramps",
+  "slug": "maximum-sum-of-two-non-overlapping-value-ramps",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Prefix/Suffix"
+  ],
+  "generatedAt": "2026-08-13T19:00:50.8922176+00:00"
+}
