@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Browser Session Covering Required Domains",
+  "slug": "shortest-browser-session-covering-required-domains",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-13T19:00:32.8049814+00:00"
+}
