@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Staff a Store With Training Overlap",
+  "slug": "minimum-cost-to-staff-a-store-with-training-overlap",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-08-14T19:01:08.5215486+00:00"
+}
