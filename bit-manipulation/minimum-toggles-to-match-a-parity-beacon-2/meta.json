@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Toggles to Match a Parity Beacon",
+  "slug": "minimum-toggles-to-match-a-parity-beacon-2",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Greedy",
+    "Array"
+  ],
+  "generatedAt": "2026-08-14T19:00:53.3448809+00:00"
+}

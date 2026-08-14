@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Reorders to Group Equal Package Colors",
+  "slug": "minimum-reorders-to-group-equal-package-colors",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-08-14T19:00:29.9205364+00:00"
+}

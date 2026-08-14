@@ -1,0 +1,12 @@
+{
+  "title": "Count Matching License Plates by Character Multiset",
+  "slug": "count-matching-license-plates-by-character-multiset",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Counting",
+    "String"
+  ],
+  "generatedAt": "2026-08-14T19:00:38.8454489+00:00"
+}
