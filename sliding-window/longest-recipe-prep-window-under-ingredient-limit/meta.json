@@ -1,0 +1,12 @@
+{
+  "title": "Longest Recipe Prep Window Under Ingredient Limit",
+  "slug": "longest-recipe-prep-window-under-ingredient-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-14T19:00:45.662174+00:00"
+}
