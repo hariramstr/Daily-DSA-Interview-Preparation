@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Calibration Gain from One Bounded Sensor Merge",
+  "slug": "maximum-calibration-gain-from-one-bounded-sensor-merge",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Sliding Window"
+  ],
+  "generatedAt": "2026-08-15T19:00:35.5628139+00:00"
+}
