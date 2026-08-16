@@ -1,0 +1,12 @@
+{
+  "title": "Find Conflicting Redirect Chains",
+  "slug": "find-conflicting-redirect-chains",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Graph",
+    "DFS"
+  ],
+  "generatedAt": "2026-08-16T19:00:38.1710372+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Longest Commute Stretch Within Fare Budget",
+  "slug": "longest-commute-stretch-within-fare-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "sliding window",
+    "two pointers",
+    "array"
+  ],
+  "generatedAt": "2026-08-16T19:00:57.9204579+00:00"
+}

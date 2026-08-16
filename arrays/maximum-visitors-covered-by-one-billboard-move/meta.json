@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Visitors Covered by One Billboard Move",
+  "slug": "maximum-visitors-covered-by-one-billboard-move",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-08-16T19:01:05.4566291+00:00"
+}

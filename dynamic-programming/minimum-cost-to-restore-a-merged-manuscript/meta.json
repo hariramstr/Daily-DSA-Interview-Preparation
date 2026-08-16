@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Restore a Merged Manuscript",
+  "slug": "minimum-cost-to-restore-a-merged-manuscript",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "String",
+    "Trie"
+  ],
+  "generatedAt": "2026-08-16T19:00:52.6586098+00:00"
+}
