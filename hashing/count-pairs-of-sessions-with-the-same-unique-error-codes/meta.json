@@ -1,0 +1,12 @@
+{
+  "title": "Count Pairs of Sessions With the Same Unique Error Codes",
+  "slug": "count-pairs-of-sessions-with-the-same-unique-error-codes",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Arrays",
+    "Set Canonicalization"
+  ],
+  "generatedAt": "2026-08-17T19:00:28.8227094+00:00"
+}
