@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Removals to Make Prefix Sums Unique",
+  "slug": "minimum-removals-to-make-prefix-sums-unique",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "arrays",
+    "dynamic-programming",
+    "hash-map"
+  ],
+  "generatedAt": "2026-08-17T19:00:41.4118051+00:00"
+}
