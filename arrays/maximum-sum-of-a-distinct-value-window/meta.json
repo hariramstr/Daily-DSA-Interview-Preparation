@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Sum of a Distinct-Value Window",
+  "slug": "maximum-sum-of-a-distinct-value-window",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-08-18T19:00:53.5630118+00:00"
+}
