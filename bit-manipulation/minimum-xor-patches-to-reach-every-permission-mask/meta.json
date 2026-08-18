@@ -1,0 +1,12 @@
+{
+  "title": "Minimum XOR Patches to Reach Every Permission Mask",
+  "slug": "minimum-xor-patches-to-reach-every-permission-mask",
+  "topic": "Bit Manipulation",
+  "difficulty": "Hard",
+  "tags": [
+    "Bit Manipulation",
+    "Linear Basis",
+    "XOR"
+  ],
+  "generatedAt": "2026-08-18T19:00:39.5129049+00:00"
+}
