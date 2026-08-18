@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Maintenance Span Covering All Tool Classes",
+  "slug": "shortest-maintenance-span-covering-all-tool-classes",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-08-18T19:00:31.9042724+00:00"
+}
