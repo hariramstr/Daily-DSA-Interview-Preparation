@@ -1,0 +1,12 @@
+{
+  "title": "Count Renamed Files by Original Content Signature",
+  "slug": "count-renamed-files-by-original-content-signature",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Map",
+    "Hash Set",
+    "Data Deduplication"
+  ],
+  "generatedAt": "2026-08-18T19:01:01.914789+00:00"
+}
