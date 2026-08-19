@@ -1,0 +1,12 @@
+{
+  "title": "Longest Coffee Order Run Within Sugar Limit",
+  "slug": "longest-coffee-order-run-within-sugar-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-08-19T19:01:10.8802871+00:00"
+}
