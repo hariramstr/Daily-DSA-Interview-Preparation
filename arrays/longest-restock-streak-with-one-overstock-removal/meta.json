@@ -1,0 +1,12 @@
+{
+  "title": "Longest Restock Streak with One Overstock Removal",
+  "slug": "longest-restock-streak-with-one-overstock-removal",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-19T19:00:44.0904779+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Count Binary IDs With Even Set Bits",
+  "slug": "count-binary-ids-with-even-set-bits",
+  "topic": "Bit Manipulation",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "Array",
+    "Parity"
+  ],
+  "generatedAt": "2026-08-19T19:00:50.4464792+00:00"
+}

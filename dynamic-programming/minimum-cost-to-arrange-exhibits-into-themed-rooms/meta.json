@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Arrange Exhibits into Themed Rooms",
+  "slug": "minimum-cost-to-arrange-exhibits-into-themed-rooms",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "partition-dp",
+    "array"
+  ],
+  "generatedAt": "2026-08-19T19:00:35.8308887+00:00"
+}

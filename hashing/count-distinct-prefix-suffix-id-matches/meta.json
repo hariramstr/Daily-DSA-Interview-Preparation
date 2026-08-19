@@ -1,0 +1,12 @@
+{
+  "title": "Count Distinct Prefix-Suffix ID Matches",
+  "slug": "count-distinct-prefix-suffix-id-matches",
+  "topic": "Hashing",
+  "difficulty": "Hard",
+  "tags": [
+    "Hashing",
+    "String Algorithms",
+    "Rolling Hash"
+  ],
+  "generatedAt": "2026-08-19T19:01:04.0300579+00:00"
+}
