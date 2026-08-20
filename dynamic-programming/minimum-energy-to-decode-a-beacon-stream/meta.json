@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Decode a Beacon Stream",
+  "slug": "minimum-energy-to-decode-a-beacon-stream",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "trie"
+  ],
+  "generatedAt": "2026-08-20T19:00:43.2422927+00:00"
+}
