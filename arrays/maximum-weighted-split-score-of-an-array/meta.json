@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Weighted Split Score of an Array",
+  "slug": "maximum-weighted-split-score-of-an-array",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Monotonic Stack"
+  ],
+  "generatedAt": "2026-08-20T19:00:33.2328226+00:00"
+}
