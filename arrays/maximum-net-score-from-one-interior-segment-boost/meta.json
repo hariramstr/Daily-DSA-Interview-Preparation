@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Net Score from One Interior Segment Boost",
+  "slug": "maximum-net-score-from-one-interior-segment-boost",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-08-21T19:01:00.9857032+00:00"
+}
