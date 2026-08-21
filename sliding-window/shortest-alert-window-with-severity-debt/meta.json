@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Alert Window With Severity Debt",
+  "slug": "shortest-alert-window-with-severity-debt",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "sliding-window",
+    "hash-map",
+    "multiset"
+  ],
+  "generatedAt": "2026-08-21T19:00:32.2432382+00:00"
+}
