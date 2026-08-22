@@ -1,0 +1,12 @@
+{
+  "title": "Count Runners Who Improved Their Best Lap",
+  "slug": "count-runners-who-improved-their-best-lap",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "arrays",
+    "simulation",
+    "prefix-minimum"
+  ],
+  "generatedAt": "2026-08-22T19:01:05.2495329+00:00"
+}

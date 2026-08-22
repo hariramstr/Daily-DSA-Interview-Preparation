@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Bit Toggles to Make Adjacent IDs Disjoint",
+  "slug": "minimum-bit-toggles-to-make-adjacent-ids-disjoint",
+  "topic": "Bit Manipulation",
+  "difficulty": "Medium",
+  "tags": [
+    "Bit Manipulation",
+    "Dynamic Programming",
+    "Bitmask"
+  ],
+  "generatedAt": "2026-08-22T19:00:59.3785954+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Longest Reading Sprint With Limited Bookmark Moves",
+  "slug": "longest-reading-sprint-with-limited-bookmark-moves",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Array"
+  ],
+  "generatedAt": "2026-08-22T19:00:51.4194631+00:00"
+}
