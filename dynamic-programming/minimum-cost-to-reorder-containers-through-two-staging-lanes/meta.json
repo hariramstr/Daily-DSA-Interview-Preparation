@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Reorder Containers Through Two Staging Lanes",
+  "slug": "minimum-cost-to-reorder-containers-through-two-staging-lanes",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "sequence-partitioning",
+    "subsequence"
+  ],
+  "generatedAt": "2026-08-23T19:00:44.5368648+00:00"
+}
