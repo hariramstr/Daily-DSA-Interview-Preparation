@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Launch Window for Satellite Image Batches",
+  "slug": "minimum-launch-window-for-satellite-image-batches",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "array"
+  ],
+  "generatedAt": "2026-08-24T19:01:02.0509394+00:00"
+}
