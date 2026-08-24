@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rewrite Cost for Chunked DNA Assembly",
+  "slug": "minimum-rewrite-cost-for-chunked-dna-assembly",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string-matching",
+    "trie"
+  ],
+  "generatedAt": "2026-08-24T19:00:54.6070387+00:00"
+}
