@@ -1,0 +1,12 @@
+{
+  "title": "Longest Editing Streak With Limited Undo Actions",
+  "slug": "longest-editing-streak-with-limited-undo-actions",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "sliding-window",
+    "two-pointers",
+    "array"
+  ],
+  "generatedAt": "2026-08-24T19:00:39.7987321+00:00"
+}
