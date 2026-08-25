@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Encode a Morse Broadcast",
+  "slug": "minimum-fatigue-to-encode-a-morse-broadcast",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "interval-dp"
+  ],
+  "generatedAt": "2026-08-25T19:00:31.2989833+00:00"
+}

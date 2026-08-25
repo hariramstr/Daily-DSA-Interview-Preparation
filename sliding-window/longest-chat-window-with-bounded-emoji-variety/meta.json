@@ -1,0 +1,12 @@
+{
+  "title": "Longest Chat Window With Bounded Emoji Variety",
+  "slug": "longest-chat-window-with-bounded-emoji-variety",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-25T19:00:37.8696218+00:00"
+}
