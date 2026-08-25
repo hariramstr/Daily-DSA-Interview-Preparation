@@ -1,0 +1,12 @@
+{
+  "title": "Count Sensor Readings With Odd Parity",
+  "slug": "count-sensor-readings-with-odd-parity",
+  "topic": "Bit Manipulation",
+  "difficulty": "Easy",
+  "tags": [
+    "Bit Manipulation",
+    "Parity",
+    "Array"
+  ],
+  "generatedAt": "2026-08-25T19:00:54.2897215+00:00"
+}
