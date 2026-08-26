@@ -1,0 +1,12 @@
+{
+  "title": "Longest Browsing Streak With Limited Tab Domains",
+  "slug": "longest-browsing-streak-with-limited-tab-domains",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-26T19:01:10.0768784+00:00"
+}
