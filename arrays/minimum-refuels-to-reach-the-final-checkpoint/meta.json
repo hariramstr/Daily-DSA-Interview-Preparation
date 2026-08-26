@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Refuels to Reach the Final Checkpoint",
+  "slug": "minimum-refuels-to-reach-the-final-checkpoint",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Heap"
+  ],
+  "generatedAt": "2026-08-26T19:00:38.130544+00:00"
+}
