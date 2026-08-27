@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Charging Stops for Deadline-Limited Robots",
+  "slug": "minimum-charging-stops-for-deadline-limited-robots",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "greedy",
+    "sorting",
+    "simulation"
+  ],
+  "generatedAt": "2026-08-27T19:00:40.5763405+00:00"
+}

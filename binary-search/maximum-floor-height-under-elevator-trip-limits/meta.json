@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Floor Height Under Elevator Trip Limits",
+  "slug": "maximum-floor-height-under-elevator-trip-limits",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Monotonic Predicate",
+    "Math"
+  ],
+  "generatedAt": "2026-08-27T19:00:50.3762344+00:00"
+}
