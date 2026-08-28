@@ -1,0 +1,14 @@
+{
+  "title": "Process Build Jobs with Cooldown Penalties",
+  "slug": "process-build-jobs-with-cooldown-penalties",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "heaps",
+    "priority-queue",
+    "greedy",
+    "scheduling",
+    "sorting"
+  ],
+  "generatedAt": "2026-08-28T19:00:51.3753108+00:00"
+}
