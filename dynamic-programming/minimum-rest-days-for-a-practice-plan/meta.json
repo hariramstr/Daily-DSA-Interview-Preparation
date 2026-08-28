@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rest Days for a Practice Plan",
+  "slug": "minimum-rest-days-for-a-practice-plan",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-transition"
+  ],
+  "generatedAt": "2026-08-28T19:01:11.0871183+00:00"
+}
