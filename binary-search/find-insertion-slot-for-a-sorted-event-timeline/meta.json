@@ -1,0 +1,12 @@
+{
+  "title": "Find Insertion Slot for a Sorted Event Timeline",
+  "slug": "find-insertion-slot-for-a-sorted-event-timeline",
+  "topic": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Array",
+    "Lower Bound"
+  ],
+  "generatedAt": "2026-08-28T19:01:03.4248348+00:00"
+}
