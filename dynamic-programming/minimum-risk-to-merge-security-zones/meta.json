@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Risk to Merge Security Zones",
+  "slug": "minimum-risk-to-merge-security-zones",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "prefix-sum"
+  ],
+  "generatedAt": "2026-08-29T19:00:44.1969209+00:00"
+}

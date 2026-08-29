@@ -1,0 +1,12 @@
+{
+  "title": "Last Cart Item Before Budget Overflow",
+  "slug": "last-cart-item-before-budget-overflow",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Easy",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "greedy"
+  ],
+  "generatedAt": "2026-08-29T19:00:57.6112148+00:00"
+}

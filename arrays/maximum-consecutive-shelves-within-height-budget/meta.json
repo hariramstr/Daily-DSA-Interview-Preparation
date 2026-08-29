@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Shelves Within Height Budget",
+  "slug": "maximum-consecutive-shelves-within-height-budget",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Deque"
+  ],
+  "generatedAt": "2026-08-29T19:00:36.290038+00:00"
+}
