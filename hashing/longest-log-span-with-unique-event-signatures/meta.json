@@ -1,0 +1,12 @@
+{
+  "title": "Longest Log Span With Unique Event Signatures",
+  "slug": "longest-log-span-with-unique-event-signatures",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Sliding Window",
+    "String"
+  ],
+  "generatedAt": "2026-08-29T19:01:12.3729851+00:00"
+}
