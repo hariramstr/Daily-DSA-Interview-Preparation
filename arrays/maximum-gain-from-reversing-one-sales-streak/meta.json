@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Gain from Reversing One Sales Streak",
+  "slug": "maximum-gain-from-reversing-one-sales-streak",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-08-30T19:01:01.1035077+00:00"
+}
