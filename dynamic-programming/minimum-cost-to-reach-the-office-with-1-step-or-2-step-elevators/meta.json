@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Reach the Office With 1-Step or 2-Step Elevators",
+  "slug": "minimum-cost-to-reach-the-office-with-1-step-or-2-step-elevators",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-08-30T19:00:52.4477733+00:00"
+}
