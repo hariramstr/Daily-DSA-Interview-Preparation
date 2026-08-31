@@ -1,0 +1,12 @@
+{
+  "title": "Longest Ad Rotation With Brand Separation",
+  "slug": "longest-ad-rotation-with-brand-separation",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-08-31T19:00:47.9391259+00:00"
+}
