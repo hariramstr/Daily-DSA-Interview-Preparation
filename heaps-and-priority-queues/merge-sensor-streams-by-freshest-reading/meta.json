@@ -1,0 +1,12 @@
+{
+  "title": "Merge Sensor Streams by Freshest Reading",
+  "slug": "merge-sensor-streams-by-freshest-reading",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "k-way-merge"
+  ],
+  "generatedAt": "2026-08-31T19:01:29.1599513+00:00"
+}

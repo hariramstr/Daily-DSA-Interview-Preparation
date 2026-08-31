@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Lane Changes to Collect Ordered Checkpoints",
+  "slug": "minimum-lane-changes-to-collect-ordered-checkpoints",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Simulation"
+  ],
+  "generatedAt": "2026-08-31T19:00:58.3451114+00:00"
+}

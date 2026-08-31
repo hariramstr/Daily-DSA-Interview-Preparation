@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Starting Battery for a Hazardous Drone Route",
+  "slug": "maximum-starting-battery-for-a-hazardous-drone-route",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Prefix Sum",
+    "Monotonic Predicate"
+  ],
+  "generatedAt": "2026-08-31T19:00:38.0010124+00:00"
+}
