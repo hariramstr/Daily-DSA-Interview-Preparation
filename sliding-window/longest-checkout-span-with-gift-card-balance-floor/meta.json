@@ -1,0 +1,12 @@
+{
+  "title": "Longest Checkout Span With Gift Card Balance Floor",
+  "slug": "longest-checkout-span-with-gift-card-balance-floor",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Prefix Sum",
+    "Deque"
+  ],
+  "generatedAt": "2026-09-01T19:00:36.6333926+00:00"
+}

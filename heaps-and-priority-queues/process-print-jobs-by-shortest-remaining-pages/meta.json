@@ -1,0 +1,12 @@
+{
+  "title": "Process Print Jobs by Shortest Remaining Pages",
+  "slug": "process-print-jobs-by-shortest-remaining-pages",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "sorting"
+  ],
+  "generatedAt": "2026-09-01T19:01:12.8986858+00:00"
+}
