@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Lane Shifts to Group VIP Cars",
+  "slug": "minimum-lane-shifts-to-group-vip-cars",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Median"
+  ],
+  "generatedAt": "2026-09-02T19:00:47.8602264+00:00"
+}
