@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Processor Count for Deadline-Sorted Builds",
+  "slug": "minimum-processor-count-for-deadline-sorted-builds",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Priority Queue"
+  ],
+  "generatedAt": "2026-09-02T19:01:13.5460747+00:00"
+}
