@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Finish a Workout Plan",
+  "slug": "minimum-energy-to-finish-a-workout-plan",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-09-02T19:01:31.8438238+00:00"
+}
