@@ -1,0 +1,12 @@
+{
+  "title": "Longest Lecture Clip With Limited Topic Drift",
+  "slug": "longest-lecture-clip-with-limited-topic-drift",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "sliding window",
+    "two pointers",
+    "array"
+  ],
+  "generatedAt": "2026-09-02T19:00:55.4046725+00:00"
+}

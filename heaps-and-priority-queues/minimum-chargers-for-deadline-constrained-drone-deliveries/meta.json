@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Chargers for Deadline-Constrained Drone Deliveries",
+  "slug": "minimum-chargers-for-deadline-constrained-drone-deliveries",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "heaps",
+    "priority-queue",
+    "greedy",
+    "interval-scheduling",
+    "sorting"
+  ],
+  "generatedAt": "2026-09-02T19:01:24.3611705+00:00"
+}
