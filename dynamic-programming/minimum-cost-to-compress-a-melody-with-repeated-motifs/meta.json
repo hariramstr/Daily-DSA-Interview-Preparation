@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Compress a Melody with Repeated Motifs",
+  "slug": "minimum-cost-to-compress-a-melody-with-repeated-motifs",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "string-matching"
+  ],
+  "generatedAt": "2026-09-03T19:00:50.4605714+00:00"
+}
