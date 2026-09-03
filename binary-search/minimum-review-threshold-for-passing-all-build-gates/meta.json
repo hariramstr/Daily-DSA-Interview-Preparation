@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Review Threshold for Passing All Build Gates",
+  "slug": "minimum-review-threshold-for-passing-all-build-gates",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Prefix Sum",
+    "Monotonic Function"
+  ],
+  "generatedAt": "2026-09-03T19:00:39.7316626+00:00"
+}
