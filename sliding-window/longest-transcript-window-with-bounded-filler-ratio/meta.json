@@ -1,0 +1,12 @@
+{
+  "title": "Longest Transcript Window With Bounded Filler Ratio",
+  "slug": "longest-transcript-window-with-bounded-filler-ratio",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "String"
+  ],
+  "generatedAt": "2026-09-04T19:00:39.6011801+00:00"
+}

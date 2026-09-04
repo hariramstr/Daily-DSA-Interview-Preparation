@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Dock Bays for Delayed Cargo Unloading",
+  "slug": "minimum-dock-bays-for-delayed-cargo-unloading",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "binary-search",
+    "simulation"
+  ],
+  "generatedAt": "2026-09-04T19:00:49.1334381+00:00"
+}
