@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Lane Fixes to Make Traffic Speeds Nondecreasing",
+  "slug": "minimum-lane-fixes-to-make-traffic-speeds-nondecreasing",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Simulation"
+  ],
+  "generatedAt": "2026-09-05T19:01:00.7206126+00:00"
+}

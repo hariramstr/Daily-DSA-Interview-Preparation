@@ -1,0 +1,12 @@
+{
+  "title": "Find the First Completed Duplicate Form",
+  "slug": "find-the-first-completed-duplicate-form",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Map",
+    "Bitmasking",
+    "Set"
+  ],
+  "generatedAt": "2026-09-05T19:01:08.5045034+00:00"
+}
