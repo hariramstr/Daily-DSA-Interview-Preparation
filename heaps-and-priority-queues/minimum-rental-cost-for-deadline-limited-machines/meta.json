@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Rental Cost for Deadline-Limited Machines",
+  "slug": "minimum-rental-cost-for-deadline-limited-machines",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "heaps",
+    "priority-queue",
+    "greedy",
+    "scheduling",
+    "intervals"
+  ],
+  "generatedAt": "2026-09-05T19:00:45.3831517+00:00"
+}
