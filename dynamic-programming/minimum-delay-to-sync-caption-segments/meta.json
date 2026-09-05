@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Delay to Sync Caption Segments",
+  "slug": "minimum-delay-to-sync-caption-segments",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "prefix-frequency"
+  ],
+  "generatedAt": "2026-09-05T19:00:33.9677388+00:00"
+}
