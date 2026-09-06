@@ -1,0 +1,12 @@
+{
+  "title": "Merge Release Streams by Highest Current Severity",
+  "slug": "merge-release-streams-by-highest-current-severity",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "k-way-merge"
+  ],
+  "generatedAt": "2026-09-06T19:00:25.72843+00:00"
+}
