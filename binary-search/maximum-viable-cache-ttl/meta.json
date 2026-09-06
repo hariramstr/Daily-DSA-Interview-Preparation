@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Viable Cache TTL",
+  "slug": "maximum-viable-cache-ttl",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Hash Map",
+    "Monotonic Predicate"
+  ],
+  "generatedAt": "2026-09-06T19:00:42.8574606+00:00"
+}
