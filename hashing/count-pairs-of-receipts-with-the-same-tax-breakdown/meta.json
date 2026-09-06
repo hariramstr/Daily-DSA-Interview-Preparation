@@ -1,0 +1,12 @@
+{
+  "title": "Count Pairs of Receipts With the Same Tax Breakdown",
+  "slug": "count-pairs-of-receipts-with-the-same-tax-breakdown",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Counting",
+    "Canonical Representation"
+  ],
+  "generatedAt": "2026-09-06T19:00:59.7166405+00:00"
+}
