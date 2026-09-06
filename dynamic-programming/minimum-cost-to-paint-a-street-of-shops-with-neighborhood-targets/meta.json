@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Paint a Street of Shops with Neighborhood Targets",
+  "slug": "minimum-cost-to-paint-a-street-of-shops-with-neighborhood-targets",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-compression"
+  ],
+  "generatedAt": "2026-09-06T19:00:52.4877225+00:00"
+}
