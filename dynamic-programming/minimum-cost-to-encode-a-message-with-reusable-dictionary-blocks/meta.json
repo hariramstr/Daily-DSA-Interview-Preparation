@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Encode a Message with Reusable Dictionary Blocks",
+  "slug": "minimum-cost-to-encode-a-message-with-reusable-dictionary-blocks",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Trie",
+    "String Matching"
+  ],
+  "generatedAt": "2026-09-07T19:00:35.9931731+00:00"
+}
