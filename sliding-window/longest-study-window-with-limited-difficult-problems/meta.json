@@ -1,0 +1,12 @@
+{
+  "title": "Longest Study Window With Limited Difficult Problems",
+  "slug": "longest-study-window-with-limited-difficult-problems",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "sliding-window",
+    "two-pointers",
+    "array"
+  ],
+  "generatedAt": "2026-09-08T19:00:34.9538401+00:00"
+}

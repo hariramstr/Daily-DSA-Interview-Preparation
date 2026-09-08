@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Picking a Profitable Prefix and Suffix",
+  "slug": "maximum-score-from-picking-a-profitable-prefix-and-suffix",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-09-08T19:00:59.6230414+00:00"
+}
