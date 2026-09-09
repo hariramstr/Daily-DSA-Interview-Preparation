@@ -1,0 +1,12 @@
+{
+  "title": "Count User Pairs With Matching Distinct Login Hours",
+  "slug": "count-user-pairs-with-matching-distinct-login-hours",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "Bitmask",
+    "Counting"
+  ],
+  "generatedAt": "2026-09-09T19:00:33.2014841+00:00"
+}

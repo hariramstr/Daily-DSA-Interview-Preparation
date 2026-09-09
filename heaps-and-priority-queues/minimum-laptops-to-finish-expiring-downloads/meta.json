@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Laptops to Finish Expiring Downloads",
+  "slug": "minimum-laptops-to-finish-expiring-downloads",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Hard",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "greedy",
+    "scheduling",
+    "binary-search"
+  ],
+  "generatedAt": "2026-09-09T19:00:42.5517868+00:00"
+}
