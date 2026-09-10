@@ -1,0 +1,12 @@
+{
+  "title": "Find the Shortest Unique Username Abbreviation",
+  "slug": "find-the-shortest-unique-username-abbreviation",
+  "topic": "Hashing",
+  "difficulty": "Medium",
+  "tags": [
+    "Hashing",
+    "String",
+    "Prefix Counting"
+  ],
+  "generatedAt": "2026-09-10T19:00:38.1457539+00:00"
+}
