@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from One Interior Buffer Removal",
+  "slug": "maximum-score-from-one-interior-buffer-removal",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-09-10T19:00:57.771441+00:00"
+}
