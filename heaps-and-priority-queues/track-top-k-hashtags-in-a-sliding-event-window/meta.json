@@ -1,0 +1,12 @@
+{
+  "title": "Track Top K Hashtags in a Sliding Event Window",
+  "slug": "track-top-k-hashtags-in-a-sliding-event-window",
+  "topic": "Heaps and Priority Queues",
+  "difficulty": "Medium",
+  "tags": [
+    "heap",
+    "priority-queue",
+    "sliding-window"
+  ],
+  "generatedAt": "2026-09-10T19:00:29.6344171+00:00"
+}

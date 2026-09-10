@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Feasible Toll Pass Duration",
+  "slug": "maximum-feasible-toll-pass-duration",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "interval-covering"
+  ],
+  "generatedAt": "2026-09-10T19:00:49.8841733+00:00"
+}
