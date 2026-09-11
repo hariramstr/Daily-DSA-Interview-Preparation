@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Choosing One Promotion Day",
+  "slug": "maximum-score-from-choosing-one-promotion-day",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-09-11T19:00:36.7107972+00:00"
+}
