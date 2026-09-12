@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Points from Skipping Adjacent Museum Rooms",
+  "slug": "maximum-points-from-skipping-adjacent-museum-rooms",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-09-12T19:00:51.6034557+00:00"
+}
