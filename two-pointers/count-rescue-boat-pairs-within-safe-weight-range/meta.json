@@ -1,0 +1,12 @@
+{
+  "title": "Count Rescue Boat Pairs Within Safe Weight Range",
+  "slug": "count-rescue-boat-pairs-within-safe-weight-range",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "two-pointers",
+    "sorting",
+    "array"
+  ],
+  "generatedAt": "2026-09-12T19:00:27.4972+00:00"
+}
