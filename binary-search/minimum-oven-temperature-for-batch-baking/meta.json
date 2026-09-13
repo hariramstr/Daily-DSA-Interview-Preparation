@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Oven Temperature for Batch Baking",
+  "slug": "minimum-oven-temperature-for-batch-baking",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Array",
+    "Monotonic Predicate"
+  ],
+  "generatedAt": "2026-09-13T19:00:33.9375439+00:00"
+}
