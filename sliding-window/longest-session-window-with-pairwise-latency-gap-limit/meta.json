@@ -1,0 +1,12 @@
+{
+  "title": "Longest Session Window With Pairwise Latency Gap Limit",
+  "slug": "longest-session-window-with-pairwise-latency-gap-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Deque"
+  ],
+  "generatedAt": "2026-09-13T19:00:39.4437298+00:00"
+}
