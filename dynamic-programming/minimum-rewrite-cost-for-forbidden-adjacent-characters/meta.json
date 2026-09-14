@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rewrite Cost for Forbidden Adjacent Characters",
+  "slug": "minimum-rewrite-cost-for-forbidden-adjacent-characters",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string",
+    "graph"
+  ],
+  "generatedAt": "2026-09-14T19:00:48.6793712+00:00"
+}
