@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Alternating Level Sum in a Binary Tree",
+  "slug": "maximum-alternating-level-sum-in-a-binary-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-09-14T19:00:58.3298364+00:00"
+}
