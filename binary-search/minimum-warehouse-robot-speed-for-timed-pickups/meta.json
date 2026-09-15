@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Warehouse Robot Speed for Timed Pickups",
+  "slug": "minimum-warehouse-robot-speed-for-timed-pickups",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Monotonic Predicate",
+    "Arrays"
+  ],
+  "generatedAt": "2026-09-15T19:00:44.9576993+00:00"
+}
