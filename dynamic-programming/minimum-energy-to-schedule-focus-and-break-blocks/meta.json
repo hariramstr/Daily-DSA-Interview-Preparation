@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Schedule Focus and Break Blocks",
+  "slug": "minimum-energy-to-schedule-focus-and-break-blocks",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-compression",
+    "array"
+  ],
+  "generatedAt": "2026-09-16T19:00:57.161041+00:00"
+}
