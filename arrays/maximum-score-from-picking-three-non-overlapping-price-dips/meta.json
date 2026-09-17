@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Picking Three Non-Overlapping Price Dips",
+  "slug": "maximum-score-from-picking-three-non-overlapping-price-dips",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-09-17T19:00:58.232326+00:00"
+}
