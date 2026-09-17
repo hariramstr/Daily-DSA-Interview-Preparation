@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Tip Total from Choosing Non-Consecutive Tables",
+  "slug": "maximum-tip-total-from-choosing-non-consecutive-tables",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-09-17T19:00:50.6087802+00:00"
+}

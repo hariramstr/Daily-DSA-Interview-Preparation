@@ -1,0 +1,12 @@
+{
+  "title": "Longest Citation Window With Per-Author Cap",
+  "slug": "longest-citation-window-with-per-author-cap",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-09-17T19:00:43.9624282+00:00"
+}

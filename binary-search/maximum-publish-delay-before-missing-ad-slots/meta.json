@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Publish Delay Before Missing Ad Slots",
+  "slug": "maximum-publish-delay-before-missing-ad-slots",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "binary-search",
+    "scheduling",
+    "greedy"
+  ],
+  "generatedAt": "2026-09-17T19:00:36.4200307+00:00"
+}
