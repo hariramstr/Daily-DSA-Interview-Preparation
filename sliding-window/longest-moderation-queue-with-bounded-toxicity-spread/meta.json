@@ -1,0 +1,12 @@
+{
+  "title": "Longest Moderation Queue With Bounded Toxicity Spread",
+  "slug": "longest-moderation-queue-with-bounded-toxicity-spread",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Deque"
+  ],
+  "generatedAt": "2026-09-18T19:00:35.5347117+00:00"
+}
