@@ -1,0 +1,12 @@
+{
+  "title": "Longest Badge Scan Streak Under Duplicate Limit",
+  "slug": "longest-badge-scan-streak-under-duplicate-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Array"
+  ],
+  "generatedAt": "2026-09-19T19:00:48.1342985+00:00"
+}
