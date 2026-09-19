@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Reconfigure a Data Center Rack Row",
+  "slug": "minimum-cost-to-reconfigure-a-data-center-rack-row",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "prefix-sum",
+    "partition-dp"
+  ],
+  "generatedAt": "2026-09-19T19:00:42.7055313+00:00"
+}
