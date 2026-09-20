@@ -1,0 +1,12 @@
+{
+  "title": "Locate the First Train Arrival Not Earlier Than Target",
+  "slug": "locate-the-first-train-arrival-not-earlier-than-target",
+  "topic": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Array",
+    "Lower Bound"
+  ],
+  "generatedAt": "2026-09-20T19:01:00.7946008+00:00"
+}

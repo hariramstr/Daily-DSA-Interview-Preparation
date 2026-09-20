@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Factory Maintenance With Team Cooldowns",
+  "slug": "minimum-cost-to-schedule-factory-maintenance-with-team-cooldowns",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-compression",
+    "array"
+  ],
+  "generatedAt": "2026-09-20T19:00:34.8889052+00:00"
+}
