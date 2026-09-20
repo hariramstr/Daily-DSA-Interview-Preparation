@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Net Gain from One Interior Refund Block",
+  "slug": "maximum-net-gain-from-one-interior-refund-block",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-09-20T19:01:09.1655499+00:00"
+}
