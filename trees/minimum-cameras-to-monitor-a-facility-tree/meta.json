@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cameras to Monitor a Facility Tree",
+  "slug": "minimum-cameras-to-monitor-a-facility-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Greedy"
+  ],
+  "generatedAt": "2026-09-20T19:00:48.3630677+00:00"
+}
