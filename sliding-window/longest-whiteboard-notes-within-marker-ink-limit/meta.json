@@ -1,0 +1,12 @@
+{
+  "title": "Longest Whiteboard Notes Within Marker Ink Limit",
+  "slug": "longest-whiteboard-notes-within-marker-ink-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-09-20T19:00:55.5360385+00:00"
+}
