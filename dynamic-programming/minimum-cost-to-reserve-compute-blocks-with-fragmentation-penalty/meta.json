@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Reserve Compute Blocks with Fragmentation Penalty",
+  "slug": "minimum-cost-to-reserve-compute-blocks-with-fragmentation-penalty",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "optimization"
+  ],
+  "generatedAt": "2026-09-21T19:00:46.766328+00:00"
+}
