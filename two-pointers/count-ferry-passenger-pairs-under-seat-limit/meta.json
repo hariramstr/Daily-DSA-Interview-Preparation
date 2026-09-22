@@ -1,0 +1,12 @@
+{
+  "title": "Count Ferry Passenger Pairs Under Seat Limit",
+  "slug": "count-ferry-passenger-pairs-under-seat-limit",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sorting",
+    "Array"
+  ],
+  "generatedAt": "2026-09-22T19:00:48.9587811+00:00"
+}
