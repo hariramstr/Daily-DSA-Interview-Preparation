@@ -1,0 +1,12 @@
+{
+  "title": "Longest Shipping Lane With Limited Hazard Labels",
+  "slug": "longest-shipping-lane-with-limited-hazard-labels",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-09-23T19:00:37.3342524+00:00"
+}
