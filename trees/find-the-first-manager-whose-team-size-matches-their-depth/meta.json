@@ -1,0 +1,12 @@
+{
+  "title": "Find the First Manager Whose Team Size Matches Their Depth",
+  "slug": "find-the-first-manager-whose-team-size-matches-their-depth",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Postorder Traversal"
+  ],
+  "generatedAt": "2026-09-23T19:00:46.4175535+00:00"
+}

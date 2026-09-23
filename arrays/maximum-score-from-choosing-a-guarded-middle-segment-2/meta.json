@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Choosing a Guarded Middle Segment",
+  "slug": "maximum-score-from-choosing-a-guarded-middle-segment-2",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Monotonic Stack",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-09-23T19:00:56.6025756+00:00"
+}
