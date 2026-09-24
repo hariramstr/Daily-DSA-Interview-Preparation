@@ -1,0 +1,12 @@
+{
+  "title": "Longest Workout Plan Within Heart Rate Drift",
+  "slug": "longest-workout-plan-within-heart-rate-drift",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Array"
+  ],
+  "generatedAt": "2026-09-24T19:00:45.9932817+00:00"
+}
