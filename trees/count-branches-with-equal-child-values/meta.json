@@ -1,0 +1,12 @@
+{
+  "title": "Count Branches With Equal Child Values",
+  "slug": "count-branches-with-equal-child-values",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Trees",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "generatedAt": "2026-09-25T19:01:02.4951501+00:00"
+}
