@@ -1,0 +1,14 @@
+{
+  "title": "Shortest Sorted Window to Merge Daily Rankings",
+  "slug": "shortest-sorted-window-to-merge-daily-rankings",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sliding Window",
+    "Array",
+    "Merge",
+    "Sorted Array"
+  ],
+  "generatedAt": "2026-09-25T19:01:19.5230232+00:00"
+}
