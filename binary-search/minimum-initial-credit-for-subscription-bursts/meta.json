@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Initial Credit for Subscription Bursts",
+  "slug": "minimum-initial-credit-for-subscription-bursts",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "prefix-sum"
+  ],
+  "generatedAt": "2026-09-25T19:00:49.0319561+00:00"
+}
