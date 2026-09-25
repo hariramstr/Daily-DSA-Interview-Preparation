@@ -1,0 +1,12 @@
+{
+  "title": "Longest Sensor Batch With Limited Duplicate Device IDs",
+  "slug": "longest-sensor-batch-with-limited-duplicate-device-ids",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-09-25T19:00:56.4420415+00:00"
+}
