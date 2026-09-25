@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Revenue from One Circular Booth Closure",
+  "slug": "maximum-revenue-from-one-circular-booth-closure",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Monotonic Queue"
+  ],
+  "generatedAt": "2026-09-25T19:00:38.9516662+00:00"
+}
