@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Read a Shelf of Books",
+  "slug": "minimum-energy-to-read-a-shelf-of-books",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-09-25T19:01:09.2742219+00:00"
+}
