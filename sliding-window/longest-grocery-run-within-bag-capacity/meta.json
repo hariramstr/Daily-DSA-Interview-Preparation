@@ -1,0 +1,12 @@
+{
+  "title": "Longest Grocery Run Within Bag Capacity",
+  "slug": "longest-grocery-run-within-bag-capacity",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "sliding-window",
+    "two-pointers",
+    "array"
+  ],
+  "generatedAt": "2026-09-26T19:00:43.7215581+00:00"
+}
