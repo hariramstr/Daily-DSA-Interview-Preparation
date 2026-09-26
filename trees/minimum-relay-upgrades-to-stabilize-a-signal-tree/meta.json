@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Relay Upgrades to Stabilize a Signal Tree",
+  "slug": "minimum-relay-upgrades-to-stabilize-a-signal-tree",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Tree DP",
+    "DFS",
+    "GCD"
+  ],
+  "generatedAt": "2026-09-26T19:00:31.1457059+00:00"
+}
