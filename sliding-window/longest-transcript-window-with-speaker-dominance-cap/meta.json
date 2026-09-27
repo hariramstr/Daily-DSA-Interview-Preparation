@@ -1,0 +1,12 @@
+{
+  "title": "Longest Transcript Window With Speaker Dominance Cap",
+  "slug": "longest-transcript-window-with-speaker-dominance-cap",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-09-27T19:00:32.4434486+00:00"
+}

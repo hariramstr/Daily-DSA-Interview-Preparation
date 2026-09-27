@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Recharge Gain from One Idle Block",
+  "slug": "maximum-recharge-gain-from-one-idle-block",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-09-27T19:00:43.9049925+00:00"
+}
