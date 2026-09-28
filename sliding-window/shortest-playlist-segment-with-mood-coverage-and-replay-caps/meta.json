@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Playlist Segment With Mood Coverage and Replay Caps",
+  "slug": "shortest-playlist-segment-with-mood-coverage-and-replay-caps",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-09-28T19:00:42.1649554+00:00"
+}

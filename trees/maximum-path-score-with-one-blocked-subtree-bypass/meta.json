@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Path Score With One Blocked Subtree Bypass",
+  "slug": "maximum-path-score-with-one-blocked-subtree-bypass",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Tree DP",
+    "DFS",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-09-28T19:01:23.3894065+00:00"
+}
