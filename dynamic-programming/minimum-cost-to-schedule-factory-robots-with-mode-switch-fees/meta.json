@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Factory Robots with Mode Switch Fees",
+  "slug": "minimum-cost-to-schedule-factory-robots-with-mode-switch-fees",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-transition"
+  ],
+  "generatedAt": "2026-09-28T19:01:03.1080285+00:00"
+}
