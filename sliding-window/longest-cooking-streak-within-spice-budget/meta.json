@@ -1,0 +1,12 @@
+{
+  "title": "Longest Cooking Streak Within Spice Budget",
+  "slug": "longest-cooking-streak-within-spice-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-09-30T19:00:35.6677535+00:00"
+}

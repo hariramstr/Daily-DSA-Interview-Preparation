@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Seats After One Reservation Move",
+  "slug": "maximum-consecutive-seats-after-one-reservation-move",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-09-30T19:01:03.3415175+00:00"
+}
