@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Matched Crates After One Dock Extension",
+  "slug": "maximum-matched-crates-after-one-dock-extension",
+  "topic": "Two Pointers",
+  "difficulty": "Hard",
+  "tags": [
+    "Two Pointers",
+    "Binary Search",
+    "Greedy"
+  ],
+  "generatedAt": "2026-09-30T19:00:44.0921581+00:00"
+}
