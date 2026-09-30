@@ -1,0 +1,12 @@
+{
+  "title": "Count Full Managers in an Org Tree",
+  "slug": "count-full-managers-in-an-org-tree",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Trees",
+    "DFS",
+    "BFS"
+  ],
+  "generatedAt": "2026-09-30T19:00:50.4712856+00:00"
+}
