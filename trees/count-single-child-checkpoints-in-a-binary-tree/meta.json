@@ -1,0 +1,12 @@
+{
+  "title": "Count Single-Child Checkpoints in a Binary Tree",
+  "slug": "count-single-child-checkpoints-in-a-binary-tree",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Trees",
+    "Binary Tree",
+    "DFS"
+  ],
+  "generatedAt": "2026-10-01T19:00:57.137706+00:00"
+}
