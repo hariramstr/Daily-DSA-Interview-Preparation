@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Revenue from Selling Ticket Bundles",
+  "slug": "maximum-revenue-from-selling-ticket-bundles",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "array"
+  ],
+  "generatedAt": "2026-10-02T19:00:47.793145+00:00"
+}
