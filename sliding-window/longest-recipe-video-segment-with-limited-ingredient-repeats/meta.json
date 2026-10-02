@@ -1,0 +1,12 @@
+{
+  "title": "Longest Recipe Video Segment With Limited Ingredient Repeats",
+  "slug": "longest-recipe-video-segment-with-limited-ingredient-repeats",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-02T19:00:56.2821993+00:00"
+}
