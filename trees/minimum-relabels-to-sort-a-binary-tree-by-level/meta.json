@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Relabels to Sort a Binary Tree by Level",
+  "slug": "minimum-relabels-to-sort-a-binary-tree-by-level",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Breadth-First Search",
+    "Sorting"
+  ],
+  "generatedAt": "2026-10-03T19:00:32.6974998+00:00"
+}

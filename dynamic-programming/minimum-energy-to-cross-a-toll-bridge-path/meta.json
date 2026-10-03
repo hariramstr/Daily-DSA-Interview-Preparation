@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Cross a Toll Bridge Path",
+  "slug": "minimum-energy-to-cross-a-toll-bridge-path",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "Dynamic Programming",
+    "Array",
+    "Optimization"
+  ],
+  "generatedAt": "2026-10-03T19:00:58.751023+00:00"
+}
