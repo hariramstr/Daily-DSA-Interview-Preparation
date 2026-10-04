@@ -1,0 +1,12 @@
+{
+  "title": "Count Music Track Pairs Within Duration Limit",
+  "slug": "count-music-track-pairs-within-duration-limit",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sorting",
+    "Array"
+  ],
+  "generatedAt": "2026-10-04T19:00:30.7466987+00:00"
+}
