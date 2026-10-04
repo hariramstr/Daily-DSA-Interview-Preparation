@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Gain from One Circular Shift Window",
+  "slug": "maximum-gain-from-one-circular-shift-window",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-10-04T19:00:17.8033035+00:00"
+}
