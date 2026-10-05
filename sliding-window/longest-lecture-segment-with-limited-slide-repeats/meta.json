@@ -1,0 +1,12 @@
+{
+  "title": "Longest Lecture Segment With Limited Slide Repeats",
+  "slug": "longest-lecture-segment-with-limited-slide-repeats",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-05T19:00:36.3123021+00:00"
+}
