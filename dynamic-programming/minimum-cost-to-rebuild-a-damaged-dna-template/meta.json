@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Rebuild a Damaged DNA Template",
+  "slug": "minimum-cost-to-rebuild-a-damaged-dna-template",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string-matching",
+    "trie"
+  ],
+  "generatedAt": "2026-10-05T19:00:47.8628837+00:00"
+}
