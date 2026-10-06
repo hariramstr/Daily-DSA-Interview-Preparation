@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Relays to Secure Every Root-to-Leaf Route",
+  "slug": "minimum-relays-to-secure-every-root-to-leaf-route",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Tree DP",
+    "Postorder Traversal",
+    "Greedy"
+  ],
+  "generatedAt": "2026-10-06T19:01:08.7981238+00:00"
+}
