@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Hop Across Discount Tiles",
+  "slug": "minimum-cost-to-hop-across-discount-tiles",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "bottom-up-dp"
+  ],
+  "generatedAt": "2026-10-06T19:00:51.7718184+00:00"
+}
