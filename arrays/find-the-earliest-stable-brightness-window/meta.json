@@ -1,0 +1,12 @@
+{
+  "title": "Find the Earliest Stable Brightness Window",
+  "slug": "find-the-earliest-stable-brightness-window",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "arrays",
+    "sliding-window",
+    "simulation"
+  ],
+  "generatedAt": "2026-10-07T19:00:53.0691788+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Plan Exam Study Days",
+  "slug": "minimum-cost-to-plan-exam-study-days",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Array",
+    "Memoization"
+  ],
+  "generatedAt": "2026-10-07T19:01:01.6190941+00:00"
+}
