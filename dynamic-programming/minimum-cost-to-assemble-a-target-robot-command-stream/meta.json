@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Assemble a Target Robot Command Stream",
+  "slug": "minimum-cost-to-assemble-a-target-robot-command-stream",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Trie",
+    "String Matching"
+  ],
+  "generatedAt": "2026-10-08T19:00:46.2972794+00:00"
+}
