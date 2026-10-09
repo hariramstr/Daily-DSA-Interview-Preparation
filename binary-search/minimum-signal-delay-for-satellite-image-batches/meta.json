@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Signal Delay for Satellite Image Batches",
+  "slug": "minimum-signal-delay-for-satellite-image-batches",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Monotonic Predicate",
+    "Array"
+  ],
+  "generatedAt": "2026-10-09T19:00:32.7432575+00:00"
+}
