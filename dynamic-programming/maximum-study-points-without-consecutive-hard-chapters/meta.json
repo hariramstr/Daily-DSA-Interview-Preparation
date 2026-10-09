@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Study Points Without Consecutive Hard Chapters",
+  "slug": "maximum-study-points-without-consecutive-hard-chapters",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-10-09T19:00:54.1219902+00:00"
+}

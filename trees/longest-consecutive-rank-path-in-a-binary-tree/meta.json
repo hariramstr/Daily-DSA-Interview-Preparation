@@ -1,0 +1,12 @@
+{
+  "title": "Longest Consecutive Rank Path in a Binary Tree",
+  "slug": "longest-consecutive-rank-path-in-a-binary-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Depth-First Search",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-10-09T19:00:47.9593997+00:00"
+}
