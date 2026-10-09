@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Audience Gain from One Seating Block Swap",
+  "slug": "maximum-audience-gain-from-one-seating-block-swap",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-10-09T19:01:04.5174173+00:00"
+}
