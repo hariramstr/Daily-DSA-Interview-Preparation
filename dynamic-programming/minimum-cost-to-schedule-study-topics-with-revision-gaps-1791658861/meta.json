@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Study Topics With Revision Gaps",
+  "slug": "minimum-cost-to-schedule-study-topics-with-revision-gaps-1791658861",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-compression",
+    "memoization"
+  ],
+  "generatedAt": "2026-10-10T19:01:01.3055586+00:00"
+}
