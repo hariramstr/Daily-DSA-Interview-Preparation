@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Swaps to Group Delayed Flights",
+  "slug": "minimum-swaps-to-group-delayed-flights",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-10T19:00:29.8261405+00:00"
+}
