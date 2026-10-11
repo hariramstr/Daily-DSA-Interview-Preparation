@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Prefix Score After One Value Relocation",
+  "slug": "maximum-prefix-score-after-one-value-relocation",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Greedy"
+  ],
+  "generatedAt": "2026-10-11T19:00:44.5409964+00:00"
+}
