@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Build a Meal Plan with Reuse Discounts",
+  "slug": "minimum-cost-to-build-a-meal-plan-with-reuse-discounts",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "matrix-dp",
+    "optimization"
+  ],
+  "generatedAt": "2026-10-11T19:00:31.1673622+00:00"
+}
