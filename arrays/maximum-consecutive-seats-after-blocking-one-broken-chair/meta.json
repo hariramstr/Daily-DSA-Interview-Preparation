@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Seats After Blocking One Broken Chair",
+  "slug": "maximum-consecutive-seats-after-blocking-one-broken-chair",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-12T19:00:36.8831559+00:00"
+}
