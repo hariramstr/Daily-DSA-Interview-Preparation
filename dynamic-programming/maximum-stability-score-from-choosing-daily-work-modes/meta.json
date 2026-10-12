@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Stability Score from Choosing Daily Work Modes",
+  "slug": "maximum-stability-score-from-choosing-daily-work-modes",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Array",
+    "State Transition"
+  ],
+  "generatedAt": "2026-10-12T19:01:13.0101645+00:00"
+}
