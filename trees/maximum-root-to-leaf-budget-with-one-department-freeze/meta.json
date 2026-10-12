@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Root-to-Leaf Budget With One Department Freeze",
+  "slug": "maximum-root-to-leaf-budget-with-one-department-freeze",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-10-12T19:00:44.9366798+00:00"
+}
