@@ -1,0 +1,12 @@
+{
+  "title": "Closest Badge Pair Across Two Sorted Gates",
+  "slug": "closest-badge-pair-across-two-sorted-gates",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "two-pointers",
+    "array",
+    "sorting"
+  ],
+  "generatedAt": "2026-10-13T19:00:54.5950917+00:00"
+}
