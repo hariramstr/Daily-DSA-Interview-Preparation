@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Ribbon Cut Gain from One Interior Slice",
+  "slug": "maximum-ribbon-cut-gain-from-one-interior-slice",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-10-13T19:01:12.601692+00:00"
+}
