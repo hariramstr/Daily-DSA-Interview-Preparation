@@ -1,0 +1,14 @@
+{
+  "title": "Maximum Emergency Detour Sum in a Hazard Tree",
+  "slug": "maximum-emergency-detour-sum-in-a-hazard-tree",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Sliding Window",
+    "Prefix Sum",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-10-13T19:00:40.3177763+00:00"
+}
