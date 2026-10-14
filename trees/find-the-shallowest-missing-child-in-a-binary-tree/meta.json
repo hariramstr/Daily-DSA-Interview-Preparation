@@ -1,0 +1,12 @@
+{
+  "title": "Find the Shallowest Missing Child in a Binary Tree",
+  "slug": "find-the-shallowest-missing-child-in-a-binary-tree",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Trees",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "generatedAt": "2026-10-14T19:00:58.3515402+00:00"
+}
