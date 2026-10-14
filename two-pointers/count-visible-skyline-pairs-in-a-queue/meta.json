@@ -1,0 +1,12 @@
+{
+  "title": "Count Visible Skyline Pairs in a Queue",
+  "slug": "count-visible-skyline-pairs-in-a-queue",
+  "topic": "Two Pointers",
+  "difficulty": "Hard",
+  "tags": [
+    "Two Pointers",
+    "Monotonic Stack",
+    "Array"
+  ],
+  "generatedAt": "2026-10-14T19:00:51.4079466+00:00"
+}
