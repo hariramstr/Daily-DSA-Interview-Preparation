@@ -1,0 +1,12 @@
+{
+  "title": "Longest Code Review Window With Per-Language Bug Caps",
+  "slug": "longest-code-review-window-with-per-language-bug-caps",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Monotonic Queue"
+  ],
+  "generatedAt": "2026-10-14T19:00:44.3000506+00:00"
+}
