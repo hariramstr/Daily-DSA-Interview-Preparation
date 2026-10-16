@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Relabels to Make Root Paths Increasing",
+  "slug": "minimum-relabels-to-make-root-paths-increasing",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "Dynamic Programming",
+    "DFS"
+  ],
+  "generatedAt": "2026-10-16T19:00:48.1543306+00:00"
+}
