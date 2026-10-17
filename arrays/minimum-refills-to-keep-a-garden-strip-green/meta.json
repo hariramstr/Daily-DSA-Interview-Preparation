@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Refills to Keep a Garden Strip Green",
+  "slug": "minimum-refills-to-keep-a-garden-strip-green",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-10-17T19:00:50.8330858+00:00"
+}
