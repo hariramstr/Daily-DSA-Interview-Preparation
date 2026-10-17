@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Stitch a Banner from Overlapping Slogans",
+  "slug": "minimum-cost-to-stitch-a-banner-from-overlapping-slogans",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "string-matching",
+    "trie"
+  ],
+  "generatedAt": "2026-10-17T19:01:22.6638837+00:00"
+}
