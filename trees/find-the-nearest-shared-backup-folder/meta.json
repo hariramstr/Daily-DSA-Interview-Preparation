@@ -1,0 +1,12 @@
+{
+  "title": "Find the Nearest Shared Backup Folder",
+  "slug": "find-the-nearest-shared-backup-folder",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Lowest Common Ancestor",
+    "Binary Lifting"
+  ],
+  "generatedAt": "2026-10-17T19:00:39.0376396+00:00"
+}
