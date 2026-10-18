@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Days After One Schedule Swap",
+  "slug": "maximum-consecutive-days-after-one-schedule-swap",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-10-18T19:00:42.8163714+00:00"
+}
