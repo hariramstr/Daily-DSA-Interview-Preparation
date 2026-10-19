@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Reward from Alternating Project Types",
+  "slug": "maximum-reward-from-alternating-project-types",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-machine",
+    "array"
+  ],
+  "generatedAt": "2026-10-19T19:00:41.847545+00:00"
+}
