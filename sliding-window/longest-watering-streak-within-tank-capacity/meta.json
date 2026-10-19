@@ -1,0 +1,12 @@
+{
+  "title": "Longest Watering Streak Within Tank Capacity",
+  "slug": "longest-watering-streak-within-tank-capacity",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-19T19:01:24.8585064+00:00"
+}
