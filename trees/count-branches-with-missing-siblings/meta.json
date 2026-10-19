@@ -1,0 +1,12 @@
+{
+  "title": "Count Branches With Missing Siblings",
+  "slug": "count-branches-with-missing-siblings",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Trees",
+    "Binary Tree",
+    "DFS"
+  ],
+  "generatedAt": "2026-10-19T19:01:16.6909789+00:00"
+}
