@@ -1,0 +1,12 @@
+{
+  "title": "Longest Checkout Stretch With One Coupon Reset",
+  "slug": "longest-checkout-stretch-with-one-coupon-reset",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-10-19T19:00:56.7535632+00:00"
+}
