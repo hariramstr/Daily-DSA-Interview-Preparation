@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Recovered Signal by Cutting One Corrupted Branch",
+  "slug": "maximum-recovered-signal-by-cutting-one-corrupted-branch",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "Dynamic Programming",
+    "DFS"
+  ],
+  "generatedAt": "2026-10-20T19:00:57.1869596+00:00"
+}
