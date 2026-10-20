@@ -1,0 +1,12 @@
+{
+  "title": "Longest Translation Draft With Limited Unknown Terms",
+  "slug": "longest-translation-draft-with-limited-unknown-terms",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Set",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-20T19:00:37.0941203+00:00"
+}
