@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Plan Cafeteria Meals with No Same Dish on Consecutive Days",
+  "slug": "minimum-cost-to-plan-cafeteria-meals-with-no-same-dish-on-consecutive-days",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-10-20T19:01:06.0667777+00:00"
+}
