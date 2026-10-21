@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Seats After Filling One Gap",
+  "slug": "maximum-consecutive-seats-after-filling-one-gap",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-21T19:00:35.1290266+00:00"
+}
