@@ -1,0 +1,12 @@
+{
+  "title": "Count Desks with Both Neighbor Teams",
+  "slug": "count-desks-with-both-neighbor-teams",
+  "topic": "Trees",
+  "difficulty": "Easy",
+  "tags": [
+    "Trees",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "generatedAt": "2026-10-21T19:00:58.6624807+00:00"
+}
