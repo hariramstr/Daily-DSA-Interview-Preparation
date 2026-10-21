@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Adjacent Swaps to Cluster VIP Seats",
+  "slug": "minimum-adjacent-swaps-to-cluster-vip-seats",
+  "topic": "Two Pointers",
+  "difficulty": "Hard",
+  "tags": [
+    "Two Pointers",
+    "Prefix Sum",
+    "Median",
+    "Array"
+  ],
+  "generatedAt": "2026-10-21T19:00:50.4490893+00:00"
+}
