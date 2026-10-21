@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Encode a Chord Progression with Reusable Motifs",
+  "slug": "minimum-cost-to-encode-a-chord-progression-with-reusable-motifs",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "Trie",
+    "String Matching"
+  ],
+  "generatedAt": "2026-10-21T19:01:10.2048815+00:00"
+}
