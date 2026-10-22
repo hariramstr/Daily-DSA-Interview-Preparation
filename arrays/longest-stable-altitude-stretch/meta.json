@@ -1,0 +1,12 @@
+{
+  "title": "Longest Stable Altitude Stretch",
+  "slug": "longest-stable-altitude-stretch",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Monotonic Queue"
+  ],
+  "generatedAt": "2026-10-22T19:00:44.5669569+00:00"
+}
