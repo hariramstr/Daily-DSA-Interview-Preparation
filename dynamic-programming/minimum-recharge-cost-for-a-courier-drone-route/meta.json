@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Recharge Cost for a Courier Drone Route",
+  "slug": "minimum-recharge-cost-for-a-courier-drone-route",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Array",
+    "Shortest Path"
+  ],
+  "generatedAt": "2026-10-22T19:00:36.4016241+00:00"
+}
