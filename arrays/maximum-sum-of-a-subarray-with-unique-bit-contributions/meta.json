@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Sum of a Subarray With Unique Bit Contributions",
+  "slug": "maximum-sum-of-a-subarray-with-unique-bit-contributions",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Bit Manipulation"
+  ],
+  "generatedAt": "2026-10-23T19:00:40.742223+00:00"
+}
