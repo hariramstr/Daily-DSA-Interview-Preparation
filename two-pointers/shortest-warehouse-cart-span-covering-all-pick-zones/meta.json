@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Warehouse Cart Span Covering All Pick Zones",
+  "slug": "shortest-warehouse-cart-span-covering-all-pick-zones",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-10-23T19:00:33.3438015+00:00"
+}
