@@ -1,0 +1,12 @@
+{
+  "title": "Find the Earliest Fully Stocked Shelf",
+  "slug": "find-the-earliest-fully-stocked-shelf",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "arrays",
+    "prefix",
+    "simulation"
+  ],
+  "generatedAt": "2026-10-24T19:00:43.5302507+00:00"
+}
