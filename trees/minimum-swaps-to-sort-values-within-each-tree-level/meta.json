@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Swaps to Sort Values Within Each Tree Level",
+  "slug": "minimum-swaps-to-sort-values-within-each-tree-level",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Breadth-First Search",
+    "Sorting"
+  ],
+  "generatedAt": "2026-10-24T19:00:32.0310503+00:00"
+}
