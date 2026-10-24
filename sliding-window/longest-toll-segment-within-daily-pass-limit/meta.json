@@ -1,0 +1,12 @@
+{
+  "title": "Longest Toll Segment Within Daily Pass Limit",
+  "slug": "longest-toll-segment-within-daily-pass-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Heap"
+  ],
+  "generatedAt": "2026-10-24T19:00:59.3078647+00:00"
+}
