@@ -1,0 +1,12 @@
+{
+  "title": "Longest Parcel Belt Stretch With Limited Fragile Items",
+  "slug": "longest-parcel-belt-stretch-with-limited-fragile-items",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Hash Set"
+  ],
+  "generatedAt": "2026-10-25T20:01:09.805713+00:00"
+}
