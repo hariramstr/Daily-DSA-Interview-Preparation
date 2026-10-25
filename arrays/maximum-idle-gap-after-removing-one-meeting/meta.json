@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Idle Gap After Removing One Meeting",
+  "slug": "maximum-idle-gap-after-removing-one-meeting",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Prefix/Suffix"
+  ],
+  "generatedAt": "2026-10-25T20:00:33.3695975+00:00"
+}
