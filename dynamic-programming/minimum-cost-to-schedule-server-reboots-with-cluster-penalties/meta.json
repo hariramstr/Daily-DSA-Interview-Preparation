@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Server Reboots with Cluster Penalties",
+  "slug": "minimum-cost-to-schedule-server-reboots-with-cluster-penalties",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "State Compression",
+    "Array"
+  ],
+  "generatedAt": "2026-10-25T20:00:42.3539704+00:00"
+}
