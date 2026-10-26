@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rest Cost for a Hiking Trail",
+  "slug": "minimum-rest-cost-for-a-hiking-trail",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "1d-dp"
+  ],
+  "generatedAt": "2026-10-26T20:01:05.5814578+00:00"
+}
