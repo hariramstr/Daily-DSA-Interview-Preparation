@@ -1,0 +1,12 @@
+{
+  "title": "Longest Incident Window With Limited Severity Spread",
+  "slug": "longest-incident-window-with-limited-severity-spread",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Deque"
+  ],
+  "generatedAt": "2026-10-26T20:00:57.0830743+00:00"
+}
