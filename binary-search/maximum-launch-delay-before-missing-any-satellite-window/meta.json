@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Launch Delay Before Missing Any Satellite Window",
+  "slug": "maximum-launch-delay-before-missing-any-satellite-window",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "binary-search",
+    "greedy",
+    "prefix-sums"
+  ],
+  "generatedAt": "2026-10-27T20:00:41.5995542+00:00"
+}
