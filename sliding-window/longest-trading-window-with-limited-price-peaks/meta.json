@@ -1,0 +1,12 @@
+{
+  "title": "Longest Trading Window With Limited Price Peaks",
+  "slug": "longest-trading-window-with-limited-price-peaks",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-10-27T20:00:48.2611594+00:00"
+}
