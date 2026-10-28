@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Penalty to Build a Monotone API Rollout Plan",
+  "slug": "minimum-penalty-to-build-a-monotone-api-rollout-plan",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "prefix-minimum",
+    "matrix-dp"
+  ],
+  "generatedAt": "2026-10-28T20:00:50.2291801+00:00"
+}
