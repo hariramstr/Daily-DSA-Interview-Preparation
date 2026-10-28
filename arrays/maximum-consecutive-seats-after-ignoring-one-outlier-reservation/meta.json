@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Seats After Ignoring One Outlier Reservation",
+  "slug": "maximum-consecutive-seats-after-ignoring-one-outlier-reservation",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sorting",
+    "Hash Set"
+  ],
+  "generatedAt": "2026-10-28T20:00:40.9237334+00:00"
+}
