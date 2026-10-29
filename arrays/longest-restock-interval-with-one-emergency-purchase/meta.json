@@ -1,0 +1,12 @@
+{
+  "title": "Longest Restock Interval with One Emergency Purchase",
+  "slug": "longest-restock-interval-with-one-emergency-purchase",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Prefix Sum",
+    "Binary Search"
+  ],
+  "generatedAt": "2026-10-29T20:01:06.5045878+00:00"
+}
