@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Secure Routing Score in a Labeled Tree",
+  "slug": "maximum-secure-routing-score-in-a-labeled-tree",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "Tree DP",
+    "DFS"
+  ],
+  "generatedAt": "2026-10-29T20:00:41.132125+00:00"
+}
