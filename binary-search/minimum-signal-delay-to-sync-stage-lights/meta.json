@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Signal Delay to Sync Stage Lights",
+  "slug": "minimum-signal-delay-to-sync-stage-lights",
+  "topic": "Binary Search",
+  "difficulty": "Medium",
+  "tags": [
+    "Binary Search",
+    "Greedy",
+    "Arrays"
+  ],
+  "generatedAt": "2026-10-30T20:00:57.5989995+00:00"
+}
