@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Plan Alternating Workout Intensities",
+  "slug": "minimum-fatigue-to-plan-alternating-workout-intensities",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Array",
+    "State Transition"
+  ],
+  "generatedAt": "2026-10-30T20:00:49.6589455+00:00"
+}
