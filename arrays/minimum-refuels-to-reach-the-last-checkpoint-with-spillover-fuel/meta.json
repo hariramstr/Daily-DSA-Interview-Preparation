@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Refuels to Reach the Last Checkpoint with Spillover Fuel",
+  "slug": "minimum-refuels-to-reach-the-last-checkpoint-with-spillover-fuel",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Heap"
+  ],
+  "generatedAt": "2026-10-30T20:00:43.1030394+00:00"
+}
