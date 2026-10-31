@@ -1,0 +1,12 @@
+{
+  "title": "Longest Stretch With At Most K Price Resets",
+  "slug": "longest-stretch-with-at-most-k-price-resets",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-10-31T20:00:36.8998275+00:00"
+}

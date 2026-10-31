@@ -1,0 +1,12 @@
+{
+  "title": "Longest Video Call Window With Per-Participant Mute Caps",
+  "slug": "longest-video-call-window-with-per-participant-mute-caps",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-10-31T20:00:44.4485516+00:00"
+}
