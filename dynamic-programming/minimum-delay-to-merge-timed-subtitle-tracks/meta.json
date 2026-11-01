@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Delay to Merge Timed Subtitle Tracks",
+  "slug": "minimum-delay-to-merge-timed-subtitle-tracks",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "strings",
+    "sequence-interleaving"
+  ],
+  "generatedAt": "2026-11-01T20:00:38.0448717+00:00"
+}
