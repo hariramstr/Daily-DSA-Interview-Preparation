@@ -1,0 +1,12 @@
+{
+  "title": "Longest Delivery Streak With Limited Cold Packages",
+  "slug": "longest-delivery-streak-with-limited-cold-packages",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "String"
+  ],
+  "generatedAt": "2026-11-01T20:00:42.8738164+00:00"
+}
