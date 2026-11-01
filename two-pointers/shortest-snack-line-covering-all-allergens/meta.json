@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Snack Line Covering All Allergens",
+  "slug": "shortest-snack-line-covering-all-allergens",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-11-01T20:00:48.6919938+00:00"
+}
