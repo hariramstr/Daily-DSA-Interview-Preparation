@@ -1,0 +1,12 @@
+{
+  "title": "Longest Alternating Turn Path in a Binary Tree",
+  "slug": "longest-alternating-turn-path-in-a-binary-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Depth-First Search",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-11-02T20:00:39.567194+00:00"
+}
