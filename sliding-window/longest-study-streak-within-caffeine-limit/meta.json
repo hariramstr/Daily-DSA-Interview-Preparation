@@ -1,0 +1,12 @@
+{
+  "title": "Longest Study Streak Within Caffeine Limit",
+  "slug": "longest-study-streak-within-caffeine-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-02T20:01:00.3269985+00:00"
+}
