@@ -1,0 +1,12 @@
+{
+  "title": "Longest Gaming Session With Limited Rating Swings",
+  "slug": "longest-gaming-session-with-limited-rating-swings",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Deque"
+  ],
+  "generatedAt": "2026-11-03T20:00:54.794626+00:00"
+}
