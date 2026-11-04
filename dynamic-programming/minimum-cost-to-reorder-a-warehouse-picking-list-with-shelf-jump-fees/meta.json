@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Reorder a Warehouse Picking List with Shelf Jump Fees",
+  "slug": "minimum-cost-to-reorder-a-warehouse-picking-list-with-shelf-jump-fees",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "State Compression",
+    "Prefix/Suffix Optimization"
+  ],
+  "generatedAt": "2026-11-04T20:01:09.5209048+00:00"
+}

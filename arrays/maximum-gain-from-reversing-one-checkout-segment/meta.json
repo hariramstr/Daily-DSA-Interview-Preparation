@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Gain from Reversing One Checkout Segment",
+  "slug": "maximum-gain-from-reversing-one-checkout-segment",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane\u0027s Algorithm"
+  ],
+  "generatedAt": "2026-11-04T20:00:48.1439475+00:00"
+}
