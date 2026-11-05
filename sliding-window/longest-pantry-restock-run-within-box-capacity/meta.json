@@ -1,0 +1,12 @@
+{
+  "title": "Longest Pantry Restock Run Within Box Capacity",
+  "slug": "longest-pantry-restock-run-within-box-capacity",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-05T20:00:57.39691+00:00"
+}
