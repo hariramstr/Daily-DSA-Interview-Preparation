@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Rewrite Cost for Tiered Access Rules",
+  "slug": "minimum-rewrite-cost-for-tiered-access-rules",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "String",
+    "State Compression"
+  ],
+  "generatedAt": "2026-11-05T20:00:51.4864157+00:00"
+}
