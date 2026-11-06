@@ -1,0 +1,12 @@
+{
+  "title": "Longest Pantry Window With At Most K Expired Items",
+  "slug": "longest-pantry-window-with-at-most-k-expired-items",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-06T20:01:17.2533525+00:00"
+}
