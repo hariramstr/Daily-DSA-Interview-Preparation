@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Booth Segment Covering All Payment Methods",
+  "slug": "shortest-booth-segment-covering-all-payment-methods",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-11-06T20:01:11.059366+00:00"
+}

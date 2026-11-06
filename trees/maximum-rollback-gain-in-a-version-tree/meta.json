@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Rollback Gain in a Version Tree",
+  "slug": "maximum-rollback-gain-in-a-version-tree",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "Tree DP",
+    "DFS"
+  ],
+  "generatedAt": "2026-11-06T20:00:56.5302479+00:00"
+}
