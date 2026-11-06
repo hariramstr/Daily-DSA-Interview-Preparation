@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Schedule Study Blocks With Topic Switch Penalties",
+  "slug": "minimum-cost-to-schedule-study-blocks-with-topic-switch-penalties",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "matrix-dp",
+    "optimization"
+  ],
+  "generatedAt": "2026-11-06T20:01:04.9465805+00:00"
+}
