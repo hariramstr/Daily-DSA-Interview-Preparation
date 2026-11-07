@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Secure Relay Score in a Permission Tree",
+  "slug": "maximum-secure-relay-score-in-a-permission-tree",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-11-07T20:00:37.2080039+00:00"
+}

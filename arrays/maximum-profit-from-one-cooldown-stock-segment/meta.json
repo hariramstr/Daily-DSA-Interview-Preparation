@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Profit from One Cooldown Stock Segment",
+  "slug": "maximum-profit-from-one-cooldown-stock-segment",
+  "topic": "Arrays",
+  "difficulty": "Hard",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "State Compression"
+  ],
+  "generatedAt": "2026-11-07T20:00:44.5600821+00:00"
+}
