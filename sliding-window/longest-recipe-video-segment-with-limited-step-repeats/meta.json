@@ -1,0 +1,12 @@
+{
+  "title": "Longest Recipe Video Segment With Limited Step Repeats",
+  "slug": "longest-recipe-video-segment-with-limited-step-repeats",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-07T20:00:50.2046434+00:00"
+}
