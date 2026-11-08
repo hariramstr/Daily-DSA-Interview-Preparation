@@ -1,0 +1,12 @@
+{
+  "title": "Find the Smallest Shared Category Subtree",
+  "slug": "find-the-smallest-shared-category-subtree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Depth-First Search",
+    "Lowest Common Ancestor"
+  ],
+  "generatedAt": "2026-11-08T20:00:54.9243457+00:00"
+}
