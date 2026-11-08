@@ -1,0 +1,12 @@
+{
+  "title": "Longest Snack Stall Run Within Spending Limit",
+  "slug": "longest-snack-stall-run-within-spending-limit",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "tags": [
+    "Sliding Window",
+    "Array",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-08T20:00:47.369052+00:00"
+}
