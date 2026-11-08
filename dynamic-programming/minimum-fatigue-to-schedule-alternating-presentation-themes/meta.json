@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Schedule Alternating Presentation Themes",
+  "slug": "minimum-fatigue-to-schedule-alternating-presentation-themes",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "state-compression",
+    "sequence-dp"
+  ],
+  "generatedAt": "2026-11-08T20:00:33.8879043+00:00"
+}
