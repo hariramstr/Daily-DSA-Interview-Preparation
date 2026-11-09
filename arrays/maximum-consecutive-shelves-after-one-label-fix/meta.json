@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Shelves After One Label Fix",
+  "slug": "maximum-consecutive-shelves-after-one-label-fix",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Prefix/Suffix"
+  ],
+  "generatedAt": "2026-11-09T20:00:37.5802459+00:00"
+}
