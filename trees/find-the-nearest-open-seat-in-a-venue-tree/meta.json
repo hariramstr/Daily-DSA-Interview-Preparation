@@ -1,0 +1,12 @@
+{
+  "title": "Find the Nearest Open Seat in a Venue Tree",
+  "slug": "find-the-nearest-open-seat-in-a-venue-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Breadth-First Search",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-11-10T20:00:39.6081194+00:00"
+}

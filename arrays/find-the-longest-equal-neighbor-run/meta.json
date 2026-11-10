@@ -1,0 +1,12 @@
+{
+  "title": "Find the Longest Equal Neighbor Run",
+  "slug": "find-the-longest-equal-neighbor-run",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "Arrays",
+    "Simulation",
+    "Linear Scan"
+  ],
+  "generatedAt": "2026-11-10T20:00:53.9932873+00:00"
+}

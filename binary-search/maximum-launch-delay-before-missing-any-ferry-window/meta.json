@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Launch Delay Before Missing Any Ferry Window",
+  "slug": "maximum-launch-delay-before-missing-any-ferry-window",
+  "topic": "Binary Search",
+  "difficulty": "Hard",
+  "tags": [
+    "Binary Search",
+    "Simulation",
+    "Monotonic Predicate"
+  ],
+  "generatedAt": "2026-11-10T20:00:47.8754644+00:00"
+}
