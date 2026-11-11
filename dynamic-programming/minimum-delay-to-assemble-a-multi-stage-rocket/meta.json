@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Delay to Assemble a Multi-Stage Rocket",
+  "slug": "minimum-delay-to-assemble-a-multi-stage-rocket",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "prefix-sum"
+  ],
+  "generatedAt": "2026-11-11T20:00:51.9738641+00:00"
+}

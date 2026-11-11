@@ -1,0 +1,12 @@
+{
+  "title": "Longest Toll Segment With Exact Pass Usage",
+  "slug": "longest-toll-segment-with-exact-pass-usage",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-11T20:00:44.3065147+00:00"
+}
