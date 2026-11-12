@@ -1,0 +1,12 @@
+{
+  "title": "Find the Quietest Ancestor Department",
+  "slug": "find-the-quietest-ancestor-department",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-11-12T20:01:17.744892+00:00"
+}
