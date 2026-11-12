@@ -1,0 +1,12 @@
+{
+  "title": "Longest Badge Segment With At Most K Team Switches",
+  "slug": "longest-badge-segment-with-at-most-k-team-switches",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Sliding Window",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-12T20:01:08.5523221+00:00"
+}
