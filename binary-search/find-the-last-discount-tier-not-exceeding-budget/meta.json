@@ -1,0 +1,12 @@
+{
+  "title": "Find the Last Discount Tier Not Exceeding Budget",
+  "slug": "find-the-last-discount-tier-not-exceeding-budget",
+  "topic": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Array",
+    "Sorted Array"
+  ],
+  "generatedAt": "2026-11-12T20:01:00.0883378+00:00"
+}
