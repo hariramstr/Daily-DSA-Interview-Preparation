@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Delay Between Ancestor and Descendant Checkpoints",
+  "slug": "maximum-delay-between-ancestor-and-descendant-checkpoints",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Binary Tree"
+  ],
+  "generatedAt": "2026-11-13T20:00:38.4333034+00:00"
+}
