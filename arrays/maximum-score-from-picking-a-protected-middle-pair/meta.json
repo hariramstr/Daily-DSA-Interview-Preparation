@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Score from Picking a Protected Middle Pair",
+  "slug": "maximum-score-from-picking-a-protected-middle-pair",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Monotonic Stack",
+    "Prefix/Suffix"
+  ],
+  "generatedAt": "2026-11-13T20:00:54.1484775+00:00"
+}
