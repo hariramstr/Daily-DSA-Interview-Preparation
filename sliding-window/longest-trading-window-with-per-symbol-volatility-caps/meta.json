@@ -1,0 +1,12 @@
+{
+  "title": "Longest Trading Window With Per-Symbol Volatility Caps",
+  "slug": "longest-trading-window-with-per-symbol-volatility-caps",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Monotonic Queue"
+  ],
+  "generatedAt": "2026-11-13T20:00:47.0292145+00:00"
+}
