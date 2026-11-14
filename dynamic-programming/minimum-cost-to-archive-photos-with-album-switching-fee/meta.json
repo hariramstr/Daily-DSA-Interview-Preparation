@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Archive Photos with Album Switching Fee",
+  "slug": "minimum-cost-to-archive-photos-with-album-switching-fee",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "dynamic-programming",
+    "state-compression",
+    "sequence-optimization"
+  ],
+  "generatedAt": "2026-11-14T20:00:46.6967529+00:00"
+}
