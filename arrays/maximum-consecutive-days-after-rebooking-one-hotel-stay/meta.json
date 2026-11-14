@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Consecutive Days After Rebooking One Hotel Stay",
+  "slug": "maximum-consecutive-days-after-rebooking-one-hotel-stay",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Greedy",
+    "Prefix/Suffix"
+  ],
+  "generatedAt": "2026-11-14T20:01:00.8058586+00:00"
+}
