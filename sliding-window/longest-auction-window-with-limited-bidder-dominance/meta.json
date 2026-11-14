@@ -1,0 +1,12 @@
+{
+  "title": "Longest Auction Window With Limited Bidder Dominance",
+  "slug": "longest-auction-window-with-limited-bidder-dominance",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-11-14T20:00:30.409636+00:00"
+}
