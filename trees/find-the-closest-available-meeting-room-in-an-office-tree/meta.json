@@ -1,0 +1,12 @@
+{
+  "title": "Find the Closest Available Meeting Room in an Office Tree",
+  "slug": "find-the-closest-available-meeting-room-in-an-office-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-11-14T20:00:38.1675645+00:00"
+}
