@@ -1,0 +1,12 @@
+{
+  "title": "Longest Sensor Window With Coverage Gaps Budget",
+  "slug": "longest-sensor-window-with-coverage-gaps-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-11-15T20:00:40.2131172+00:00"
+}

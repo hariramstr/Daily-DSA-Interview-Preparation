@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Fatigue to Tune a Circular Drum Line",
+  "slug": "minimum-fatigue-to-tune-a-circular-drum-line",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "interval-dp",
+    "circular-array"
+  ],
+  "generatedAt": "2026-11-15T20:01:05.2403391+00:00"
+}
