@@ -1,0 +1,12 @@
+{
+  "title": "Longest Packing Streak With Limited Heavy Boxes",
+  "slug": "longest-packing-streak-with-limited-heavy-boxes",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Subarray"
+  ],
+  "generatedAt": "2026-11-15T20:00:34.0519446+00:00"
+}
