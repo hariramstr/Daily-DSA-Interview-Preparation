@@ -22,12 +22,12 @@ Each problem folder contains:
 
 | Total Problems | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 |:--------------:|:-------:|:---------:|:-------:|
-| **703** | 128 | 368 | 207 |
+| **705** | 128 | 368 | 209 |
 
 ## 🆕 Latest Problems
 
-- [Longest Subtitle Segment Within Reading Burst Limit](sliding-window/longest-subtitle-segment-within-reading-burst-limit/) 🟡 Medium — *Sliding Window*
-- [Minimum Verification Timeout for Batched Signatures](binary-search/minimum-verification-timeout-for-batched-signatures/) 🟡 Medium — *Binary Search*
+- [Minimum Escalations to Meet Boat Departure Deadlines](two-pointers/minimum-escalations-to-meet-boat-departure-deadlines/) 🔴 Hard — *Two Pointers*
+- [Longest Translation Stream With Synonym Budget](sliding-window/longest-translation-stream-with-synonym-budget/) 🔴 Hard — *Sliding Window*
 
 ## 📋 All Problems
 
@@ -628,114 +628,116 @@ Each problem folder contains:
 | 593 | [Longest Transcript Window With Bounded Filler Ratio](sliding-window/longest-transcript-window-with-bounded-filler-ratio/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
 | 594 | [Longest Transcript Window With Speaker Dominance Cap](sliding-window/longest-transcript-window-with-speaker-dominance-cap/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
 | 595 | [Longest Translation Draft With Terminology Budget](sliding-window/longest-translation-draft-with-terminology-budget/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 596 | [Longest Video Call Window With Per-Participant Mute Caps](sliding-window/longest-video-call-window-with-per-participant-mute-caps/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 597 | [Maximum Distinct Flavors in a Circular Tasting Menu](sliding-window/maximum-distinct-flavors-circular-tasting-menu/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 598 | [Shortest Alert Window With Severity Debt](sliding-window/shortest-alert-window-with-severity-debt/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 599 | [Shortest Browser Session Covering Required Domains](sliding-window/shortest-browser-session-covering-required-domains/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 600 | [Shortest Error Burst Covering All Failure Codes](sliding-window/shortest-error-burst-covering-all-failure-codes/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 601 | [Shortest Log Span Covering Error Severities](sliding-window/shortest-log-span-covering-error-severities/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 602 | [Shortest Maintenance Span Covering All Tool Classes](sliding-window/shortest-maintenance-span-covering-all-tool-classes/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 603 | [Shortest Maintenance Window Covering All Critical Servers](sliding-window/shortest-maintenance-window-covering-all-critical-servers/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 604 | [Shortest Market Span Covering All Ad Campaigns](sliding-window/shortest-market-span-covering-all-ad-campaigns/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 605 | [Shortest Playlist Segment With Mood Coverage and Replay Caps](sliding-window/shortest-playlist-segment-with-mood-coverage-and-replay-caps/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 606 | [Shortest Sensor Window Covering Required Device Types](sliding-window/shortest-sensor-window-covering-required-device-types/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 607 | [Shortest Transcript Span Covering Required Keywords with Quotas](sliding-window/shortest-transcript-span-covering-required-keywords-with-quotas/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 608 | [Shortest Transcript Span Covering Speaker Quotas](sliding-window/shortest-transcript-span-covering-speaker-quotas/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
-| 609 | [Simulate a Cafeteria Tray Stack](stacks-and-queues/simulate-cafeteria-tray-stack/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 610 | [Validate Service Desk Callbacks](stacks-and-queues/validate-service-desk-callbacks/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
-| 611 | [Flatten Nested Task Queue](stacks-and-queues/flatten-nested-task-queue/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 612 | [Visible Customers After Each Line Update](stacks-and-queues/visible-customers-after-each-line-update/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
-| 613 | [Count Branches With Equal Child Values](trees/count-branches-with-equal-child-values/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 614 | [Count Branches With Missing Siblings](trees/count-branches-with-missing-siblings/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 615 | [Count Desks with Both Neighbor Teams](trees/count-desks-with-both-neighbor-teams/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 616 | [Count Full Managers in an Org Tree](trees/count-full-managers-in-an-org-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 617 | [Count Leaves at Each Level](trees/count-leaves-at-each-level/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 618 | [Count Managers Above Team Budget](trees/count-managers-above-team-budget/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 619 | [Count Single-Child Checkpoints in a Binary Tree](trees/count-single-child-checkpoints-in-a-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 620 | [Find the First Shelf With Missing Books](trees/find-the-first-shelf-with-missing-books/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 621 | [Find the First Turn Point on a Binary Route](trees/find-the-first-turn-point-on-a-binary-route/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 622 | [Find the First Unbalanced Review Folder](trees/find-the-first-unbalanced-review-folder/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 623 | [Find the Shallowest Missing Child in a Binary Tree](trees/find-the-shallowest-missing-child-in-a-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 624 | [Sum of Cousin Nodes in a Binary Tree](trees/sum-of-cousin-nodes-in-a-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 625 | [Sum of Left Boundary Nodes in Binary Tree](trees/sum-of-left-boundary-nodes-in-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
-| 626 | [Deepest Common Ancestor at Target Depth](trees/deepest-common-ancestor-at-target-depth/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 627 | [Find the Closest Available Meeting Room in an Office Tree](trees/find-the-closest-available-meeting-room-in-an-office-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 628 | [Find the Deepest Leftmost Incomplete Department](trees/find-the-deepest-leftmost-incomplete-department/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 629 | [Find the First Manager Whose Team Size Matches Their Depth](trees/find-the-first-manager-whose-team-size-matches-their-depth/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 630 | [Find the Nearest Open Seat in a Venue Tree](trees/find-the-nearest-open-seat-in-a-venue-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 631 | [Find the Nearest Shared Backup Folder](trees/find-the-nearest-shared-backup-folder/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 632 | [Find the Quietest Ancestor Department](trees/find-the-quietest-ancestor-department/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 633 | [Find the Smallest Shared Category Subtree](trees/find-the-smallest-shared-category-subtree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 634 | [Longest Alternating Turn Path in a Binary Tree](trees/longest-alternating-turn-path-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 635 | [Longest Consecutive Rank Path in a Binary Tree](trees/longest-consecutive-rank-path-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 636 | [Longest Zigzag Turn Path in a Binary Tree](trees/longest-zigzag-turn-path-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 637 | [Maximum Alternating Level Sum in a Binary Tree](trees/maximum-alternating-level-sum-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 638 | [Maximum Delay Between Ancestor and Descendant Checkpoints](trees/maximum-delay-between-ancestor-and-descendant-checkpoints/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 639 | [Maximum Root-to-Leaf Budget With One Department Freeze](trees/maximum-root-to-leaf-budget-with-one-department-freeze/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 640 | [Minimum Cameras to Monitor a Facility Tree](trees/minimum-cameras-to-monitor-a-facility-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 641 | [Minimum Relabels to Sort a Binary Tree by Level](trees/minimum-relabels-to-sort-a-binary-tree-by-level/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 642 | [Minimum Swaps to Sort Values Within Each Tree Level](trees/minimum-swaps-to-sort-values-within-each-tree-level/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
-| 643 | [Maximum Emergency Detour Sum in a Hazard Tree](trees/maximum-emergency-detour-sum-in-a-hazard-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 644 | [Maximum Inherited Budget After One Department Freeze](trees/maximum-inherited-budget-after-one-department-freeze/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 645 | [Maximum Path Score With One Blocked Subtree Bypass](trees/maximum-path-score-with-one-blocked-subtree-bypass/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 646 | [Maximum Recovered Signal by Cutting One Corrupted Branch](trees/maximum-recovered-signal-by-cutting-one-corrupted-branch/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 647 | [Maximum Rollback Gain in a Version Tree](trees/maximum-rollback-gain-in-a-version-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 648 | [Maximum Secure Relay Score in a Permission Tree](trees/maximum-secure-relay-score-in-a-permission-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 649 | [Maximum Secure Routing Score in a Labeled Tree](trees/maximum-secure-routing-score-in-a-labeled-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 650 | [Minimum Relabels to Make Root Paths Increasing](trees/minimum-relabels-to-make-root-paths-increasing/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 651 | [Minimum Relay Upgrades to Stabilize a Signal Tree](trees/minimum-relay-upgrades-to-stabilize-a-signal-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 652 | [Minimum Relays to Seal a Firebreak Tree](trees/minimum-relays-to-seal-a-firebreak-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 653 | [Minimum Relays to Secure Every Root-to-Leaf Route](trees/minimum-relays-to-secure-every-root-to-leaf-route/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
-| 654 | [Prefix Replacement Suggestions](tries/prefix-replacement-suggestions/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
-| 655 | [Wildcard Query Frequency in Log Stream](tries/wildcard-query-frequency-in-log-stream/) | [Tries](tries/) | 🔴 Hard | C# · Python · Java |
-| 656 | [Count Bookend Pairs Under Shelf Length](two-pointers/count-bookend-pairs-under-shelf-length/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 657 | [Count Page Pairs Within Reading Difference](two-pointers/count-page-pairs-within-reading-difference/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 658 | [Match Guests to Spare Umbrellas](two-pointers/match-guests-to-spare-umbrellas/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 659 | [Pair Contestants for a Canoe Ride](two-pointers/pair-contestants-for-a-canoe-ride/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 660 | [Pair Fruits by Combined Freshness Score](two-pointers/pair-fruits-by-combined-freshness-score/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 661 | [Pair Hikers for a Narrow Bridge](two-pointers/pair-hikers-for-a-narrow-bridge/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 662 | [Pair Kayaks for a Calm River](two-pointers/pair-kayaks-for-a-calm-river/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 663 | [Pair Students for a Tandem Study Desk](two-pointers/pair-students-for-a-tandem-study-desk/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
-| 664 | [Closest Badge Pair Across Two Sorted Gates](two-pointers/closest-badge-pair-across-two-sorted-gates/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 665 | [Count Apartment Pairs Within Noise Difference](two-pointers/count-apartment-pairs-within-noise-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 666 | [Count Bin Pairs Within Volume Range](two-pointers/count-bin-pairs-within-volume-range/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 667 | [Count Camera Triples Within Zoom Difference](two-pointers/count-camera-triples-within-zoom-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 668 | [Count Compatible Mentor-Mentee Matches](two-pointers/count-compatible-mentor-mentee-matches/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 669 | [Count Compatible Ski Lift Pairs](two-pointers/count-compatible-ski-lift-pairs/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 670 | [Count Concert Duos Within Stage Width](two-pointers/count-concert-duos-within-stage-width/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 671 | [Count Container Pairs Within Fill Difference](two-pointers/count-container-pairs-within-fill-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 672 | [Count Courier Pairs Within Delivery Radius](two-pointers/count-courier-pairs-within-delivery-radius/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 673 | [Count Docking Slot Pairs Within a Time Limit](two-pointers/count-docking-slot-pairs-within-a-time-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 674 | [Count Drone Pairs Within Charging Difference](two-pointers/count-drone-pairs-within-charging-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 675 | [Count Ferry Passenger Pairs Under Seat Limit](two-pointers/count-ferry-passenger-pairs-under-seat-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 676 | [Count Lifeboat Crews Within Capacity](two-pointers/count-lifeboat-crews-within-capacity/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 677 | [Count Music Track Pairs Within Duration Limit](two-pointers/count-music-track-pairs-within-duration-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 678 | [Count Pairs of Packages Within a Weight Gap](two-pointers/count-pairs-of-packages-within-a-weight-gap/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 679 | [Count Pairs of Photos Within Brightness Budget](two-pointers/count-pairs-of-photos-within-brightness-budget/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 680 | [Count Repair Teams Within Arrival Spread](two-pointers/count-repair-teams-within-arrival-spread/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 681 | [Count Rescue Boat Pairs Within Safe Weight Range](two-pointers/count-rescue-boat-pairs-within-safe-weight-range/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 682 | [Count Router Pairs With Coverage Overlap Limit](two-pointers/count-router-pairs-with-coverage-overlap-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 683 | [Count Shelf Pairs With Exact Width Sum](two-pointers/count-shelf-pairs-with-exact-width-sum/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 684 | [Count Team Pairings Within Experience Gap](two-pointers/count-team-pairings-within-experience-gap/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 685 | [Count Valid Song Duos Under Stage Time](two-pointers/count-valid-song-duos-under-stage-time/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 686 | [Count Warehouse Aisle Pairs Within Walking Distance](two-pointers/count-warehouse-aisle-pairs-within-walking-distance/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 687 | [Maximize Completed Drone Deliveries Before Battery Clash](two-pointers/maximize-completed-drone-deliveries-before-battery-clash/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 688 | [Minimum Rafts to Carry River Hikers](two-pointers/minimum-rafts-to-carry-river-hikers/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 689 | [Pair Gondolas for Minimum Height Imbalance](two-pointers/pair-gondolas-for-minimum-height-imbalance/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 690 | [Pair Guests for a Tandem Zipline](two-pointers/pair-guests-for-a-tandem-zipline/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 691 | [Shortest Booth Segment Covering All Payment Methods](two-pointers/shortest-booth-segment-covering-all-payment-methods/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 692 | [Shortest Snack Line Covering All Allergens](two-pointers/shortest-snack-line-covering-all-allergens/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 693 | [Shortest Sorted Window to Merge Daily Rankings](two-pointers/shortest-sorted-window-to-merge-daily-rankings/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 694 | [Shortest Warehouse Cart Span Covering All Pick Zones](two-pointers/shortest-warehouse-cart-span-covering-all-pick-zones/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 695 | [Squeeze Water Between Walls](two-pointers/squeeze-water-between-walls/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
-| 696 | [Count Ferry Crossings Within Tide Difference](two-pointers/count-ferry-crossings-within-tide-difference/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 697 | [Count Visible Skyline Pairs in a Queue](two-pointers/count-visible-skyline-pairs-in-a-queue/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 698 | [Count WiFi Router Pairs Covering a Hallway](two-pointers/count-wifi-router-pairs-covering-a-hallway/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 699 | [Maximum Bookshelf Span With End-Height Budget](two-pointers/maximum-bookshelf-span-with-end-height-budget/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 700 | [Maximum Matched Crates After One Dock Extension](two-pointers/maximum-matched-crates-after-one-dock-extension/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 701 | [Maximum Revenue from Pairing Premium and Standard Seats](two-pointers/maximum-revenue-from-pairing-premium-and-standard-seats/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 702 | [Maximum Scenic Pairing Distance Under Elevation Budget](two-pointers/maximum-scenic-pairing-distance-under-elevation-budget/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
-| 703 | [Minimum Adjacent Swaps to Cluster VIP Seats](two-pointers/minimum-adjacent-swaps-to-cluster-vip-seats/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 596 | [Longest Translation Stream With Synonym Budget](sliding-window/longest-translation-stream-with-synonym-budget/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 597 | [Longest Video Call Window With Per-Participant Mute Caps](sliding-window/longest-video-call-window-with-per-participant-mute-caps/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 598 | [Maximum Distinct Flavors in a Circular Tasting Menu](sliding-window/maximum-distinct-flavors-circular-tasting-menu/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 599 | [Shortest Alert Window With Severity Debt](sliding-window/shortest-alert-window-with-severity-debt/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 600 | [Shortest Browser Session Covering Required Domains](sliding-window/shortest-browser-session-covering-required-domains/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 601 | [Shortest Error Burst Covering All Failure Codes](sliding-window/shortest-error-burst-covering-all-failure-codes/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 602 | [Shortest Log Span Covering Error Severities](sliding-window/shortest-log-span-covering-error-severities/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 603 | [Shortest Maintenance Span Covering All Tool Classes](sliding-window/shortest-maintenance-span-covering-all-tool-classes/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 604 | [Shortest Maintenance Window Covering All Critical Servers](sliding-window/shortest-maintenance-window-covering-all-critical-servers/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 605 | [Shortest Market Span Covering All Ad Campaigns](sliding-window/shortest-market-span-covering-all-ad-campaigns/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 606 | [Shortest Playlist Segment With Mood Coverage and Replay Caps](sliding-window/shortest-playlist-segment-with-mood-coverage-and-replay-caps/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 607 | [Shortest Sensor Window Covering Required Device Types](sliding-window/shortest-sensor-window-covering-required-device-types/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 608 | [Shortest Transcript Span Covering Required Keywords with Quotas](sliding-window/shortest-transcript-span-covering-required-keywords-with-quotas/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 609 | [Shortest Transcript Span Covering Speaker Quotas](sliding-window/shortest-transcript-span-covering-speaker-quotas/) | [Sliding Window](sliding-window/) | 🔴 Hard | C# · Python · Java |
+| 610 | [Simulate a Cafeteria Tray Stack](stacks-and-queues/simulate-cafeteria-tray-stack/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 611 | [Validate Service Desk Callbacks](stacks-and-queues/validate-service-desk-callbacks/) | [Stacks and Queues](stacks-and-queues/) | 🟢 Easy | C# · Python · Java |
+| 612 | [Flatten Nested Task Queue](stacks-and-queues/flatten-nested-task-queue/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 613 | [Visible Customers After Each Line Update](stacks-and-queues/visible-customers-after-each-line-update/) | [Stacks and Queues](stacks-and-queues/) | 🟡 Medium | C# · Python · Java |
+| 614 | [Count Branches With Equal Child Values](trees/count-branches-with-equal-child-values/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 615 | [Count Branches With Missing Siblings](trees/count-branches-with-missing-siblings/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 616 | [Count Desks with Both Neighbor Teams](trees/count-desks-with-both-neighbor-teams/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 617 | [Count Full Managers in an Org Tree](trees/count-full-managers-in-an-org-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 618 | [Count Leaves at Each Level](trees/count-leaves-at-each-level/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 619 | [Count Managers Above Team Budget](trees/count-managers-above-team-budget/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 620 | [Count Single-Child Checkpoints in a Binary Tree](trees/count-single-child-checkpoints-in-a-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 621 | [Find the First Shelf With Missing Books](trees/find-the-first-shelf-with-missing-books/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 622 | [Find the First Turn Point on a Binary Route](trees/find-the-first-turn-point-on-a-binary-route/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 623 | [Find the First Unbalanced Review Folder](trees/find-the-first-unbalanced-review-folder/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 624 | [Find the Shallowest Missing Child in a Binary Tree](trees/find-the-shallowest-missing-child-in-a-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 625 | [Sum of Cousin Nodes in a Binary Tree](trees/sum-of-cousin-nodes-in-a-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 626 | [Sum of Left Boundary Nodes in Binary Tree](trees/sum-of-left-boundary-nodes-in-binary-tree/) | [Trees](trees/) | 🟢 Easy | C# · Python · Java |
+| 627 | [Deepest Common Ancestor at Target Depth](trees/deepest-common-ancestor-at-target-depth/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 628 | [Find the Closest Available Meeting Room in an Office Tree](trees/find-the-closest-available-meeting-room-in-an-office-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 629 | [Find the Deepest Leftmost Incomplete Department](trees/find-the-deepest-leftmost-incomplete-department/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 630 | [Find the First Manager Whose Team Size Matches Their Depth](trees/find-the-first-manager-whose-team-size-matches-their-depth/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 631 | [Find the Nearest Open Seat in a Venue Tree](trees/find-the-nearest-open-seat-in-a-venue-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 632 | [Find the Nearest Shared Backup Folder](trees/find-the-nearest-shared-backup-folder/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 633 | [Find the Quietest Ancestor Department](trees/find-the-quietest-ancestor-department/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 634 | [Find the Smallest Shared Category Subtree](trees/find-the-smallest-shared-category-subtree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 635 | [Longest Alternating Turn Path in a Binary Tree](trees/longest-alternating-turn-path-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 636 | [Longest Consecutive Rank Path in a Binary Tree](trees/longest-consecutive-rank-path-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 637 | [Longest Zigzag Turn Path in a Binary Tree](trees/longest-zigzag-turn-path-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 638 | [Maximum Alternating Level Sum in a Binary Tree](trees/maximum-alternating-level-sum-in-a-binary-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 639 | [Maximum Delay Between Ancestor and Descendant Checkpoints](trees/maximum-delay-between-ancestor-and-descendant-checkpoints/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 640 | [Maximum Root-to-Leaf Budget With One Department Freeze](trees/maximum-root-to-leaf-budget-with-one-department-freeze/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 641 | [Minimum Cameras to Monitor a Facility Tree](trees/minimum-cameras-to-monitor-a-facility-tree/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 642 | [Minimum Relabels to Sort a Binary Tree by Level](trees/minimum-relabels-to-sort-a-binary-tree-by-level/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 643 | [Minimum Swaps to Sort Values Within Each Tree Level](trees/minimum-swaps-to-sort-values-within-each-tree-level/) | [Trees](trees/) | 🟡 Medium | C# · Python · Java |
+| 644 | [Maximum Emergency Detour Sum in a Hazard Tree](trees/maximum-emergency-detour-sum-in-a-hazard-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 645 | [Maximum Inherited Budget After One Department Freeze](trees/maximum-inherited-budget-after-one-department-freeze/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 646 | [Maximum Path Score With One Blocked Subtree Bypass](trees/maximum-path-score-with-one-blocked-subtree-bypass/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 647 | [Maximum Recovered Signal by Cutting One Corrupted Branch](trees/maximum-recovered-signal-by-cutting-one-corrupted-branch/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 648 | [Maximum Rollback Gain in a Version Tree](trees/maximum-rollback-gain-in-a-version-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 649 | [Maximum Secure Relay Score in a Permission Tree](trees/maximum-secure-relay-score-in-a-permission-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 650 | [Maximum Secure Routing Score in a Labeled Tree](trees/maximum-secure-routing-score-in-a-labeled-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 651 | [Minimum Relabels to Make Root Paths Increasing](trees/minimum-relabels-to-make-root-paths-increasing/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 652 | [Minimum Relay Upgrades to Stabilize a Signal Tree](trees/minimum-relay-upgrades-to-stabilize-a-signal-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 653 | [Minimum Relays to Seal a Firebreak Tree](trees/minimum-relays-to-seal-a-firebreak-tree/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 654 | [Minimum Relays to Secure Every Root-to-Leaf Route](trees/minimum-relays-to-secure-every-root-to-leaf-route/) | [Trees](trees/) | 🔴 Hard | C# · Python · Java |
+| 655 | [Prefix Replacement Suggestions](tries/prefix-replacement-suggestions/) | [Tries](tries/) | 🟡 Medium | C# · Python · Java |
+| 656 | [Wildcard Query Frequency in Log Stream](tries/wildcard-query-frequency-in-log-stream/) | [Tries](tries/) | 🔴 Hard | C# · Python · Java |
+| 657 | [Count Bookend Pairs Under Shelf Length](two-pointers/count-bookend-pairs-under-shelf-length/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 658 | [Count Page Pairs Within Reading Difference](two-pointers/count-page-pairs-within-reading-difference/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 659 | [Match Guests to Spare Umbrellas](two-pointers/match-guests-to-spare-umbrellas/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 660 | [Pair Contestants for a Canoe Ride](two-pointers/pair-contestants-for-a-canoe-ride/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 661 | [Pair Fruits by Combined Freshness Score](two-pointers/pair-fruits-by-combined-freshness-score/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 662 | [Pair Hikers for a Narrow Bridge](two-pointers/pair-hikers-for-a-narrow-bridge/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 663 | [Pair Kayaks for a Calm River](two-pointers/pair-kayaks-for-a-calm-river/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 664 | [Pair Students for a Tandem Study Desk](two-pointers/pair-students-for-a-tandem-study-desk/) | [Two Pointers](two-pointers/) | 🟢 Easy | C# · Python · Java |
+| 665 | [Closest Badge Pair Across Two Sorted Gates](two-pointers/closest-badge-pair-across-two-sorted-gates/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 666 | [Count Apartment Pairs Within Noise Difference](two-pointers/count-apartment-pairs-within-noise-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 667 | [Count Bin Pairs Within Volume Range](two-pointers/count-bin-pairs-within-volume-range/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 668 | [Count Camera Triples Within Zoom Difference](two-pointers/count-camera-triples-within-zoom-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 669 | [Count Compatible Mentor-Mentee Matches](two-pointers/count-compatible-mentor-mentee-matches/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 670 | [Count Compatible Ski Lift Pairs](two-pointers/count-compatible-ski-lift-pairs/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 671 | [Count Concert Duos Within Stage Width](two-pointers/count-concert-duos-within-stage-width/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 672 | [Count Container Pairs Within Fill Difference](two-pointers/count-container-pairs-within-fill-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 673 | [Count Courier Pairs Within Delivery Radius](two-pointers/count-courier-pairs-within-delivery-radius/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 674 | [Count Docking Slot Pairs Within a Time Limit](two-pointers/count-docking-slot-pairs-within-a-time-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 675 | [Count Drone Pairs Within Charging Difference](two-pointers/count-drone-pairs-within-charging-difference/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 676 | [Count Ferry Passenger Pairs Under Seat Limit](two-pointers/count-ferry-passenger-pairs-under-seat-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 677 | [Count Lifeboat Crews Within Capacity](two-pointers/count-lifeboat-crews-within-capacity/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 678 | [Count Music Track Pairs Within Duration Limit](two-pointers/count-music-track-pairs-within-duration-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 679 | [Count Pairs of Packages Within a Weight Gap](two-pointers/count-pairs-of-packages-within-a-weight-gap/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 680 | [Count Pairs of Photos Within Brightness Budget](two-pointers/count-pairs-of-photos-within-brightness-budget/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 681 | [Count Repair Teams Within Arrival Spread](two-pointers/count-repair-teams-within-arrival-spread/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 682 | [Count Rescue Boat Pairs Within Safe Weight Range](two-pointers/count-rescue-boat-pairs-within-safe-weight-range/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 683 | [Count Router Pairs With Coverage Overlap Limit](two-pointers/count-router-pairs-with-coverage-overlap-limit/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 684 | [Count Shelf Pairs With Exact Width Sum](two-pointers/count-shelf-pairs-with-exact-width-sum/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 685 | [Count Team Pairings Within Experience Gap](two-pointers/count-team-pairings-within-experience-gap/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 686 | [Count Valid Song Duos Under Stage Time](two-pointers/count-valid-song-duos-under-stage-time/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 687 | [Count Warehouse Aisle Pairs Within Walking Distance](two-pointers/count-warehouse-aisle-pairs-within-walking-distance/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 688 | [Maximize Completed Drone Deliveries Before Battery Clash](two-pointers/maximize-completed-drone-deliveries-before-battery-clash/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 689 | [Minimum Rafts to Carry River Hikers](two-pointers/minimum-rafts-to-carry-river-hikers/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 690 | [Pair Gondolas for Minimum Height Imbalance](two-pointers/pair-gondolas-for-minimum-height-imbalance/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 691 | [Pair Guests for a Tandem Zipline](two-pointers/pair-guests-for-a-tandem-zipline/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 692 | [Shortest Booth Segment Covering All Payment Methods](two-pointers/shortest-booth-segment-covering-all-payment-methods/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 693 | [Shortest Snack Line Covering All Allergens](two-pointers/shortest-snack-line-covering-all-allergens/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 694 | [Shortest Sorted Window to Merge Daily Rankings](two-pointers/shortest-sorted-window-to-merge-daily-rankings/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 695 | [Shortest Warehouse Cart Span Covering All Pick Zones](two-pointers/shortest-warehouse-cart-span-covering-all-pick-zones/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 696 | [Squeeze Water Between Walls](two-pointers/squeeze-water-between-walls/) | [Two Pointers](two-pointers/) | 🟡 Medium | C# · Python · Java |
+| 697 | [Count Ferry Crossings Within Tide Difference](two-pointers/count-ferry-crossings-within-tide-difference/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 698 | [Count Visible Skyline Pairs in a Queue](two-pointers/count-visible-skyline-pairs-in-a-queue/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 699 | [Count WiFi Router Pairs Covering a Hallway](two-pointers/count-wifi-router-pairs-covering-a-hallway/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 700 | [Maximum Bookshelf Span With End-Height Budget](two-pointers/maximum-bookshelf-span-with-end-height-budget/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 701 | [Maximum Matched Crates After One Dock Extension](two-pointers/maximum-matched-crates-after-one-dock-extension/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 702 | [Maximum Revenue from Pairing Premium and Standard Seats](two-pointers/maximum-revenue-from-pairing-premium-and-standard-seats/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 703 | [Maximum Scenic Pairing Distance Under Elevation Budget](two-pointers/maximum-scenic-pairing-distance-under-elevation-budget/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 704 | [Minimum Adjacent Swaps to Cluster VIP Seats](two-pointers/minimum-adjacent-swaps-to-cluster-vip-seats/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
+| 705 | [Minimum Escalations to Meet Boat Departure Deadlines](two-pointers/minimum-escalations-to-meet-boat-departure-deadlines/) | [Two Pointers](two-pointers/) | 🔴 Hard | C# · Python · Java |
 
 ## 📚 Problems by Topic
 
@@ -861,8 +863,9 @@ Each problem folder contains:
 - [Generate All Valid Bracket Colorings](recursion-and-backtracking/generate-all-valid-bracket-colorings/) 🟢 Easy
 - [Generate All Valid PIN Patterns](recursion-and-backtracking/generate-all-valid-pin-patterns/) 🟢 Easy
 
-### Sliding Window *(113 problems)*
+### Sliding Window *(114 problems)*
 
+- [Longest Translation Stream With Synonym Budget](sliding-window/longest-translation-stream-with-synonym-budget/) 🔴 Hard
 - [Longest Subtitle Segment Within Reading Burst Limit](sliding-window/longest-subtitle-segment-within-reading-burst-limit/) 🟡 Medium
 - [Longest Sensor Window With Coverage Gaps Budget](sliding-window/longest-sensor-window-with-coverage-gaps-budget/) 🔴 Hard
 - [Longest Auction Window With Limited Bidder Dominance](sliding-window/longest-auction-window-with-limited-bidder-dominance/) 🔴 Hard
@@ -872,8 +875,7 @@ Each problem folder contains:
 - [Longest Pantry Window With At Most K Expired Items](sliding-window/longest-pantry-window-with-at-most-k-expired-items/) 🟢 Easy
 - [Longest Pantry Restock Run Within Box Capacity](sliding-window/longest-pantry-restock-run-within-box-capacity/) 🟢 Easy
 - [Longest Snack Cart Run Within Sodium Limit](sliding-window/longest-snack-cart-run-within-sodium-limit/) 🟡 Medium
-- [Longest Gaming Session With Limited Rating Swings](sliding-window/longest-gaming-session-with-limited-rating-swings/) 🟡 Medium
-- *...and 103 more — browse [`sliding-window/`](sliding-window/)*
+- *...and 104 more — browse [`sliding-window/`](sliding-window/)*
 
 ### Stacks and Queues *(4 problems)*
 
@@ -901,8 +903,9 @@ Each problem folder contains:
 - [Prefix Replacement Suggestions](tries/prefix-replacement-suggestions/) 🟡 Medium
 - [Wildcard Query Frequency in Log Stream](tries/wildcard-query-frequency-in-log-stream/) 🔴 Hard
 
-### Two Pointers *(48 problems)*
+### Two Pointers *(49 problems)*
 
+- [Minimum Escalations to Meet Boat Departure Deadlines](two-pointers/minimum-escalations-to-meet-boat-departure-deadlines/) 🔴 Hard
 - [Count Courier Pairs Within Delivery Radius](two-pointers/count-courier-pairs-within-delivery-radius/) 🟡 Medium
 - [Pair Students for a Tandem Study Desk](two-pointers/pair-students-for-a-tandem-study-desk/) 🟢 Easy
 - [Maximum Bookshelf Span With End-Height Budget](two-pointers/maximum-bookshelf-span-with-end-height-budget/) 🔴 Hard
@@ -912,8 +915,7 @@ Each problem folder contains:
 - [Pair Kayaks for a Calm River](two-pointers/pair-kayaks-for-a-calm-river/) 🟢 Easy
 - [Pair Hikers for a Narrow Bridge](two-pointers/pair-hikers-for-a-narrow-bridge/) 🟢 Easy
 - [Shortest Snack Line Covering All Allergens](two-pointers/shortest-snack-line-covering-all-allergens/) 🟡 Medium
-- [Minimum Rafts to Carry River Hikers](two-pointers/minimum-rafts-to-carry-river-hikers/) 🟡 Medium
-- *...and 38 more — browse [`two-pointers/`](two-pointers/)*
+- *...and 39 more — browse [`two-pointers/`](two-pointers/)*
 
 ---
 
@@ -927,4 +929,4 @@ The `README.md` also includes a step-by-step algorithm walkthrough and complexit
 
 ---
 
-*Last updated: 2026-11-16 · 703 problems across 15 topics*
+*Last updated: 2026-11-17 · 705 problems across 15 topics*
