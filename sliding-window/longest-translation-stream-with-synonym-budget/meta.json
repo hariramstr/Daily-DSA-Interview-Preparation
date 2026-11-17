@@ -1,0 +1,12 @@
+{
+  "title": "Longest Translation Stream With Synonym Budget",
+  "slug": "longest-translation-stream-with-synonym-budget",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Frequency Counting"
+  ],
+  "generatedAt": "2026-11-17T20:00:56.4663707+00:00"
+}
