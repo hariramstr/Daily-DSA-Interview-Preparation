@@ -1,0 +1,14 @@
+{
+  "title": "Minimum Penalty to Compress a Sensor Timeline with Drift Caps",
+  "slug": "minimum-penalty-to-compress-a-sensor-timeline-with-drift-caps",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "partition-dp",
+    "median",
+    "range-constraints",
+    "prefix-optimization"
+  ],
+  "generatedAt": "2026-11-18T20:00:41.4539942+00:00"
+}

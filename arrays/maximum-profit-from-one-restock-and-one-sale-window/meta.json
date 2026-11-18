@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Profit from One Restock and One Sale Window",
+  "slug": "maximum-profit-from-one-restock-and-one-sale-window",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-11-18T20:00:48.2111302+00:00"
+}
