@@ -1,0 +1,12 @@
+{
+  "title": "Longest Podcast Queue Within Download Cap",
+  "slug": "longest-podcast-queue-within-download-cap",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Two Pointers",
+    "Array"
+  ],
+  "generatedAt": "2026-11-19T20:01:05.9272109+00:00"
+}
