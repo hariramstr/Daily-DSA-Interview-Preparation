@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost to Stabilize a Conveyor Belt with Optional Buffer Pads",
+  "slug": "minimum-cost-to-stabilize-a-conveyor-belt-with-optional-buffer-pads",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-11-19T20:00:50.9012891+00:00"
+}
