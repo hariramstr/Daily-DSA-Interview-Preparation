@@ -1,0 +1,12 @@
+{
+  "title": "Longest Playlist Window With Limited Tempo Drift",
+  "slug": "longest-playlist-window-with-limited-tempo-drift",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Array"
+  ],
+  "generatedAt": "2026-11-20T20:01:07.4688426+00:00"
+}
