@@ -1,0 +1,12 @@
+{
+  "title": "Shortest Recipe Span Covering All Required Ingredients",
+  "slug": "shortest-recipe-span-covering-all-required-ingredients",
+  "topic": "Two Pointers",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "Sliding Window",
+    "Hash Map"
+  ],
+  "generatedAt": "2026-11-20T20:01:14.221438+00:00"
+}

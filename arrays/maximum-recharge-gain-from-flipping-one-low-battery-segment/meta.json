@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Recharge Gain from Flipping One Low-Battery Segment",
+  "slug": "maximum-recharge-gain-from-flipping-one-low-battery-segment",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Kadane\u0027s Algorithm",
+    "Dynamic Programming"
+  ],
+  "generatedAt": "2026-11-20T20:00:53.7851592+00:00"
+}

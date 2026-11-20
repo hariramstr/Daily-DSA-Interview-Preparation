@@ -1,0 +1,12 @@
+{
+  "title": "Longest Consecutive Approval Chain in an Org Tree",
+  "slug": "longest-consecutive-approval-chain-in-an-org-tree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Binary Tree"
+  ],
+  "generatedAt": "2026-11-20T20:00:40.3190035+00:00"
+}
