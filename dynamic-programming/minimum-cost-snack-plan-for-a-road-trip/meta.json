@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Cost Snack Plan for a Road Trip",
+  "slug": "minimum-cost-snack-plan-for-a-road-trip",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "state-transition"
+  ],
+  "generatedAt": "2026-11-21T20:00:49.075287+00:00"
+}

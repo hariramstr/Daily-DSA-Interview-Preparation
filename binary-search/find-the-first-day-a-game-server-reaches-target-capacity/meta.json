@@ -1,0 +1,12 @@
+{
+  "title": "Find the First Day a Game Server Reaches Target Capacity",
+  "slug": "find-the-first-day-a-game-server-reaches-target-capacity",
+  "topic": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Array",
+    "Lower Bound"
+  ],
+  "generatedAt": "2026-11-21T20:00:53.3042528+00:00"
+}

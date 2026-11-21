@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Net Gain from One Interior Coupon Burst",
+  "slug": "maximum-net-gain-from-one-interior-coupon-burst",
+  "topic": "Arrays",
+  "difficulty": "Medium",
+  "tags": [
+    "Arrays",
+    "Dynamic Programming",
+    "Kadane Variant"
+  ],
+  "generatedAt": "2026-11-21T20:00:41.4612959+00:00"
+}

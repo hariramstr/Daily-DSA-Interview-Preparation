@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Toll Collected by Closing One Ancestral Gate",
+  "slug": "maximum-toll-collected-by-closing-one-ancestral-gate",
+  "topic": "Trees",
+  "difficulty": "Hard",
+  "tags": [
+    "Trees",
+    "Tree DP",
+    "DFS"
+  ],
+  "generatedAt": "2026-11-21T20:01:09.8629158+00:00"
+}
