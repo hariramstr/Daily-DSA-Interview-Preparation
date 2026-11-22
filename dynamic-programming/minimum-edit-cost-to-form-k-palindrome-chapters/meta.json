@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Edit Cost to Form K Palindrome Chapters",
+  "slug": "minimum-edit-cost-to-form-k-palindrome-chapters",
+  "topic": "Dynamic Programming",
+  "difficulty": "Hard",
+  "tags": [
+    "Dynamic Programming",
+    "String",
+    "Interval DP"
+  ],
+  "generatedAt": "2026-11-22T20:00:42.5648788+00:00"
+}
