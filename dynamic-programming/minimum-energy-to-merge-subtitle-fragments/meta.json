@@ -1,0 +1,12 @@
+{
+  "title": "Minimum Energy to Merge Subtitle Fragments",
+  "slug": "minimum-energy-to-merge-subtitle-fragments",
+  "topic": "Dynamic Programming",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Interval DP",
+    "Prefix Sum"
+  ],
+  "generatedAt": "2026-11-23T20:01:14.8964513+00:00"
+}
