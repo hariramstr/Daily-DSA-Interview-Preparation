@@ -1,0 +1,12 @@
+{
+  "title": "Longest Snack Stall Run with Limited Freshness Range",
+  "slug": "longest-snack-stall-run-with-limited-freshness-range-2",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Monotonic Queue",
+    "Array"
+  ],
+  "generatedAt": "2026-11-23T20:01:23.1458386+00:00"
+}
