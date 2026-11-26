@@ -1,0 +1,12 @@
+{
+  "title": "Locate Customer Tier by Spend Threshold",
+  "slug": "locate-customer-tier-by-spend-threshold",
+  "topic": "Binary Search",
+  "difficulty": "Easy",
+  "tags": [
+    "binary-search",
+    "array",
+    "search"
+  ],
+  "generatedAt": "2026-11-26T20:01:04.7932312+00:00"
+}

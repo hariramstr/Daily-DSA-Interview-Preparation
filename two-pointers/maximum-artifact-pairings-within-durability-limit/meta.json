@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Artifact Pairings Within Durability Limit",
+  "slug": "maximum-artifact-pairings-within-durability-limit",
+  "topic": "Two Pointers",
+  "difficulty": "Hard",
+  "tags": [
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "generatedAt": "2026-11-26T20:00:39.461139+00:00"
+}

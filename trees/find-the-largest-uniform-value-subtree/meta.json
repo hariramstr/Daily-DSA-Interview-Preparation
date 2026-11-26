@@ -1,0 +1,12 @@
+{
+  "title": "Find the Largest Uniform-Value Subtree",
+  "slug": "find-the-largest-uniform-value-subtree",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "Depth-First Search",
+    "Postorder Traversal"
+  ],
+  "generatedAt": "2026-11-26T20:01:10.2470684+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Maximum Reward from Adjacent Booth Visits",
+  "slug": "maximum-reward-from-adjacent-booth-visits",
+  "topic": "Dynamic Programming",
+  "difficulty": "Easy",
+  "tags": [
+    "dynamic-programming",
+    "array",
+    "optimization"
+  ],
+  "generatedAt": "2026-11-26T20:00:57.009143+00:00"
+}
