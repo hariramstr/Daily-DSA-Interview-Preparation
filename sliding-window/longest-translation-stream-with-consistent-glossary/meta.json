@@ -1,0 +1,12 @@
+{
+  "title": "Longest Translation Stream With Consistent Glossary",
+  "slug": "longest-translation-stream-with-consistent-glossary",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "tags": [
+    "Sliding Window",
+    "Hash Map",
+    "Two Pointers"
+  ],
+  "generatedAt": "2026-11-27T20:00:42.6548151+00:00"
+}
