@@ -1,0 +1,12 @@
+{
+  "title": "Find the Deepest Fully Budgeted Project Node",
+  "slug": "find-the-deepest-fully-budgeted-project-node",
+  "topic": "Trees",
+  "difficulty": "Medium",
+  "tags": [
+    "Trees",
+    "DFS",
+    "Postorder Traversal"
+  ],
+  "generatedAt": "2026-11-27T20:01:00.6351049+00:00"
+}

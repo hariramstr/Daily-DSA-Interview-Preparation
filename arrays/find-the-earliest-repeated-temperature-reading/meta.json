@@ -1,0 +1,12 @@
+{
+  "title": "Find the Earliest Repeated Temperature Reading",
+  "slug": "find-the-earliest-repeated-temperature-reading",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "tags": [
+    "Arrays",
+    "Hash Set",
+    "Simulation"
+  ],
+  "generatedAt": "2026-11-27T20:00:52.7163348+00:00"
+}
